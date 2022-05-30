@@ -1,0 +1,1227 @@
+﻿Log file open, 05/30/22 17:35:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Display: Found Pak file ../../../thirdpersonvr/Content/Paks/thirdpersonvr-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../thirdpersonvr/Content/Paks/thirdpersonvr-WindowsNoEditor.pak.
+LogPakFile: PakFile PrimaryIndexSize=337246
+LogPakFile: PakFile PathHashIndexSize=152582
+LogPakFile: PakFile FullDirectoryIndexSize=398463
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '../../../thirdpersonvr/Content/Paks/thirdpersonvr-WindowsNoEditor.pak' (chunk index -1, root '../../../') mounted
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:../../../ File:../../../thirdpersonvr/Content/Paks/thirdpersonvr-WindowsNoEditor.pak)
+LogPakFile: OnPakFileMounted2Time == 0.000040
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.110902
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin AppleARKitFaceSupport
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ARUtilities
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PixelStreaming
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin HardwareEncoders
+LogPluginManager: Mounting plugin RigLogic
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin LiveLinkControlRig
+LogPluginManager: Mounting plugin SequencerScripting
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin HairStrands
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin VaRest
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogWindows: Failed to load 'amfrt64.dll' (GetLastError=126)
+LogWindows: File 'amfrt64.dll' does not exist
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogD3D11RHI: D3D11 min allowed feature level: 11_0
+LogD3D11RHI: D3D11 max allowed feature level: 11_0
+LogD3D11RHI: D3D11 adapters:
+LogD3D11RHI:    0. 'NVIDIA Tesla T4' (Feature Level 11_0)
+LogD3D11RHI:       15158/0/16148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+LogD3D11RHI:       0/0/16148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+LogD3D11RHI:       0/0/16148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+LogD3D11RHI: Chosen D3D11 Adapter:
+LogD3D11RHI:     Description : NVIDIA Tesla T4
+LogD3D11RHI:     VendorId    : 10de
+LogD3D11RHI:     DeviceId    : 1eb8
+LogD3D11RHI:     SubSysId    : 12a210de
+LogD3D11RHI:     Revision    : 00a1
+LogD3D11RHI:     DedicatedVideoMemory : 15894437888 bytes
+LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+LogD3D11RHI:     SharedSystemMemory : 16933203968 bytes
+LogD3D11RHI:     AdapterLuid : 0 21196
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows Server 2019 (Release 1809) (), CPU: Intel(R) Xeon(R) Platinum 8259CL CPU @ 2.50GHz, GPU: NVIDIA Tesla T4
+LogInit: Compiled (64-bit): Nov 30 2021 07:26:28
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -AudioMixer -PixelStreamingIP=3.213.182.208 -PixelStreamingPort=8888 -RenderOffScreen
+LogInit: Base Directory: C:/Users/Administrator/Desktop/Rapyd Hackathon/Game/WindowsNoEditor/thirdpersonvr/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 30
+LogDevObjectVersion:   Dev-ControlRig (A7820CFB-20A7-4359-8C54-2C149623CF50): 6
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogLinker: AddRedirectList(../../../thirdpersonvr/Saved/Config/WindowsNoEditor/VaRest.ini) has substring redirect /VaRestPlugin/, these are very slow and should be resolved as soon as possible!
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.VT.EnableAutoImport:1]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[vr.VRS.HMDFixedFoveationLevel:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2022.05.30-17.35.42:314][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.Mobile.SupportsGen4TAA:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[r.SkinCache.BlendUsingVertexColorForRecomputeTangents:2]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.05.30-17.35.42:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.05.30-17.35.42:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.05.30-17.35.42:316][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.30-17.35.42:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2022.05.30-17.35.42:318][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2022.05.30-17.35.42:318][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2022.05.30-17.35.42:318][  0]LogHAL: Display: Platform has ~ 32 GB [33866407936 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.30-17.35.42:318][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2022.05.30-17.35.42:318][  0]LogInit: Going up to parent DeviceProfile []
+[2022.05.30-17.35.42:318][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.30-17.35.42:318][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.05.30-17.35.42:319][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.05.30-17.35.42:319][  0]LogConfig: Setting CVar [[fx.Niagara.ForceLastTickGroup:1]]
+[2022.05.30-17.35.42:319][  0]LogInit: Computer: EC2AMAZ-1O28PJK
+[2022.05.30-17.35.42:319][  0]LogInit: User: Administrator
+[2022.05.30-17.35.42:319][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.05.30-17.35.42:319][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.30-17.35.42:319][  0]LogMemory: Memory total: Physical=31.5GB (32GB approx)
+[2022.05.30-17.35.42:319][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2022.05.30-17.35.42:319][  0]LogMemory: Process Physical Memory: 92.87 MB used, 92.87 MB peak
+[2022.05.30-17.35.42:319][  0]LogMemory: Process Virtual Memory: 96.89 MB used, 96.89 MB peak
+[2022.05.30-17.35.42:319][  0]LogMemory: Physical Memory: 11072.54 MB used,  21224.98 MB free, 32297.52 MB total
+[2022.05.30-17.35.42:319][  0]LogMemory: Virtual Memory: 134200232.00 MB used,  17494.77 MB free, 134217728.00 MB total
+[2022.05.30-17.35.42:319][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.30-17.35.42:329][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.05.30-17.35.42:329][  0]LogInit: Using OS detected language (en-US).
+[2022.05.30-17.35.42:329][  0]LogInit: Using OS detected locale (en-US).
+[2022.05.30-17.35.42:330][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.05.30-17.35.42:360][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.30-17.35.42:367][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.30-17.35.42:367][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.30-17.35.42:381][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.05.30-17.35.42:381][  0]LogD3D11RHI:     GPU DeviceId: 0x1eb8 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.30-17.35.42:381][  0]LogWindows: EnumDisplayDevices:
+[2022.05.30-17.35.42:381][  0]LogWindows:    0. 'NVIDIA Tesla T4' (P:1 D:1)
+[2022.05.30-17.35.42:381][  0]LogWindows:    1. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-17.35.42:381][  0]LogWindows:    2. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-17.35.42:381][  0]LogWindows:    3. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-17.35.42:381][  0]LogWindows:    4. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-17.35.42:381][  0]LogWindows:    5. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-17.35.42:381][  0]LogWindows:    6. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-17.35.42:382][  0]LogWindows:    7. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-17.35.42:382][  0]LogWindows:    8. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-17.35.42:382][  0]LogWindows:    9. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-17.35.42:382][  0]LogWindows:    10. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-17.35.42:382][  0]LogWindows:    11. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-17.35.42:382][  0]LogWindows:    12. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-17.35.42:382][  0]LogWindows:    13. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-17.35.42:382][  0]LogWindows:    14. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-17.35.42:382][  0]LogWindows:    15. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-17.35.42:382][  0]LogWindows: DebugString: PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed FoundDriverCount:0 
+[2022.05.30-17.35.42:382][  0]LogD3D11RHI:     Adapter Name: NVIDIA Tesla T4
+[2022.05.30-17.35.42:382][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.05.30-17.35.42:382][  0]LogD3D11RHI:      Driver Date: Unknown
+[2022.05.30-17.35.42:382][  0]LogRHI: Texture pool is 10610 MB (70% of 15158 MB)
+[2022.05.30-17.35.42:382][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.05.30-17.35.42:382][  0]LogD3D11RHI:     Description : NVIDIA Tesla T4
+[2022.05.30-17.35.42:382][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.05.30-17.35.42:382][  0]LogD3D11RHI:     DeviceId    : 1eb8
+[2022.05.30-17.35.42:382][  0]LogD3D11RHI:     SubSysId    : 12a210de
+[2022.05.30-17.35.42:382][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.05.30-17.35.42:382][  0]LogD3D11RHI:     DedicatedVideoMemory : 15894437888 bytes
+[2022.05.30-17.35.42:382][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.05.30-17.35.42:382][  0]LogD3D11RHI:     SharedSystemMemory : 16933203968 bytes
+[2022.05.30-17.35.42:382][  0]LogD3D11RHI:     AdapterLuid : 0 21196
+[2022.05.30-17.35.42:431][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.05.30-17.35.42:431][  0]LogD3D11RHI: Async texture creation enabled
+[2022.05.30-17.35.42:431][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.05.30-17.35.42:446][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.05.30-17.35.42:483][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.05.30-17.35.42:483][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.30-17.35.42:488][  0]LogShaderLibrary: Display: Using ../../../thirdpersonvr/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 2382 unique shaders.
+[2022.05.30-17.35.42:488][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2022.05.30-17.35.42:488][  0]LogShaderLibrary: Display: Logical shader library 'Global' has been created, components 1
+[2022.05.30-17.35.42:489][  0]LogTemp: Warning: Clearing the OS Cache
+[2022.05.30-17.35.42:489][  0]LogODSC: ODSC Thread active.
+[2022.05.30-17.35.42:492][  0]LogPakFile: New pak file ../../../thirdpersonvr/Content/Paks/thirdpersonvr-WindowsNoEditor.pak added to pak precacher.
+[2022.05.30-17.35.42:522][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.30-17.35.42:523][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.30-17.35.42:548][  0]LogShaderLibrary: Display: Using ../../../thirdpersonvr/Content/ShaderArchive-thirdpersonvr-PCD3D_SM5.ushaderbytecode for material shader code. Total 6440 unique shaders.
+[2022.05.30-17.35.42:548][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library thirdpersonvr
+[2022.05.30-17.35.42:548][  0]LogShaderLibrary: Display: Logical shader library 'thirdpersonvr' has been created, components 1
+[2022.05.30-17.35.42:548][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2022.05.30-17.35.42:549][  0]LogShaderLibrary: Display: Using ../../../thirdpersonvr/Content/ShaderArchive-thirdpersonvr-PCD3D_SM5.ushaderbytecode for material shader code. Total 6440 unique shaders.
+[2022.05.30-17.35.42:549][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library thirdpersonvr
+[2022.05.30-17.35.42:549][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2022.05.30-17.35.42:549][  0]LogRHI: Display: Failed to open default shader pipeline cache for thirdpersonvr using shader platform 0.
+[2022.05.30-17.35.42:549][  0]LogRHI: Display: Failed to open default shader pipeline cache for thirdpersonvr using shader platform 0.
+[2022.05.30-17.35.42:549][  0]LogInit: Using OS detected language (en-US).
+[2022.05.30-17.35.42:549][  0]LogInit: Using OS detected locale (en-US).
+[2022.05.30-17.35.42:549][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.05.30-17.35.42:549][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2022.05.30-17.35.42:549][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.05.30-17.35.42:549][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.05.30-17.35.42:551][  0]LogTextLocalizationManager: Compacting localization data took   1.64ms
+[2022.05.30-17.35.42:551][  0]LogAssetRegistry: FAssetRegistry took 0.0017 seconds to start up
+[2022.05.30-17.35.42:650][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.05.30-17.35.42:650][  0]LogPackageLocalizationCache: Processed 35 localized package path(s) for 1 prioritized culture(s) in 0.000087 seconds
+[2022.05.30-17.35.42:658][  0]LogSerialization: Display: AllowBulkDataInIoStore: 'true'
+[2022.05.30-17.35.42:659][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2022.05.30-17.35.42:659][  0]LogInit: Active device profile: [0000026DD5409E80][0000026DD0BB0010 49] WindowsNoEditor
+[2022.05.30-17.35.42:659][  0]LogInit: Profiles: [0000026DD5409A00][0000026DC933B6E0 49] Windows, [0000026DD5409E80][0000026DD0BB0010 49] WindowsNoEditor, 
+[2022.05.30-17.35.42:671][  0]LogNetVersion: thirdpersonvr 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1214796559)
+[2022.05.30-17.35.42:704][  0]PixelStreamer: Warning: Pixel Streaming audio component will not tick because Pixel Streaming module is not loaded. This is expected on dedicated servers.
+[2022.05.30-17.35.42:729][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.30-17.35.42:729][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.30-17.35.42:730][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.05.30-17.35.42:750][  0]LogMoviePlayer: Initializing movie player
+[2022.05.30-17.35.42:752][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: AABD555A4CF86BE9592C37B99551B1AF | Instance: 139769654D1D0A11DE3DFE81F76828BF (EC2AMAZ-1O28PJK-11260).
+[2022.05.30-17.35.42:752][  0]LogVaRest: FVaRestModule::StartupModule(28): VaRest (1.1.33) module started
+[2022.05.30-17.35.42:754][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.30-17.35.42:754][  0]LogOcInput: OculusInput pre-init called
+[2022.05.30-17.35.42:754][  0]PixelStreamer: Initialising Pixel Streaming settings.
+[2022.05.30-17.35.42:759][  0]LogUObjectArray: 17226 objects as part of root set at end of initial load.
+[2022.05.30-17.35.42:759][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2022.05.30-17.35.42:759][  0]LogUObjectAllocator: 3491560 out of 0 bytes used by permanent object pool.
+[2022.05.30-17.35.42:759][  0]LogUObjectArray: CloseDisregardForGC: 17226/17226 objects in disregard for GC pool
+[2022.05.30-17.35.42:759][  0]LogEngine: Initializing Engine...
+[2022.05.30-17.35.42:759][  0]LogVaRest: UVaRestSubsystem::Initialize(24): VaRest subsystem initialized
+[2022.05.30-17.35.42:761][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.05.30-17.35.42:761][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.30-17.35.42:762][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.30-17.35.42:844][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.30-17.35.42:844][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.30-17.35.42:845][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.05.30-17.35.42:845][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.05.30-17.35.42:845][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.30-17.35.42:845][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.30-17.35.42:845][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.30-17.35.42:845][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.30-17.35.42:845][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.30-17.35.42:845][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.30-17.35.42:845][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.30-17.35.42:845][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.30-17.35.42:845][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.30-17.35.42:845][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.30-17.35.42:846][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.30-17.35.42:846][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.30-17.35.42:846][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.30-17.35.42:846][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.30-17.35.42:851][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.30-17.35.42:857][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.30-17.35.42:857][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.05.30-17.35.42:887][  0]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2022.05.30-17.35.42:887][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.30-17.35.42:888][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.30-17.35.42:889][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.30-17.35.42:890][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.30-17.35.42:890][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.30-17.35.42:890][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.30-17.35.42:891][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.30-17.35.42:891][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.30-17.35.42:891][  0]LogInit: FAudioDevice initialized.
+[2022.05.30-17.35.42:891][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.30-17.35.42:891][  0]LogInit: Texture streaming: Enabled
+[2022.05.30-17.35.42:895][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.30-17.35.42:895][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.30-17.35.42:896][  0]LogInit: Display: Game Engine Initialized.
+[2022.05.30-17.35.42:919][  0]LogEncoderNVENC: Created D3D11 device for NVENC on 'NVIDIA Tesla T4'.
+[2022.05.30-17.35.42:928][  0]LogInit: Display: Starting Game.
+[2022.05.30-17.35.42:928][  0]LogNet: Browse: /Game/Downtown_West/Maps/Demo_Environment?Name=Player
+[2022.05.30-17.35.42:928][  0]LogLoad: LoadMap: /Game/Downtown_West/Maps/Demo_Environment?Name=Player
+[2022.05.30-17.35.42:928][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.05.30-17.35.42:929][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-17.35.42:929][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-17.35.42:932][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.30-17.35.42:934][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.05.30-17.35.46:114][  0]LogPakFile: Precache HighWater 16MB
+
+[2022.05.30-17.35.46:114][  0]LogPakFile: Precache HighWater 32MB
+
+[2022.05.30-17.35.46:114][  0]LogPakFile: Precache HighWater 48MB
+
+[2022.05.30-17.35.46:114][  0]LogPakFile: Precache HighWater 64MB
+
+[2022.05.30-17.35.46:114][  0]LogPakFile: Precache HighWater 80MB
+
+[2022.05.30-17.35.46:114][  0]LogPakFile: Precache HighWater 96MB
+
+[2022.05.30-17.35.46:114][  0]LogPakFile: Precache HighWater 112MB
+
+[2022.05.30-17.35.46:114][  0]LogPakFile: Precache HighWater 128MB
+
+[2022.05.30-17.35.46:114][  0]LogPakFile: Precache HighWater 144MB
+
+[2022.05.30-17.35.46:114][  0]LogPakFile: Precache HighWater 160MB
+
+[2022.05.30-17.35.46:167][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Demo_Environment'.
+[2022.05.30-17.35.46:169][  0]LogAIModule: Creating AISystem for world Demo_Environment
+[2022.05.30-17.35.46:174][  0]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.05.30-17.35.46:174][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Downtown_West/Maps/Sub-Levels/Daytime_Lighting) is flushing async loading
+[2022.05.30-17.35.46:385][  0]LogWorld: Bringing World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2022.05.30-17.35.46
+[2022.05.30-17.35.46:391][  0]LogWorld: Bringing up level for play took: 0.095807
+[2022.05.30-17.35.46:496][  0]LogStreaming: Error: Couldn't find file for package /HairStrands/Emitters/StableSpringsSystem requested by async loading code. NameToLoad: /HairStrands/Emitters/StableSpringsSystem
+[2022.05.30-17.35.46:496][  0]LogStreaming: Error: Found 0 dependent packages...
+[2022.05.30-17.35.46:516][  0]LogLoad: Took 3.587147 seconds to LoadMap(/Game/Downtown_West/Maps/Demo_Environment)
+[2022.05.30-17.35.46:516][  0]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2022.05.30-17.35.47:138][  0]LogSlate: Took 0.000370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.30-17.35.47:141][  0]LogRHI: Display: ShaderPipelineCache: Paused Batching. 1
+[2022.05.30-17.35.47:141][  0]PixelStreamer: Warning: PixelStreamingIP and PixelStreamingPort are deprecated flags. Use PixelStreamingURL instead. eg. -PixelStreamingURL=ws://3.213.182.208:8888
+[2022.05.30-17.35.47:141][  0]PixelStreamer: PixelStreaming endpoint ID: 
+[2022.05.30-17.35.47:147][  0]LogPixelStreamingSS: Connecting to SS ws://3.213.182.208:8888
+[2022.05.30-17.35.47:147][  0]LogPakFile: AllPaks IndexSizes: DirectoryHashSize=1172848, PathHashSize=16, EntriesSize=339968, TotalSize=1512832
+[2022.05.30-17.35.47:147][  0]LogRHI: Display: ShaderPipelineCache: Resumed Batching. 0
+[2022.05.30-17.35.47:147][  0]LogRHI: Display: ShaderPipelineCache: Batching Resumed.
+[2022.05.30-17.35.47:147][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.30-17.35.47:147][  0]LogLoad: (Engine Initialization) Total time: 5.25 seconds
+[2022.05.30-17.35.47:251][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2022.05.30-17.35.47:375][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.30-17.35.47:415][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-17.35.47:427][  0]LogRenderer: Reallocating scene render targets to support 1024x1024 Format 10 NumSamples 1 (Frame:1).
+[2022.05.30-17.35.47:560][  0]LogRenderer: Reallocating scene render targets to support 1280x1024 Format 10 NumSamples 1 (Frame:2).
+[2022.05.30-17.35.47:654][  0]LogSlate: Slate font cache was flushed
+[2022.05.30-17.35.47:661][  1]LogPixelStreamingSS: Connected to SS
+[2022.05.30-17.35.47:661][  1]LogPixelStreamingSS: <- SS: {"type":"config","peerConnectionOptions":{"iceServers":[{"urls":["stun:stun.l.google.com:19302"]}]}}
+[2022.05.30-17.35.47:687][  1]LogSlate: Took 0.000344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.30-17.35.47:688][  1]LogSlate: Took 0.000332 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2022.05.30-17.35.47:731][  4]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:4).
+[2022.05.30-17.35.55:696][325]LogPixelStreamingSS: <- SS: {"type":"offer","sdp":"v=0\r\no=- 544567851857649933 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1 2\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 102 122 127 121 125 107 108 109 124 120 123 119 35 36 37 38 39 40 41 42 114 115 116 117 118 43\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:2TTG\r\na=ice-pwd:nQB1VZHiL8sc/gNxEklFP3fU\r\na=ice-options:trickle\r\na=fingerprint:sha-256 4C:77:27:53:4E:5B:2F:72:B0:C3:E0:ED:81:5F:76:AE:29:F5:0E:0B:36:9E:B7:D2:77:34:23:9E:88:CC:E5:94\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 urn:3gpp:video-orientation\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:5 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\na=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\na=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=extmap:10 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\r\na=extmap:11 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\r\na=recvonly\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=96\r\na=rtpmap:98 VP9/90000\r\na=rtcp-fb:98 goog-remb\r\na=rtcp-fb:98 transport-cc\r\na=rtcp-fb:98 ccm fir\r\na=rtcp-fb:98 nack\r\na=rtcp-fb:98 nack pli\r\na=fmtp:98 profile-id=0\r\na=rtpmap:99 rtx/90000\r\na=fmtp:99 apt=98\r\na=rtpmap:100 VP9/90000\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=fmtp:100 profile-id=2\r\na=rtpmap:101 rtx/90000\r\na=fmtp:101 apt=100\r\na=rtpmap:102 VP9/90000\r\na=rtcp-fb:102 goog-remb\r\na=rtcp-fb:102 transport-cc\r\na=rtcp-fb:102 ccm fir\r\na=rtcp-fb:102 nack\r\na=rtcp-fb:102 nack pli\r\na=fmtp:102 profile-id=1\r\na=rtpmap:122 rtx/90000\r\na=fmtp:122 apt=102\r\na=rtpmap:127 H264/90000\r\na=rtcp-fb:127 goog-remb\r\na=rtcp-fb:127 transport-cc\r\na=rtcp-fb:127 ccm fir\r\na=rtcp-fb:127 nack\r\na=rtcp-fb:127 nack pli\r\na=fmtp:127 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f\r\na=rtpmap:121 rtx/90000\r\na=fmtp:121 apt=127\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 goog-remb\r\na=rtcp-fb:125 transport-cc\r\na=rtcp-fb:125 ccm fir\r\na=rtcp-fb:125 nack\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f\r\na=rtpmap:107 rtx/90000\r\na=fmtp:107 apt=125\r\na=rtpmap:108 H264/90000\r\na=rtcp-fb:108 goog-remb\r\na=rtcp-fb:108 transport-cc\r\na=rtcp-fb:108 ccm fir\r\na=rtcp-fb:108 nack\r\na=rtcp-fb:108 nack pli\r\na=fmtp:108 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:109 rtx/90000\r\na=fmtp:109 apt=108\r\na=rtpmap:124 H264/90000\r\na=rtcp-fb:124 goog-remb\r\na=rtcp-fb:124 transport-cc\r\na=rtcp-fb:124 ccm fir\r\na=rtcp-fb:124 nack\r\na=rtcp-fb:124 nack pli\r\na=fmtp:124 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\na=rtpmap:120 rtx/90000\r\na=fmtp:120 apt=124\r\na=rtpmap:123 H264/90000\r\na=rtcp-fb:123 goog-remb\r\na=rtcp-fb:123 transport-cc\r\na=rtcp-fb:123 ccm fir\r\na=rtcp-fb:123 nack\r\na=rtcp-fb:123 nack pli\r\na=fmtp:123 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=4d001f\r\na=rtpmap:119 rtx/90000\r\na=fmtp:119 apt=123\r\na=rtpmap:35 H264/90000\r\na=rtcp-fb:35 goog-remb\r\na=rtcp-fb:35 transport-cc\r\na=rtcp-fb:35 ccm fir\r\na=rtcp-fb:35 nack\r\na=rtcp-fb:35 nack pli\r\na=fmtp:35 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=4d001f\r\na=rtpmap:36 rtx/90000\r\na=fmtp:36 apt=35\r\na=rtpmap:37 H264/90000\r\na=rtcp-fb:37 goog-remb\r\na=rtcp-fb:37 transport-cc\r\na=rtcp-fb:37 ccm fir\r\na=rtcp-fb:37 nack\r\na=rtcp-fb:37 nack pli\r\na=fmtp:37 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=f4001f\r\na=rtpmap:38 rtx/90000\r\na=fmtp:38 apt=37\r\na=rtpmap:39 H264/90000\r\na=rtcp-fb:39 goog-remb\r\na=rtcp-fb:39 transport-cc\r\na=rtcp-fb:39 ccm fir\r\na=rtcp-fb:39 nack\r\na=rtcp-fb:39 nack pli\r\na=fmtp:39 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=f4001f\r\na=rtpmap:40 rtx/90000\r\na=fmtp:40 apt=39\r\na=rtpmap:41 AV1/90000\r\na=rtcp-fb:41 goog-remb\r\na=rtcp-fb:41 transport-cc\r\na=rtcp-fb:41 ccm fir\r\na=rtcp-fb:41 nack\r\na=rtcp-fb:41 nack pli\r\na=rtpmap:42 rtx/90000\r\na=fmtp:42 apt=41\r\na=rtpmap:114 H264/90000\r\na=rtcp-fb:114 goog-remb\r\na=rtcp-fb:114 transport-cc\r\na=rtcp-fb:114 ccm fir\r\na=rtcp-fb:114 nack\r\na=rtcp-fb:114 nack pli\r\na=fmtp:114 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=64001f\r\na=rtpmap:115 rtx/90000\r\na=fmtp:115 apt=114\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 rtx/90000\r\na=fmtp:117 apt=116\r\na=rtpmap:118 ulpfec/90000\r\na=rtpmap:43 flexfec-03/90000\r\na=rtcp-fb:43 goog-remb\r\na=rtcp-fb:43 transport-cc\r\na=fmtp:43 repair-window=10000000\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 63 103 104 9 0 8 110 112 113 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:2TTG\r\na=ice-pwd:nQB1VZHiL8sc/gNxEklFP3fU\r\na=ice-options:trickle\r\na=fingerprint:sha-256 4C:77:27:53:4E:5B:2F:72:B0:C3:E0:ED:81:5F:76:AE:29:F5:0E:0B:36:9E:B7:D2:77:34:23:9E:88:CC:E5:94\r\na=setup:actpass\r\na=mid:1\r\na=extmap:14 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1;stereo=1;sprop-maxcapturerate=48000\r\na=rtpmap:63 red/48000/2\r\na=fmtp:63 111/111\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:112 telephone-event/32000\r\na=rtpmap:113 telephone-event/16000\r\na=rtpmap:126 telephone-event/8000\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:2TTG\r\na=ice-pwd:nQB1VZHiL8sc/gNxEklFP3fU\r\na=ice-options:trickle\r\na=fingerprint:sha-256 4C:77:27:53:4E:5B:2F:72:B0:C3:E0:ED:81:5F:76:AE:29:F5:0E:0B:36:9E:B7:D2:77:34:23:9E:88:CC:E5:94\r\na=setup:actpass\r\na=mid:2\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n","playerId":"104"}
+[2022.05.30-17.35.55:720][325]PixelStreamer: Creating player session for PlayerId=104
+[2022.05.30-17.35.55:720][325]PixelStreamer: Created FPlayerSession::FPlayerSession: PlayerId=104
+[2022.05.30-17.35.55:720][325]PixelStreamer: Quality controller is now PlayerId=104.
+[2022.05.30-17.35.55:720][325]PixelStreamer: FPlayerSession::OnRenegotiationNeeded : PlayerId=104
+[2022.05.30-17.35.55:720][325]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=104, NewState=HaveRemoteOffer
+[2022.05.30-17.35.55:720][325]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 94b2d936-d62e-42b0-b20b-3b3c2923c2c3.local 57518 typ host generation 0 ufrag 2TTG network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"104"}
+[2022.05.30-17.35.55:720][325]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 94b2d936-d62e-42b0-b20b-3b3c2923c2c3.local 57520 typ host generation 0 ufrag 2TTG network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"104"}
+[2022.05.30-17.35.55:720][325]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 94b2d936-d62e-42b0-b20b-3b3c2923c2c3.local 57522 typ host generation 0 ufrag 2TTG network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"104"}
+[2022.05.30-17.35.55:731][326]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=104, NewState=Stable
+[2022.05.30-17.35.55:731][326]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=104, NewState=IceConnectionChecking
+[2022.05.30-17.35.55:731][326]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=104, NewState=IceGatheringGathering
+[2022.05.30-17.35.55:731][326]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=104
+[2022.05.30-17.35.55:747][327]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=104
+[2022.05.30-17.35.55:789][327]PixelStreamer: Encoder factory addded new encoder - soon to be associated with a player.
+[2022.05.30-17.35.55:789][327]PixelStreamer: PixelStreaming video encoder CONFIG INITIALISED - unassociated with player for now.
+[2022.05.30-17.35.55:789][327]PixelStreamer: PixelStreaming video encoder CALLBACK REGISTERED - unassociated with player for now.
+[2022.05.30-17.35.55:828][329]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=104
+[2022.05.30-17.35.55:828][329]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=104, NewState=IceGatheringComplete
+[2022.05.30-17.35.55:836][329]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51110 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag 2TTG network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"104"}
+[2022.05.30-17.35.55:836][329]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51096 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag 2TTG network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"104"}
+[2022.05.30-17.35.55:836][329]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51098 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag 2TTG network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"104"}
+[2022.05.30-17.35.56:890][375]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=104, NewState=IceConnectionConnected
+[2022.05.30-17.35.56:898][375]PixelStreamer: PixelStreaming video encoder ASSOCIATED with PlayerId=104
+[2022.05.30-17.35.57:485][400]PixelStreamer: FPlayerSession::OnDataChannel : PlayerId=104
+[2022.05.30-17.35.57:485][400]PixelStreamer: SendMessage to: 104 | Type: 7 | Message: { "Encoder": { "TargetBitrate": -1, "MaxBitrate": 20000000, "MinQP": 1, "MaxQP": 51, "RateControl": "CBR", "FillerData": 0, "MultiPass": "FULL" }, "WebRTC": { "DegradationPref": "MAINTAIN_FRAMERATE", "MaxFPS": 60, "MinBitrate": 100000, "MaxBitrate": 20000000, "LowQP": 25, "HighQP": 37 } }
+[2022.05.30-17.35.57:485][400]PixelStreamer: Player 104 has requested quality control through the data channel.
+[2022.05.30-17.35.57:485][400]PixelStreamer: Quality controller is now PlayerId=104.
+[2022.05.30-17.36.30:491][813]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=104, NewState=IceConnectionDisconnected
+[2022.05.30-17.36.30:543][815]LogPixelStreamingSS: <- SS: {"type":"playerDisconnected","playerId":"104"}
+[2022.05.30-17.36.30:543][815]PixelStreamer: player 104 disconnected
+[2022.05.30-17.36.30:579][815]PixelStreamer: FPlayerSession::~FPlayerSession: PlayerId=104
+[2022.05.30-17.36.30:579][815]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=104, NewState=IceConnectionClosed
+[2022.05.30-17.36.30:579][815]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=104, NewState=Closed
+[2022.05.30-17.36.30:579][815]PixelStreamer: PixelStreaming video encoder RELEASED for PlayerId=104
+[2022.05.30-17.36.30:579][815]PixelStreamer: Encoder factory cleaned up stale encoder associated with PlayerId=104
+[2022.05.30-17.36.30:579][815]PixelStreamer: Encoder factory asked to remove encoder for PlayerId=104
+[2022.05.30-17.36.33:124][926]LogPixelStreamingSS: <- SS: {"type":"offer","sdp":"v=0\r\no=- 3919497544428208038 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1 2\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 102 122 127 121 125 107 108 109 124 120 123 119 35 36 37 38 39 40 41 42 114 115 116 117 118 43\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:4UhV\r\na=ice-pwd:XLxcnhqWimR3u1MOlGEdtv2f\r\na=ice-options:trickle\r\na=fingerprint:sha-256 59:86:C9:55:C8:6F:EC:D4:A6:A2:FC:D9:95:6E:3F:5F:B2:B7:F8:7D:13:50:0C:5E:39:D1:FD:DF:D3:48:42:91\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 urn:3gpp:video-orientation\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:5 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\na=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\na=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=extmap:10 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\r\na=extmap:11 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\r\na=recvonly\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=96\r\na=rtpmap:98 VP9/90000\r\na=rtcp-fb:98 goog-remb\r\na=rtcp-fb:98 transport-cc\r\na=rtcp-fb:98 ccm fir\r\na=rtcp-fb:98 nack\r\na=rtcp-fb:98 nack pli\r\na=fmtp:98 profile-id=0\r\na=rtpmap:99 rtx/90000\r\na=fmtp:99 apt=98\r\na=rtpmap:100 VP9/90000\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=fmtp:100 profile-id=2\r\na=rtpmap:101 rtx/90000\r\na=fmtp:101 apt=100\r\na=rtpmap:102 VP9/90000\r\na=rtcp-fb:102 goog-remb\r\na=rtcp-fb:102 transport-cc\r\na=rtcp-fb:102 ccm fir\r\na=rtcp-fb:102 nack\r\na=rtcp-fb:102 nack pli\r\na=fmtp:102 profile-id=1\r\na=rtpmap:122 rtx/90000\r\na=fmtp:122 apt=102\r\na=rtpmap:127 H264/90000\r\na=rtcp-fb:127 goog-remb\r\na=rtcp-fb:127 transport-cc\r\na=rtcp-fb:127 ccm fir\r\na=rtcp-fb:127 nack\r\na=rtcp-fb:127 nack pli\r\na=fmtp:127 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f\r\na=rtpmap:121 rtx/90000\r\na=fmtp:121 apt=127\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 goog-remb\r\na=rtcp-fb:125 transport-cc\r\na=rtcp-fb:125 ccm fir\r\na=rtcp-fb:125 nack\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f\r\na=rtpmap:107 rtx/90000\r\na=fmtp:107 apt=125\r\na=rtpmap:108 H264/90000\r\na=rtcp-fb:108 goog-remb\r\na=rtcp-fb:108 transport-cc\r\na=rtcp-fb:108 ccm fir\r\na=rtcp-fb:108 nack\r\na=rtcp-fb:108 nack pli\r\na=fmtp:108 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:109 rtx/90000\r\na=fmtp:109 apt=108\r\na=rtpmap:124 H264/90000\r\na=rtcp-fb:124 goog-remb\r\na=rtcp-fb:124 transport-cc\r\na=rtcp-fb:124 ccm fir\r\na=rtcp-fb:124 nack\r\na=rtcp-fb:124 nack pli\r\na=fmtp:124 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\na=rtpmap:120 rtx/90000\r\na=fmtp:120 apt=124\r\na=rtpmap:123 H264/90000\r\na=rtcp-fb:123 goog-remb\r\na=rtcp-fb:123 transport-cc\r\na=rtcp-fb:123 ccm fir\r\na=rtcp-fb:123 nack\r\na=rtcp-fb:123 nack pli\r\na=fmtp:123 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=4d001f\r\na=rtpmap:119 rtx/90000\r\na=fmtp:119 apt=123\r\na=rtpmap:35 H264/90000\r\na=rtcp-fb:35 goog-remb\r\na=rtcp-fb:35 transport-cc\r\na=rtcp-fb:35 ccm fir\r\na=rtcp-fb:35 nack\r\na=rtcp-fb:35 nack pli\r\na=fmtp:35 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=4d001f\r\na=rtpmap:36 rtx/90000\r\na=fmtp:36 apt=35\r\na=rtpmap:37 H264/90000\r\na=rtcp-fb:37 goog-remb\r\na=rtcp-fb:37 transport-cc\r\na=rtcp-fb:37 ccm fir\r\na=rtcp-fb:37 nack\r\na=rtcp-fb:37 nack pli\r\na=fmtp:37 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=f4001f\r\na=rtpmap:38 rtx/90000\r\na=fmtp:38 apt=37\r\na=rtpmap:39 H264/90000\r\na=rtcp-fb:39 goog-remb\r\na=rtcp-fb:39 transport-cc\r\na=rtcp-fb:39 ccm fir\r\na=rtcp-fb:39 nack\r\na=rtcp-fb:39 nack pli\r\na=fmtp:39 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=f4001f\r\na=rtpmap:40 rtx/90000\r\na=fmtp:40 apt=39\r\na=rtpmap:41 AV1/90000\r\na=rtcp-fb:41 goog-remb\r\na=rtcp-fb:41 transport-cc\r\na=rtcp-fb:41 ccm fir\r\na=rtcp-fb:41 nack\r\na=rtcp-fb:41 nack pli\r\na=rtpmap:42 rtx/90000\r\na=fmtp:42 apt=41\r\na=rtpmap:114 H264/90000\r\na=rtcp-fb:114 goog-remb\r\na=rtcp-fb:114 transport-cc\r\na=rtcp-fb:114 ccm fir\r\na=rtcp-fb:114 nack\r\na=rtcp-fb:114 nack pli\r\na=fmtp:114 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=64001f\r\na=rtpmap:115 rtx/90000\r\na=fmtp:115 apt=114\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 rtx/90000\r\na=fmtp:117 apt=116\r\na=rtpmap:118 ulpfec/90000\r\na=rtpmap:43 flexfec-03/90000\r\na=rtcp-fb:43 goog-remb\r\na=rtcp-fb:43 transport-cc\r\na=fmtp:43 repair-window=10000000\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 63 103 104 9 0 8 110 112 113 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:4UhV\r\na=ice-pwd:XLxcnhqWimR3u1MOlGEdtv2f\r\na=ice-options:trickle\r\na=fingerprint:sha-256 59:86:C9:55:C8:6F:EC:D4:A6:A2:FC:D9:95:6E:3F:5F:B2:B7:F8:7D:13:50:0C:5E:39:D1:FD:DF:D3:48:42:91\r\na=setup:actpass\r\na=mid:1\r\na=extmap:14 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1;stereo=1;sprop-maxcapturerate=48000\r\na=rtpmap:63 red/48000/2\r\na=fmtp:63 111/111\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:112 telephone-event/32000\r\na=rtpmap:113 telephone-event/16000\r\na=rtpmap:126 telephone-event/8000\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:4UhV\r\na=ice-pwd:XLxcnhqWimR3u1MOlGEdtv2f\r\na=ice-options:trickle\r\na=fingerprint:sha-256 59:86:C9:55:C8:6F:EC:D4:A6:A2:FC:D9:95:6E:3F:5F:B2:B7:F8:7D:13:50:0C:5E:39:D1:FD:DF:D3:48:42:91\r\na=setup:actpass\r\na=mid:2\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n","playerId":"105"}
+[2022.05.30-17.36.33:144][926]PixelStreamer: Creating player session for PlayerId=105
+[2022.05.30-17.36.33:145][926]PixelStreamer: Created FPlayerSession::FPlayerSession: PlayerId=105
+[2022.05.30-17.36.33:145][926]PixelStreamer: Quality controller is now PlayerId=105.
+[2022.05.30-17.36.33:145][926]PixelStreamer: FPlayerSession::OnRenegotiationNeeded : PlayerId=105
+[2022.05.30-17.36.33:145][926]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=105, NewState=HaveRemoteOffer
+[2022.05.30-17.36.33:145][926]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 d85d6be7-07a7-47b7-8ed1-e9f6918c92c6.local 56981 typ host generation 0 ufrag 4UhV network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"105"}
+[2022.05.30-17.36.33:145][926]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 d85d6be7-07a7-47b7-8ed1-e9f6918c92c6.local 56983 typ host generation 0 ufrag 4UhV network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"105"}
+[2022.05.30-17.36.33:145][926]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 d85d6be7-07a7-47b7-8ed1-e9f6918c92c6.local 56985 typ host generation 0 ufrag 4UhV network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"105"}
+[2022.05.30-17.36.33:156][927]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=105, NewState=Stable
+[2022.05.30-17.36.33:156][927]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=105, NewState=IceConnectionChecking
+[2022.05.30-17.36.33:156][927]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=105, NewState=IceGatheringGathering
+[2022.05.30-17.36.33:156][927]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=105
+[2022.05.30-17.36.33:171][928]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=105
+[2022.05.30-17.36.33:180][928]PixelStreamer: Encoder factory addded new encoder - soon to be associated with a player.
+[2022.05.30-17.36.33:180][928]PixelStreamer: PixelStreaming video encoder CONFIG INITIALISED - unassociated with player for now.
+[2022.05.30-17.36.33:180][928]PixelStreamer: PixelStreaming video encoder CALLBACK REGISTERED - unassociated with player for now.
+[2022.05.30-17.36.33:180][928]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51101 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag 4UhV network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"105"}
+[2022.05.30-17.36.33:180][928]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51081 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag 4UhV network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"105"}
+[2022.05.30-17.36.33:180][928]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51107 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag 4UhV network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"105"}
+[2022.05.30-17.36.33:259][932]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=105
+[2022.05.30-17.36.33:259][932]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=105, NewState=IceGatheringComplete
+[2022.05.30-17.36.34:230][974]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=105, NewState=IceConnectionConnected
+[2022.05.30-17.36.34:245][974]PixelStreamer: PixelStreaming video encoder ASSOCIATED with PlayerId=105
+[2022.05.30-17.36.34:808][998]PixelStreamer: FPlayerSession::OnDataChannel : PlayerId=105
+[2022.05.30-17.36.34:808][998]PixelStreamer: SendMessage to: 105 | Type: 7 | Message: { "Encoder": { "TargetBitrate": -1, "MaxBitrate": 20000000, "MinQP": 1, "MaxQP": 51, "RateControl": "CBR", "FillerData": 0, "MultiPass": "FULL" }, "WebRTC": { "DegradationPref": "MAINTAIN_FRAMERATE", "MaxFPS": 60, "MinBitrate": 100000, "MaxBitrate": 20000000, "LowQP": 25, "HighQP": 37 } }
+[2022.05.30-17.36.34:808][998]PixelStreamer: Player 105 has requested quality control through the data channel.
+[2022.05.30-17.36.34:808][998]PixelStreamer: Quality controller is now PlayerId=105.
+[2022.05.30-17.36.47:775][552]LogPixelStreamingSS: <- SS: {"type":"pong","time":1653932207}
+[2022.05.30-17.37.02:020][162]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=105, NewState=IceConnectionDisconnected
+[2022.05.30-17.37.02:075][164]LogPixelStreamingSS: <- SS: {"type":"playerDisconnected","playerId":"105"}
+[2022.05.30-17.37.02:075][164]PixelStreamer: player 105 disconnected
+[2022.05.30-17.37.02:114][164]PixelStreamer: FPlayerSession::~FPlayerSession: PlayerId=105
+[2022.05.30-17.37.02:114][164]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=105, NewState=IceConnectionClosed
+[2022.05.30-17.37.02:114][164]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=105, NewState=Closed
+[2022.05.30-17.37.02:114][164]PixelStreamer: PixelStreaming video encoder RELEASED for PlayerId=105
+[2022.05.30-17.37.02:114][164]PixelStreamer: Encoder factory asked to remove encoder for PlayerId=105
+[2022.05.30-17.37.04:784][281]LogPixelStreamingSS: <- SS: {"type":"offer","sdp":"v=0\r\no=- 4169763451366555751 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1 2\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 102 122 127 121 125 107 108 109 124 120 123 119 35 36 37 38 39 40 41 42 114 115 116 117 118 43\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:HHXs\r\na=ice-pwd:71bOm30X+aHlCORP7BMsKmYY\r\na=ice-options:trickle\r\na=fingerprint:sha-256 58:D6:01:8A:2F:3C:70:99:E2:69:78:20:2C:5A:64:92:0F:4A:36:32:C7:13:C3:C2:31:FF:3F:36:87:6C:A4:73\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 urn:3gpp:video-orientation\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:5 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\na=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\na=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=extmap:10 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\r\na=extmap:11 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\r\na=recvonly\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=96\r\na=rtpmap:98 VP9/90000\r\na=rtcp-fb:98 goog-remb\r\na=rtcp-fb:98 transport-cc\r\na=rtcp-fb:98 ccm fir\r\na=rtcp-fb:98 nack\r\na=rtcp-fb:98 nack pli\r\na=fmtp:98 profile-id=0\r\na=rtpmap:99 rtx/90000\r\na=fmtp:99 apt=98\r\na=rtpmap:100 VP9/90000\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=fmtp:100 profile-id=2\r\na=rtpmap:101 rtx/90000\r\na=fmtp:101 apt=100\r\na=rtpmap:102 VP9/90000\r\na=rtcp-fb:102 goog-remb\r\na=rtcp-fb:102 transport-cc\r\na=rtcp-fb:102 ccm fir\r\na=rtcp-fb:102 nack\r\na=rtcp-fb:102 nack pli\r\na=fmtp:102 profile-id=1\r\na=rtpmap:122 rtx/90000\r\na=fmtp:122 apt=102\r\na=rtpmap:127 H264/90000\r\na=rtcp-fb:127 goog-remb\r\na=rtcp-fb:127 transport-cc\r\na=rtcp-fb:127 ccm fir\r\na=rtcp-fb:127 nack\r\na=rtcp-fb:127 nack pli\r\na=fmtp:127 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f\r\na=rtpmap:121 rtx/90000\r\na=fmtp:121 apt=127\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 goog-remb\r\na=rtcp-fb:125 transport-cc\r\na=rtcp-fb:125 ccm fir\r\na=rtcp-fb:125 nack\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f\r\na=rtpmap:107 rtx/90000\r\na=fmtp:107 apt=125\r\na=rtpmap:108 H264/90000\r\na=rtcp-fb:108 goog-remb\r\na=rtcp-fb:108 transport-cc\r\na=rtcp-fb:108 ccm fir\r\na=rtcp-fb:108 nack\r\na=rtcp-fb:108 nack pli\r\na=fmtp:108 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:109 rtx/90000\r\na=fmtp:109 apt=108\r\na=rtpmap:124 H264/90000\r\na=rtcp-fb:124 goog-remb\r\na=rtcp-fb:124 transport-cc\r\na=rtcp-fb:124 ccm fir\r\na=rtcp-fb:124 nack\r\na=rtcp-fb:124 nack pli\r\na=fmtp:124 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\na=rtpmap:120 rtx/90000\r\na=fmtp:120 apt=124\r\na=rtpmap:123 H264/90000\r\na=rtcp-fb:123 goog-remb\r\na=rtcp-fb:123 transport-cc\r\na=rtcp-fb:123 ccm fir\r\na=rtcp-fb:123 nack\r\na=rtcp-fb:123 nack pli\r\na=fmtp:123 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=4d001f\r\na=rtpmap:119 rtx/90000\r\na=fmtp:119 apt=123\r\na=rtpmap:35 H264/90000\r\na=rtcp-fb:35 goog-remb\r\na=rtcp-fb:35 transport-cc\r\na=rtcp-fb:35 ccm fir\r\na=rtcp-fb:35 nack\r\na=rtcp-fb:35 nack pli\r\na=fmtp:35 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=4d001f\r\na=rtpmap:36 rtx/90000\r\na=fmtp:36 apt=35\r\na=rtpmap:37 H264/90000\r\na=rtcp-fb:37 goog-remb\r\na=rtcp-fb:37 transport-cc\r\na=rtcp-fb:37 ccm fir\r\na=rtcp-fb:37 nack\r\na=rtcp-fb:37 nack pli\r\na=fmtp:37 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=f4001f\r\na=rtpmap:38 rtx/90000\r\na=fmtp:38 apt=37\r\na=rtpmap:39 H264/90000\r\na=rtcp-fb:39 goog-remb\r\na=rtcp-fb:39 transport-cc\r\na=rtcp-fb:39 ccm fir\r\na=rtcp-fb:39 nack\r\na=rtcp-fb:39 nack pli\r\na=fmtp:39 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=f4001f\r\na=rtpmap:40 rtx/90000\r\na=fmtp:40 apt=39\r\na=rtpmap:41 AV1/90000\r\na=rtcp-fb:41 goog-remb\r\na=rtcp-fb:41 transport-cc\r\na=rtcp-fb:41 ccm fir\r\na=rtcp-fb:41 nack\r\na=rtcp-fb:41 nack pli\r\na=rtpmap:42 rtx/90000\r\na=fmtp:42 apt=41\r\na=rtpmap:114 H264/90000\r\na=rtcp-fb:114 goog-remb\r\na=rtcp-fb:114 transport-cc\r\na=rtcp-fb:114 ccm fir\r\na=rtcp-fb:114 nack\r\na=rtcp-fb:114 nack pli\r\na=fmtp:114 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=64001f\r\na=rtpmap:115 rtx/90000\r\na=fmtp:115 apt=114\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 rtx/90000\r\na=fmtp:117 apt=116\r\na=rtpmap:118 ulpfec/90000\r\na=rtpmap:43 flexfec-03/90000\r\na=rtcp-fb:43 goog-remb\r\na=rtcp-fb:43 transport-cc\r\na=fmtp:43 repair-window=10000000\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 63 103 104 9 0 8 110 112 113 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:HHXs\r\na=ice-pwd:71bOm30X+aHlCORP7BMsKmYY\r\na=ice-options:trickle\r\na=fingerprint:sha-256 58:D6:01:8A:2F:3C:70:99:E2:69:78:20:2C:5A:64:92:0F:4A:36:32:C7:13:C3:C2:31:FF:3F:36:87:6C:A4:73\r\na=setup:actpass\r\na=mid:1\r\na=extmap:14 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1;stereo=1;sprop-maxcapturerate=48000\r\na=rtpmap:63 red/48000/2\r\na=fmtp:63 111/111\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:112 telephone-event/32000\r\na=rtpmap:113 telephone-event/16000\r\na=rtpmap:126 telephone-event/8000\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:HHXs\r\na=ice-pwd:71bOm30X+aHlCORP7BMsKmYY\r\na=ice-options:trickle\r\na=fingerprint:sha-256 58:D6:01:8A:2F:3C:70:99:E2:69:78:20:2C:5A:64:92:0F:4A:36:32:C7:13:C3:C2:31:FF:3F:36:87:6C:A4:73\r\na=setup:actpass\r\na=mid:2\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n","playerId":"106"}
+[2022.05.30-17.37.04:804][281]PixelStreamer: Creating player session for PlayerId=106
+[2022.05.30-17.37.04:804][281]PixelStreamer: Created FPlayerSession::FPlayerSession: PlayerId=106
+[2022.05.30-17.37.04:804][281]PixelStreamer: Quality controller is now PlayerId=106.
+[2022.05.30-17.37.04:804][281]PixelStreamer: FPlayerSession::OnRenegotiationNeeded : PlayerId=106
+[2022.05.30-17.37.04:804][281]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=106, NewState=HaveRemoteOffer
+[2022.05.30-17.37.04:804][281]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 50e7d197-2eeb-44ec-bc20-95a3fd4a2a52.local 49531 typ host generation 0 ufrag HHXs network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"106"}
+[2022.05.30-17.37.04:804][281]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 50e7d197-2eeb-44ec-bc20-95a3fd4a2a52.local 49533 typ host generation 0 ufrag HHXs network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"106"}
+[2022.05.30-17.37.04:815][282]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=106, NewState=Stable
+[2022.05.30-17.37.04:815][282]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=106, NewState=IceConnectionChecking
+[2022.05.30-17.37.04:815][282]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=106, NewState=IceGatheringGathering
+[2022.05.30-17.37.04:815][282]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=106
+[2022.05.30-17.37.04:815][282]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 50e7d197-2eeb-44ec-bc20-95a3fd4a2a52.local 49535 typ host generation 0 ufrag HHXs network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"106"}
+[2022.05.30-17.37.04:830][283]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=106
+[2022.05.30-17.37.04:837][283]PixelStreamer: Encoder factory addded new encoder - soon to be associated with a player.
+[2022.05.30-17.37.04:837][283]PixelStreamer: PixelStreaming video encoder CONFIG INITIALISED - unassociated with player for now.
+[2022.05.30-17.37.04:837][283]PixelStreamer: PixelStreaming video encoder CALLBACK REGISTERED - unassociated with player for now.
+[2022.05.30-17.37.04:860][284]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51103 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag HHXs network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"106"}
+[2022.05.30-17.37.04:860][284]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51104 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag HHXs network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"106"}
+[2022.05.30-17.37.04:883][285]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51095 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag HHXs network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"106"}
+[2022.05.30-17.37.04:916][287]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=106
+[2022.05.30-17.37.04:917][287]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=106, NewState=IceGatheringComplete
+[2022.05.30-17.37.05:865][328]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=106, NewState=IceConnectionConnected
+[2022.05.30-17.37.05:878][328]PixelStreamer: PixelStreaming video encoder ASSOCIATED with PlayerId=106
+[2022.05.30-17.37.06:479][354]PixelStreamer: FPlayerSession::OnDataChannel : PlayerId=106
+[2022.05.30-17.37.06:479][354]PixelStreamer: SendMessage to: 106 | Type: 7 | Message: { "Encoder": { "TargetBitrate": -1, "MaxBitrate": 20000000, "MinQP": 1, "MaxQP": 51, "RateControl": "CBR", "FillerData": 0, "MultiPass": "FULL" }, "WebRTC": { "DegradationPref": "MAINTAIN_FRAMERATE", "MaxFPS": 60, "MinBitrate": 100000, "MaxBitrate": 20000000, "LowQP": 25, "HighQP": 37 } }
+[2022.05.30-17.37.06:479][354]PixelStreamer: Player 106 has requested quality control through the data channel.
+[2022.05.30-17.37.06:479][354]PixelStreamer: Quality controller is now PlayerId=106.
+[2022.05.30-17.37.47:725][139]LogPixelStreamingSS: <- SS: {"type":"pong","time":1653932267}
+[2022.05.30-17.38.04:789][880]LogPixelStreamingSS: <- SS: {"type":"playerDisconnected","playerId":"106"}
+[2022.05.30-17.38.04:789][880]PixelStreamer: player 106 disconnected
+[2022.05.30-17.38.04:822][880]PixelStreamer: FPlayerSession::~FPlayerSession: PlayerId=106
+[2022.05.30-17.38.04:822][880]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=106, NewState=IceConnectionClosed
+[2022.05.30-17.38.04:822][880]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=106, NewState=Closed
+[2022.05.30-17.38.04:822][880]PixelStreamer: PixelStreaming video encoder RELEASED for PlayerId=106
+[2022.05.30-17.38.04:822][880]PixelStreamer: Encoder factory asked to remove encoder for PlayerId=106
+[2022.05.30-17.38.12:598][223]LogPixelStreamingSS: <- SS: {"type":"offer","sdp":"v=0\r\no=- 2175484383353480423 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1 2\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 102 122 127 121 125 107 108 109 124 120 123 119 35 36 37 38 39 40 41 42 114 115 116 117 118 43\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:crH8\r\na=ice-pwd:Uvwl1ZDB+fHDcciDQGLfWx9N\r\na=ice-options:trickle\r\na=fingerprint:sha-256 A0:61:46:59:B2:37:D1:39:98:AA:3F:59:A7:81:28:8C:31:EF:E5:8A:05:A5:A5:C8:4E:54:CF:F0:3A:E6:39:68\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 urn:3gpp:video-orientation\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:5 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\na=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\na=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=extmap:10 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\r\na=extmap:11 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\r\na=recvonly\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=96\r\na=rtpmap:98 VP9/90000\r\na=rtcp-fb:98 goog-remb\r\na=rtcp-fb:98 transport-cc\r\na=rtcp-fb:98 ccm fir\r\na=rtcp-fb:98 nack\r\na=rtcp-fb:98 nack pli\r\na=fmtp:98 profile-id=0\r\na=rtpmap:99 rtx/90000\r\na=fmtp:99 apt=98\r\na=rtpmap:100 VP9/90000\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=fmtp:100 profile-id=2\r\na=rtpmap:101 rtx/90000\r\na=fmtp:101 apt=100\r\na=rtpmap:102 VP9/90000\r\na=rtcp-fb:102 goog-remb\r\na=rtcp-fb:102 transport-cc\r\na=rtcp-fb:102 ccm fir\r\na=rtcp-fb:102 nack\r\na=rtcp-fb:102 nack pli\r\na=fmtp:102 profile-id=1\r\na=rtpmap:122 rtx/90000\r\na=fmtp:122 apt=102\r\na=rtpmap:127 H264/90000\r\na=rtcp-fb:127 goog-remb\r\na=rtcp-fb:127 transport-cc\r\na=rtcp-fb:127 ccm fir\r\na=rtcp-fb:127 nack\r\na=rtcp-fb:127 nack pli\r\na=fmtp:127 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f\r\na=rtpmap:121 rtx/90000\r\na=fmtp:121 apt=127\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 goog-remb\r\na=rtcp-fb:125 transport-cc\r\na=rtcp-fb:125 ccm fir\r\na=rtcp-fb:125 nack\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f\r\na=rtpmap:107 rtx/90000\r\na=fmtp:107 apt=125\r\na=rtpmap:108 H264/90000\r\na=rtcp-fb:108 goog-remb\r\na=rtcp-fb:108 transport-cc\r\na=rtcp-fb:108 ccm fir\r\na=rtcp-fb:108 nack\r\na=rtcp-fb:108 nack pli\r\na=fmtp:108 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:109 rtx/90000\r\na=fmtp:109 apt=108\r\na=rtpmap:124 H264/90000\r\na=rtcp-fb:124 goog-remb\r\na=rtcp-fb:124 transport-cc\r\na=rtcp-fb:124 ccm fir\r\na=rtcp-fb:124 nack\r\na=rtcp-fb:124 nack pli\r\na=fmtp:124 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\na=rtpmap:120 rtx/90000\r\na=fmtp:120 apt=124\r\na=rtpmap:123 H264/90000\r\na=rtcp-fb:123 goog-remb\r\na=rtcp-fb:123 transport-cc\r\na=rtcp-fb:123 ccm fir\r\na=rtcp-fb:123 nack\r\na=rtcp-fb:123 nack pli\r\na=fmtp:123 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=4d001f\r\na=rtpmap:119 rtx/90000\r\na=fmtp:119 apt=123\r\na=rtpmap:35 H264/90000\r\na=rtcp-fb:35 goog-remb\r\na=rtcp-fb:35 transport-cc\r\na=rtcp-fb:35 ccm fir\r\na=rtcp-fb:35 nack\r\na=rtcp-fb:35 nack pli\r\na=fmtp:35 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=4d001f\r\na=rtpmap:36 rtx/90000\r\na=fmtp:36 apt=35\r\na=rtpmap:37 H264/90000\r\na=rtcp-fb:37 goog-remb\r\na=rtcp-fb:37 transport-cc\r\na=rtcp-fb:37 ccm fir\r\na=rtcp-fb:37 nack\r\na=rtcp-fb:37 nack pli\r\na=fmtp:37 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=f4001f\r\na=rtpmap:38 rtx/90000\r\na=fmtp:38 apt=37\r\na=rtpmap:39 H264/90000\r\na=rtcp-fb:39 goog-remb\r\na=rtcp-fb:39 transport-cc\r\na=rtcp-fb:39 ccm fir\r\na=rtcp-fb:39 nack\r\na=rtcp-fb:39 nack pli\r\na=fmtp:39 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=f4001f\r\na=rtpmap:40 rtx/90000\r\na=fmtp:40 apt=39\r\na=rtpmap:41 AV1/90000\r\na=rtcp-fb:41 goog-remb\r\na=rtcp-fb:41 transport-cc\r\na=rtcp-fb:41 ccm fir\r\na=rtcp-fb:41 nack\r\na=rtcp-fb:41 nack pli\r\na=rtpmap:42 rtx/90000\r\na=fmtp:42 apt=41\r\na=rtpmap:114 H264/90000\r\na=rtcp-fb:114 goog-remb\r\na=rtcp-fb:114 transport-cc\r\na=rtcp-fb:114 ccm fir\r\na=rtcp-fb:114 nack\r\na=rtcp-fb:114 nack pli\r\na=fmtp:114 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=64001f\r\na=rtpmap:115 rtx/90000\r\na=fmtp:115 apt=114\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 rtx/90000\r\na=fmtp:117 apt=116\r\na=rtpmap:118 ulpfec/90000\r\na=rtpmap:43 flexfec-03/90000\r\na=rtcp-fb:43 goog-remb\r\na=rtcp-fb:43 transport-cc\r\na=fmtp:43 repair-window=10000000\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 63 103 104 9 0 8 110 112 113 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:crH8\r\na=ice-pwd:Uvwl1ZDB+fHDcciDQGLfWx9N\r\na=ice-options:trickle\r\na=fingerprint:sha-256 A0:61:46:59:B2:37:D1:39:98:AA:3F:59:A7:81:28:8C:31:EF:E5:8A:05:A5:A5:C8:4E:54:CF:F0:3A:E6:39:68\r\na=setup:actpass\r\na=mid:1\r\na=extmap:14 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1;stereo=1;sprop-maxcapturerate=48000\r\na=rtpmap:63 red/48000/2\r\na=fmtp:63 111/111\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:112 telephone-event/32000\r\na=rtpmap:113 telephone-event/16000\r\na=rtpmap:126 telephone-event/8000\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:crH8\r\na=ice-pwd:Uvwl1ZDB+fHDcciDQGLfWx9N\r\na=ice-options:trickle\r\na=fingerprint:sha-256 A0:61:46:59:B2:37:D1:39:98:AA:3F:59:A7:81:28:8C:31:EF:E5:8A:05:A5:A5:C8:4E:54:CF:F0:3A:E6:39:68\r\na=setup:actpass\r\na=mid:2\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n","playerId":"107"}
+[2022.05.30-17.38.12:622][223]PixelStreamer: Creating player session for PlayerId=107
+[2022.05.30-17.38.12:623][223]PixelStreamer: Created FPlayerSession::FPlayerSession: PlayerId=107
+[2022.05.30-17.38.12:623][223]PixelStreamer: Quality controller is now PlayerId=107.
+[2022.05.30-17.38.12:623][223]PixelStreamer: FPlayerSession::OnRenegotiationNeeded : PlayerId=107
+[2022.05.30-17.38.12:623][223]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=107, NewState=HaveRemoteOffer
+[2022.05.30-17.38.12:623][223]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 a4fc2642-591f-4386-85fe-0aee05e3e56e.local 60980 typ host generation 0 ufrag crH8 network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"107"}
+[2022.05.30-17.38.12:623][223]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 a4fc2642-591f-4386-85fe-0aee05e3e56e.local 60982 typ host generation 0 ufrag crH8 network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"107"}
+[2022.05.30-17.38.12:623][223]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 a4fc2642-591f-4386-85fe-0aee05e3e56e.local 60984 typ host generation 0 ufrag crH8 network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"107"}
+[2022.05.30-17.38.12:634][224]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=107, NewState=Stable
+[2022.05.30-17.38.12:634][224]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=107, NewState=IceConnectionChecking
+[2022.05.30-17.38.12:634][224]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=107, NewState=IceGatheringGathering
+[2022.05.30-17.38.12:634][224]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=107
+[2022.05.30-17.38.12:649][225]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=107
+[2022.05.30-17.38.12:655][225]PixelStreamer: Encoder factory addded new encoder - soon to be associated with a player.
+[2022.05.30-17.38.12:655][225]PixelStreamer: PixelStreaming video encoder CONFIG INITIALISED - unassociated with player for now.
+[2022.05.30-17.38.12:655][225]PixelStreamer: PixelStreaming video encoder CALLBACK REGISTERED - unassociated with player for now.
+[2022.05.30-17.38.12:731][229]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=107
+[2022.05.30-17.38.12:731][229]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=107, NewState=IceGatheringComplete
+[2022.05.30-17.38.12:852][234]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51072 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag crH8 network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"107"}
+[2022.05.30-17.38.12:853][234]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51109 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag crH8 network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"107"}
+[2022.05.30-17.38.12:877][235]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51078 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag crH8 network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"107"}
+[2022.05.30-17.38.13:740][273]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=107, NewState=IceConnectionConnected
+[2022.05.30-17.38.13:747][273]PixelStreamer: PixelStreaming video encoder ASSOCIATED with PlayerId=107
+[2022.05.30-17.38.14:350][299]PixelStreamer: FPlayerSession::OnDataChannel : PlayerId=107
+[2022.05.30-17.38.14:350][299]PixelStreamer: SendMessage to: 107 | Type: 7 | Message: { "Encoder": { "TargetBitrate": -1, "MaxBitrate": 20000000, "MinQP": 1, "MaxQP": 51, "RateControl": "CBR", "FillerData": 0, "MultiPass": "FULL" }, "WebRTC": { "DegradationPref": "MAINTAIN_FRAMERATE", "MaxFPS": 60, "MinBitrate": 100000, "MaxBitrate": 20000000, "LowQP": 25, "HighQP": 37 } }
+[2022.05.30-17.38.14:350][299]PixelStreamer: Player 107 has requested quality control through the data channel.
+[2022.05.30-17.38.14:350][299]PixelStreamer: Quality controller is now PlayerId=107.
+[2022.05.30-17.38.47:732][737]LogPixelStreamingSS: <- SS: {"type":"pong","time":1653932327}
+[2022.05.30-17.39.12:577][797]LogPixelStreamingSS: <- SS: {"type":"playerDisconnected","playerId":"107"}
+[2022.05.30-17.39.12:577][797]PixelStreamer: player 107 disconnected
+[2022.05.30-17.39.12:614][797]PixelStreamer: FPlayerSession::~FPlayerSession: PlayerId=107
+[2022.05.30-17.39.12:614][797]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=107, NewState=IceConnectionClosed
+[2022.05.30-17.39.12:614][797]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=107, NewState=Closed
+[2022.05.30-17.39.12:614][797]PixelStreamer: PixelStreaming video encoder RELEASED for PlayerId=107
+[2022.05.30-17.39.12:614][797]PixelStreamer: Encoder factory asked to remove encoder for PlayerId=107
+[2022.05.30-17.39.19:224][ 84]LogPixelStreamingSS: <- SS: {"type":"offer","sdp":"v=0\r\no=- 2061447398095994707 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1 2\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 102 122 127 121 125 107 108 109 124 120 123 119 35 36 37 38 39 40 41 42 114 115 116 117 118 43\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:h6RU\r\na=ice-pwd:FFv+YfW/RYPEeiVbILGTLNWO\r\na=ice-options:trickle\r\na=fingerprint:sha-256 82:45:74:E4:AE:06:87:56:E5:96:14:3E:C7:B3:2E:D8:5F:2A:86:BB:34:19:67:8A:D5:BE:E7:86:B4:DB:19:90\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 urn:3gpp:video-orientation\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:5 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\na=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\na=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=extmap:10 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\r\na=extmap:11 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\r\na=recvonly\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=96\r\na=rtpmap:98 VP9/90000\r\na=rtcp-fb:98 goog-remb\r\na=rtcp-fb:98 transport-cc\r\na=rtcp-fb:98 ccm fir\r\na=rtcp-fb:98 nack\r\na=rtcp-fb:98 nack pli\r\na=fmtp:98 profile-id=0\r\na=rtpmap:99 rtx/90000\r\na=fmtp:99 apt=98\r\na=rtpmap:100 VP9/90000\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=fmtp:100 profile-id=2\r\na=rtpmap:101 rtx/90000\r\na=fmtp:101 apt=100\r\na=rtpmap:102 VP9/90000\r\na=rtcp-fb:102 goog-remb\r\na=rtcp-fb:102 transport-cc\r\na=rtcp-fb:102 ccm fir\r\na=rtcp-fb:102 nack\r\na=rtcp-fb:102 nack pli\r\na=fmtp:102 profile-id=1\r\na=rtpmap:122 rtx/90000\r\na=fmtp:122 apt=102\r\na=rtpmap:127 H264/90000\r\na=rtcp-fb:127 goog-remb\r\na=rtcp-fb:127 transport-cc\r\na=rtcp-fb:127 ccm fir\r\na=rtcp-fb:127 nack\r\na=rtcp-fb:127 nack pli\r\na=fmtp:127 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f\r\na=rtpmap:121 rtx/90000\r\na=fmtp:121 apt=127\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 goog-remb\r\na=rtcp-fb:125 transport-cc\r\na=rtcp-fb:125 ccm fir\r\na=rtcp-fb:125 nack\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f\r\na=rtpmap:107 rtx/90000\r\na=fmtp:107 apt=125\r\na=rtpmap:108 H264/90000\r\na=rtcp-fb:108 goog-remb\r\na=rtcp-fb:108 transport-cc\r\na=rtcp-fb:108 ccm fir\r\na=rtcp-fb:108 nack\r\na=rtcp-fb:108 nack pli\r\na=fmtp:108 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:109 rtx/90000\r\na=fmtp:109 apt=108\r\na=rtpmap:124 H264/90000\r\na=rtcp-fb:124 goog-remb\r\na=rtcp-fb:124 transport-cc\r\na=rtcp-fb:124 ccm fir\r\na=rtcp-fb:124 nack\r\na=rtcp-fb:124 nack pli\r\na=fmtp:124 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\na=rtpmap:120 rtx/90000\r\na=fmtp:120 apt=124\r\na=rtpmap:123 H264/90000\r\na=rtcp-fb:123 goog-remb\r\na=rtcp-fb:123 transport-cc\r\na=rtcp-fb:123 ccm fir\r\na=rtcp-fb:123 nack\r\na=rtcp-fb:123 nack pli\r\na=fmtp:123 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=4d001f\r\na=rtpmap:119 rtx/90000\r\na=fmtp:119 apt=123\r\na=rtpmap:35 H264/90000\r\na=rtcp-fb:35 goog-remb\r\na=rtcp-fb:35 transport-cc\r\na=rtcp-fb:35 ccm fir\r\na=rtcp-fb:35 nack\r\na=rtcp-fb:35 nack pli\r\na=fmtp:35 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=4d001f\r\na=rtpmap:36 rtx/90000\r\na=fmtp:36 apt=35\r\na=rtpmap:37 H264/90000\r\na=rtcp-fb:37 goog-remb\r\na=rtcp-fb:37 transport-cc\r\na=rtcp-fb:37 ccm fir\r\na=rtcp-fb:37 nack\r\na=rtcp-fb:37 nack pli\r\na=fmtp:37 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=f4001f\r\na=rtpmap:38 rtx/90000\r\na=fmtp:38 apt=37\r\na=rtpmap:39 H264/90000\r\na=rtcp-fb:39 goog-remb\r\na=rtcp-fb:39 transport-cc\r\na=rtcp-fb:39 ccm fir\r\na=rtcp-fb:39 nack\r\na=rtcp-fb:39 nack pli\r\na=fmtp:39 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=f4001f\r\na=rtpmap:40 rtx/90000\r\na=fmtp:40 apt=39\r\na=rtpmap:41 AV1/90000\r\na=rtcp-fb:41 goog-remb\r\na=rtcp-fb:41 transport-cc\r\na=rtcp-fb:41 ccm fir\r\na=rtcp-fb:41 nack\r\na=rtcp-fb:41 nack pli\r\na=rtpmap:42 rtx/90000\r\na=fmtp:42 apt=41\r\na=rtpmap:114 H264/90000\r\na=rtcp-fb:114 goog-remb\r\na=rtcp-fb:114 transport-cc\r\na=rtcp-fb:114 ccm fir\r\na=rtcp-fb:114 nack\r\na=rtcp-fb:114 nack pli\r\na=fmtp:114 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=64001f\r\na=rtpmap:115 rtx/90000\r\na=fmtp:115 apt=114\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 rtx/90000\r\na=fmtp:117 apt=116\r\na=rtpmap:118 ulpfec/90000\r\na=rtpmap:43 flexfec-03/90000\r\na=rtcp-fb:43 goog-remb\r\na=rtcp-fb:43 transport-cc\r\na=fmtp:43 repair-window=10000000\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 63 103 104 9 0 8 110 112 113 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:h6RU\r\na=ice-pwd:FFv+YfW/RYPEeiVbILGTLNWO\r\na=ice-options:trickle\r\na=fingerprint:sha-256 82:45:74:E4:AE:06:87:56:E5:96:14:3E:C7:B3:2E:D8:5F:2A:86:BB:34:19:67:8A:D5:BE:E7:86:B4:DB:19:90\r\na=setup:actpass\r\na=mid:1\r\na=extmap:14 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1;stereo=1;sprop-maxcapturerate=48000\r\na=rtpmap:63 red/48000/2\r\na=fmtp:63 111/111\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:112 telephone-event/32000\r\na=rtpmap:113 telephone-event/16000\r\na=rtpmap:126 telephone-event/8000\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:h6RU\r\na=ice-pwd:FFv+YfW/RYPEeiVbILGTLNWO\r\na=ice-options:trickle\r\na=fingerprint:sha-256 82:45:74:E4:AE:06:87:56:E5:96:14:3E:C7:B3:2E:D8:5F:2A:86:BB:34:19:67:8A:D5:BE:E7:86:B4:DB:19:90\r\na=setup:actpass\r\na=mid:2\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n","playerId":"108"}
+[2022.05.30-17.39.19:244][ 84]PixelStreamer: Creating player session for PlayerId=108
+[2022.05.30-17.39.19:244][ 84]PixelStreamer: Created FPlayerSession::FPlayerSession: PlayerId=108
+[2022.05.30-17.39.19:245][ 84]PixelStreamer: Quality controller is now PlayerId=108.
+[2022.05.30-17.39.19:245][ 84]PixelStreamer: FPlayerSession::OnRenegotiationNeeded : PlayerId=108
+[2022.05.30-17.39.19:245][ 84]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=108, NewState=HaveRemoteOffer
+[2022.05.30-17.39.19:245][ 84]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 a4fc2642-591f-4386-85fe-0aee05e3e56e.local 54854 typ host generation 0 ufrag h6RU network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"108"}
+[2022.05.30-17.39.19:245][ 84]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 a4fc2642-591f-4386-85fe-0aee05e3e56e.local 54856 typ host generation 0 ufrag h6RU network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"108"}
+[2022.05.30-17.39.19:245][ 84]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 a4fc2642-591f-4386-85fe-0aee05e3e56e.local 54858 typ host generation 0 ufrag h6RU network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"108"}
+[2022.05.30-17.39.19:256][ 85]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=108, NewState=Stable
+[2022.05.30-17.39.19:256][ 85]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=108, NewState=IceConnectionChecking
+[2022.05.30-17.39.19:256][ 85]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=108, NewState=IceGatheringGathering
+[2022.05.30-17.39.19:256][ 85]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=108
+[2022.05.30-17.39.19:272][ 86]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=108
+[2022.05.30-17.39.19:278][ 86]PixelStreamer: Encoder factory addded new encoder - soon to be associated with a player.
+[2022.05.30-17.39.19:278][ 86]PixelStreamer: PixelStreaming video encoder CONFIG INITIALISED - unassociated with player for now.
+[2022.05.30-17.39.19:278][ 86]PixelStreamer: PixelStreaming video encoder CALLBACK REGISTERED - unassociated with player for now.
+[2022.05.30-17.39.19:323][ 88]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51126 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag h6RU network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"108"}
+[2022.05.30-17.39.19:345][ 89]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51077 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag h6RU network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"108"}
+[2022.05.30-17.39.19:346][ 89]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51082 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag h6RU network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"108"}
+[2022.05.30-17.39.19:356][ 90]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=108
+[2022.05.30-17.39.19:356][ 90]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=108, NewState=IceGatheringComplete
+[2022.05.30-17.39.20:491][139]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=108, NewState=IceConnectionConnected
+[2022.05.30-17.39.20:500][139]PixelStreamer: PixelStreaming video encoder ASSOCIATED with PlayerId=108
+[2022.05.30-17.39.21:096][165]PixelStreamer: FPlayerSession::OnDataChannel : PlayerId=108
+[2022.05.30-17.39.21:096][165]PixelStreamer: SendMessage to: 108 | Type: 7 | Message: { "Encoder": { "TargetBitrate": -1, "MaxBitrate": 20000000, "MinQP": 1, "MaxQP": 51, "RateControl": "CBR", "FillerData": 0, "MultiPass": "FULL" }, "WebRTC": { "DegradationPref": "MAINTAIN_FRAMERATE", "MaxFPS": 60, "MinBitrate": 100000, "MaxBitrate": 20000000, "LowQP": 25, "HighQP": 37 } }
+[2022.05.30-17.39.21:096][165]PixelStreamer: Player 108 has requested quality control through the data channel.
+[2022.05.30-17.39.21:096][165]PixelStreamer: Quality controller is now PlayerId=108.
+[2022.05.30-17.39.29:041][511]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.39.29:570][535]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.39.29:750][543]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "0"}]}
+)JSON
+[2022.05.30-17.39.30:238][565]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "0"}]}
+)JSON
+[2022.05.30-17.39.32:169][649]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.39.32:357][657]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "0"}]}
+)JSON
+[2022.05.30-17.39.32:453][661]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.39.32:550][665]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "0"}]}
+)JSON
+[2022.05.30-17.39.35:913][805]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.39.36:000][809]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "0"}]}
+)JSON
+[2022.05.30-17.39.47:763][388]LogPixelStreamingSS: <- SS: {"type":"pong","time":1653932387}
+[2022.05.30-17.39.55:395][764]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.39.55:520][769]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "0"}]}
+)JSON
+[2022.05.30-17.39.57:634][871]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.39.57:717][875]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "0"}]}
+)JSON
+[2022.05.30-17.40.19:185][ 29]LogPixelStreamingSS: <- SS: {"type":"playerDisconnected","playerId":"108"}
+[2022.05.30-17.40.19:185][ 29]PixelStreamer: player 108 disconnected
+[2022.05.30-17.40.19:225][ 29]PixelStreamer: FPlayerSession::~FPlayerSession: PlayerId=108
+[2022.05.30-17.40.19:225][ 29]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=108, NewState=IceConnectionClosed
+[2022.05.30-17.40.19:225][ 29]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=108, NewState=Closed
+[2022.05.30-17.40.19:225][ 29]PixelStreamer: PixelStreaming video encoder RELEASED for PlayerId=108
+[2022.05.30-17.40.19:225][ 29]PixelStreamer: Encoder factory asked to remove encoder for PlayerId=108
+[2022.05.30-17.40.47:751][644]LogPixelStreamingSS: <- SS: {"type":"pong","time":1653932447}
+[2022.05.30-17.41.12:787][ 65]LogPixelStreamingSS: <- SS: {"type":"offer","sdp":"v=0\r\no=- 3804900039653743510 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1 2\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 102 122 127 121 125 107 108 109 124 120 123 119 35 36 37 38 39 40 41 42 114 115 116 117 118 43\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:moF3\r\na=ice-pwd:CuUjnTrAdHuH8MdKuohBKGgk\r\na=ice-options:trickle\r\na=fingerprint:sha-256 69:DE:69:70:64:39:0C:D5:24:ED:28:57:9B:27:9D:F2:B6:5D:7F:F8:83:08:4D:83:9A:CA:04:1C:7E:D4:8C:9E\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 urn:3gpp:video-orientation\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:5 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\na=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\na=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=extmap:10 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\r\na=extmap:11 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\r\na=recvonly\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=96\r\na=rtpmap:98 VP9/90000\r\na=rtcp-fb:98 goog-remb\r\na=rtcp-fb:98 transport-cc\r\na=rtcp-fb:98 ccm fir\r\na=rtcp-fb:98 nack\r\na=rtcp-fb:98 nack pli\r\na=fmtp:98 profile-id=0\r\na=rtpmap:99 rtx/90000\r\na=fmtp:99 apt=98\r\na=rtpmap:100 VP9/90000\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=fmtp:100 profile-id=2\r\na=rtpmap:101 rtx/90000\r\na=fmtp:101 apt=100\r\na=rtpmap:102 VP9/90000\r\na=rtcp-fb:102 goog-remb\r\na=rtcp-fb:102 transport-cc\r\na=rtcp-fb:102 ccm fir\r\na=rtcp-fb:102 nack\r\na=rtcp-fb:102 nack pli\r\na=fmtp:102 profile-id=1\r\na=rtpmap:122 rtx/90000\r\na=fmtp:122 apt=102\r\na=rtpmap:127 H264/90000\r\na=rtcp-fb:127 goog-remb\r\na=rtcp-fb:127 transport-cc\r\na=rtcp-fb:127 ccm fir\r\na=rtcp-fb:127 nack\r\na=rtcp-fb:127 nack pli\r\na=fmtp:127 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f\r\na=rtpmap:121 rtx/90000\r\na=fmtp:121 apt=127\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 goog-remb\r\na=rtcp-fb:125 transport-cc\r\na=rtcp-fb:125 ccm fir\r\na=rtcp-fb:125 nack\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f\r\na=rtpmap:107 rtx/90000\r\na=fmtp:107 apt=125\r\na=rtpmap:108 H264/90000\r\na=rtcp-fb:108 goog-remb\r\na=rtcp-fb:108 transport-cc\r\na=rtcp-fb:108 ccm fir\r\na=rtcp-fb:108 nack\r\na=rtcp-fb:108 nack pli\r\na=fmtp:108 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:109 rtx/90000\r\na=fmtp:109 apt=108\r\na=rtpmap:124 H264/90000\r\na=rtcp-fb:124 goog-remb\r\na=rtcp-fb:124 transport-cc\r\na=rtcp-fb:124 ccm fir\r\na=rtcp-fb:124 nack\r\na=rtcp-fb:124 nack pli\r\na=fmtp:124 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\na=rtpmap:120 rtx/90000\r\na=fmtp:120 apt=124\r\na=rtpmap:123 H264/90000\r\na=rtcp-fb:123 goog-remb\r\na=rtcp-fb:123 transport-cc\r\na=rtcp-fb:123 ccm fir\r\na=rtcp-fb:123 nack\r\na=rtcp-fb:123 nack pli\r\na=fmtp:123 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=4d001f\r\na=rtpmap:119 rtx/90000\r\na=fmtp:119 apt=123\r\na=rtpmap:35 H264/90000\r\na=rtcp-fb:35 goog-remb\r\na=rtcp-fb:35 transport-cc\r\na=rtcp-fb:35 ccm fir\r\na=rtcp-fb:35 nack\r\na=rtcp-fb:35 nack pli\r\na=fmtp:35 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=4d001f\r\na=rtpmap:36 rtx/90000\r\na=fmtp:36 apt=35\r\na=rtpmap:37 H264/90000\r\na=rtcp-fb:37 goog-remb\r\na=rtcp-fb:37 transport-cc\r\na=rtcp-fb:37 ccm fir\r\na=rtcp-fb:37 nack\r\na=rtcp-fb:37 nack pli\r\na=fmtp:37 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=f4001f\r\na=rtpmap:38 rtx/90000\r\na=fmtp:38 apt=37\r\na=rtpmap:39 H264/90000\r\na=rtcp-fb:39 goog-remb\r\na=rtcp-fb:39 transport-cc\r\na=rtcp-fb:39 ccm fir\r\na=rtcp-fb:39 nack\r\na=rtcp-fb:39 nack pli\r\na=fmtp:39 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=f4001f\r\na=rtpmap:40 rtx/90000\r\na=fmtp:40 apt=39\r\na=rtpmap:41 AV1/90000\r\na=rtcp-fb:41 goog-remb\r\na=rtcp-fb:41 transport-cc\r\na=rtcp-fb:41 ccm fir\r\na=rtcp-fb:41 nack\r\na=rtcp-fb:41 nack pli\r\na=rtpmap:42 rtx/90000\r\na=fmtp:42 apt=41\r\na=rtpmap:114 H264/90000\r\na=rtcp-fb:114 goog-remb\r\na=rtcp-fb:114 transport-cc\r\na=rtcp-fb:114 ccm fir\r\na=rtcp-fb:114 nack\r\na=rtcp-fb:114 nack pli\r\na=fmtp:114 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=64001f\r\na=rtpmap:115 rtx/90000\r\na=fmtp:115 apt=114\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 rtx/90000\r\na=fmtp:117 apt=116\r\na=rtpmap:118 ulpfec/90000\r\na=rtpmap:43 flexfec-03/90000\r\na=rtcp-fb:43 goog-remb\r\na=rtcp-fb:43 transport-cc\r\na=fmtp:43 repair-window=10000000\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 63 103 104 9 0 8 110 112 113 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:moF3\r\na=ice-pwd:CuUjnTrAdHuH8MdKuohBKGgk\r\na=ice-options:trickle\r\na=fingerprint:sha-256 69:DE:69:70:64:39:0C:D5:24:ED:28:57:9B:27:9D:F2:B6:5D:7F:F8:83:08:4D:83:9A:CA:04:1C:7E:D4:8C:9E\r\na=setup:actpass\r\na=mid:1\r\na=extmap:14 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1;stereo=1;sprop-maxcapturerate=48000\r\na=rtpmap:63 red/48000/2\r\na=fmtp:63 111/111\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:112 telephone-event/32000\r\na=rtpmap:113 telephone-event/16000\r\na=rtpmap:126 telephone-event/8000\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:moF3\r\na=ice-pwd:CuUjnTrAdHuH8MdKuohBKGgk\r\na=ice-options:trickle\r\na=fingerprint:sha-256 69:DE:69:70:64:39:0C:D5:24:ED:28:57:9B:27:9D:F2:B6:5D:7F:F8:83:08:4D:83:9A:CA:04:1C:7E:D4:8C:9E\r\na=setup:actpass\r\na=mid:2\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n","playerId":"109"}
+[2022.05.30-17.41.12:805][ 65]PixelStreamer: Creating player session for PlayerId=109
+[2022.05.30-17.41.12:805][ 65]PixelStreamer: Created FPlayerSession::FPlayerSession: PlayerId=109
+[2022.05.30-17.41.12:805][ 65]PixelStreamer: Quality controller is now PlayerId=109.
+[2022.05.30-17.41.12:805][ 65]PixelStreamer: FPlayerSession::OnRenegotiationNeeded : PlayerId=109
+[2022.05.30-17.41.12:805][ 65]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=109, NewState=HaveRemoteOffer
+[2022.05.30-17.41.12:805][ 65]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 440437a9-2392-438d-bc77-7c3711fd2031.local 55597 typ host generation 0 ufrag moF3 network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"109"}
+[2022.05.30-17.41.12:805][ 65]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 440437a9-2392-438d-bc77-7c3711fd2031.local 55599 typ host generation 0 ufrag moF3 network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"109"}
+[2022.05.30-17.41.12:805][ 65]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 440437a9-2392-438d-bc77-7c3711fd2031.local 55601 typ host generation 0 ufrag moF3 network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"109"}
+[2022.05.30-17.41.12:815][ 66]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=109, NewState=Stable
+[2022.05.30-17.41.12:815][ 66]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=109, NewState=IceConnectionChecking
+[2022.05.30-17.41.12:815][ 66]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=109, NewState=IceGatheringGathering
+[2022.05.30-17.41.12:815][ 66]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=109
+[2022.05.30-17.41.12:831][ 67]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=109
+[2022.05.30-17.41.12:834][ 67]PixelStreamer: Encoder factory addded new encoder - soon to be associated with a player.
+[2022.05.30-17.41.12:834][ 67]PixelStreamer: PixelStreaming video encoder CONFIG INITIALISED - unassociated with player for now.
+[2022.05.30-17.41.12:834][ 67]PixelStreamer: PixelStreaming video encoder CALLBACK REGISTERED - unassociated with player for now.
+[2022.05.30-17.41.12:852][ 68]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51125 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag moF3 network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"109"}
+[2022.05.30-17.41.12:887][ 70]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51128 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag moF3 network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"109"}
+[2022.05.30-17.41.12:887][ 70]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51092 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag moF3 network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"109"}
+[2022.05.30-17.41.12:915][ 72]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=109
+[2022.05.30-17.41.12:915][ 72]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=109, NewState=IceGatheringComplete
+[2022.05.30-17.41.13:869][126]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=109, NewState=IceConnectionConnected
+[2022.05.30-17.41.13:888][127]PixelStreamer: PixelStreaming video encoder ASSOCIATED with PlayerId=109
+[2022.05.30-17.41.14:460][158]PixelStreamer: FPlayerSession::OnDataChannel : PlayerId=109
+[2022.05.30-17.41.14:473][159]PixelStreamer: SendMessage to: 109 | Type: 7 | Message: { "Encoder": { "TargetBitrate": -1, "MaxBitrate": 20000000, "MinQP": 1, "MaxQP": 51, "RateControl": "CBR", "FillerData": 0, "MultiPass": "FULL" }, "WebRTC": { "DegradationPref": "MAINTAIN_FRAMERATE", "MaxFPS": 60, "MinBitrate": 100000, "MaxBitrate": 20000000, "LowQP": 25, "HighQP": 37 } }
+[2022.05.30-17.41.14:473][159]PixelStreamer: Player 109 has requested quality control through the data channel.
+[2022.05.30-17.41.14:473][159]PixelStreamer: Quality controller is now PlayerId=109.
+[2022.05.30-17.41.19:773][441]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.41.19:868][446]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "1"}]}
+)JSON
+[2022.05.30-17.41.20:521][481]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.41.20:612][486]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "1"}]}
+)JSON
+[2022.05.30-17.41.27:103][847]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.41.27:222][854]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "1"}]}
+)JSON
+[2022.05.30-17.41.31:385][103]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.41.31:478][109]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "1"}]}
+)JSON
+[2022.05.30-17.41.32:573][173]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.41.32:685][180]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "1"}]}
+)JSON
+[2022.05.30-17.41.34:657][298]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.41.34:750][304]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "1"}]}
+)JSON
+[2022.05.30-17.41.34:907][313]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.41.34:983][318]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "1"}]}
+)JSON
+[2022.05.30-17.41.39:778][604]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.41.39:870][610]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "1"}]}
+)JSON
+[2022.05.30-17.41.45:445][944]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.41.45:520][949]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "1"}]}
+)JSON
+[2022.05.30-17.41.46:345][998]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.41.46:395][  1]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.41.46:438][  4]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "1"}]}
+)JSON
+[2022.05.30-17.41.46:471][  6]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "1"}]}
+)JSON
+[2022.05.30-17.41.46:661][ 17]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.41.46:753][ 23]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "1"}]}
+)JSON
+[2022.05.30-17.41.47:361][ 59]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.41.47:453][ 65]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "1"}]}
+)JSON
+[2022.05.30-17.41.47:495][ 67]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.41.47:587][ 73]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "1"}]}
+)JSON
+[2022.05.30-17.41.47:737][ 82]LogPixelStreamingSS: <- SS: {"type":"pong","time":1653932507}
+[2022.05.30-17.41.47:795][ 85]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.41.47:903][ 92]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "1"}]}
+)JSON
+[2022.05.30-17.42.12:754][416]LogPixelStreamingSS: <- SS: {"type":"playerDisconnected","playerId":"109"}
+[2022.05.30-17.42.12:754][416]PixelStreamer: player 109 disconnected
+[2022.05.30-17.42.12:788][416]PixelStreamer: FPlayerSession::~FPlayerSession: PlayerId=109
+[2022.05.30-17.42.12:788][416]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=109, NewState=IceConnectionClosed
+[2022.05.30-17.42.12:788][416]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=109, NewState=Closed
+[2022.05.30-17.42.12:788][416]PixelStreamer: PixelStreaming video encoder RELEASED for PlayerId=109
+[2022.05.30-17.42.12:788][416]PixelStreamer: Encoder factory asked to remove encoder for PlayerId=109
+[2022.05.30-17.42.19:349][810]LogPixelStreamingSS: <- SS: {"type":"offer","sdp":"v=0\r\no=- 8594420277702471798 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1 2\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 102 122 127 121 125 107 108 109 124 120 123 119 35 36 37 38 39 40 41 42 114 115 116 117 118 43\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:fw00\r\na=ice-pwd:6fj9+ucCtd/YaYI35OextUy3\r\na=ice-options:trickle\r\na=fingerprint:sha-256 85:B1:68:FA:0F:6A:AE:06:2F:E5:15:73:72:6A:1F:46:B2:52:32:2C:8E:53:50:25:3D:9D:CE:B0:50:B0:FB:29\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 urn:3gpp:video-orientation\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:5 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\na=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\na=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=extmap:10 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\r\na=extmap:11 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\r\na=recvonly\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=96\r\na=rtpmap:98 VP9/90000\r\na=rtcp-fb:98 goog-remb\r\na=rtcp-fb:98 transport-cc\r\na=rtcp-fb:98 ccm fir\r\na=rtcp-fb:98 nack\r\na=rtcp-fb:98 nack pli\r\na=fmtp:98 profile-id=0\r\na=rtpmap:99 rtx/90000\r\na=fmtp:99 apt=98\r\na=rtpmap:100 VP9/90000\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=fmtp:100 profile-id=2\r\na=rtpmap:101 rtx/90000\r\na=fmtp:101 apt=100\r\na=rtpmap:102 VP9/90000\r\na=rtcp-fb:102 goog-remb\r\na=rtcp-fb:102 transport-cc\r\na=rtcp-fb:102 ccm fir\r\na=rtcp-fb:102 nack\r\na=rtcp-fb:102 nack pli\r\na=fmtp:102 profile-id=1\r\na=rtpmap:122 rtx/90000\r\na=fmtp:122 apt=102\r\na=rtpmap:127 H264/90000\r\na=rtcp-fb:127 goog-remb\r\na=rtcp-fb:127 transport-cc\r\na=rtcp-fb:127 ccm fir\r\na=rtcp-fb:127 nack\r\na=rtcp-fb:127 nack pli\r\na=fmtp:127 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f\r\na=rtpmap:121 rtx/90000\r\na=fmtp:121 apt=127\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 goog-remb\r\na=rtcp-fb:125 transport-cc\r\na=rtcp-fb:125 ccm fir\r\na=rtcp-fb:125 nack\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f\r\na=rtpmap:107 rtx/90000\r\na=fmtp:107 apt=125\r\na=rtpmap:108 H264/90000\r\na=rtcp-fb:108 goog-remb\r\na=rtcp-fb:108 transport-cc\r\na=rtcp-fb:108 ccm fir\r\na=rtcp-fb:108 nack\r\na=rtcp-fb:108 nack pli\r\na=fmtp:108 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:109 rtx/90000\r\na=fmtp:109 apt=108\r\na=rtpmap:124 H264/90000\r\na=rtcp-fb:124 goog-remb\r\na=rtcp-fb:124 transport-cc\r\na=rtcp-fb:124 ccm fir\r\na=rtcp-fb:124 nack\r\na=rtcp-fb:124 nack pli\r\na=fmtp:124 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\na=rtpmap:120 rtx/90000\r\na=fmtp:120 apt=124\r\na=rtpmap:123 H264/90000\r\na=rtcp-fb:123 goog-remb\r\na=rtcp-fb:123 transport-cc\r\na=rtcp-fb:123 ccm fir\r\na=rtcp-fb:123 nack\r\na=rtcp-fb:123 nack pli\r\na=fmtp:123 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=4d001f\r\na=rtpmap:119 rtx/90000\r\na=fmtp:119 apt=123\r\na=rtpmap:35 H264/90000\r\na=rtcp-fb:35 goog-remb\r\na=rtcp-fb:35 transport-cc\r\na=rtcp-fb:35 ccm fir\r\na=rtcp-fb:35 nack\r\na=rtcp-fb:35 nack pli\r\na=fmtp:35 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=4d001f\r\na=rtpmap:36 rtx/90000\r\na=fmtp:36 apt=35\r\na=rtpmap:37 H264/90000\r\na=rtcp-fb:37 goog-remb\r\na=rtcp-fb:37 transport-cc\r\na=rtcp-fb:37 ccm fir\r\na=rtcp-fb:37 nack\r\na=rtcp-fb:37 nack pli\r\na=fmtp:37 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=f4001f\r\na=rtpmap:38 rtx/90000\r\na=fmtp:38 apt=37\r\na=rtpmap:39 H264/90000\r\na=rtcp-fb:39 goog-remb\r\na=rtcp-fb:39 transport-cc\r\na=rtcp-fb:39 ccm fir\r\na=rtcp-fb:39 nack\r\na=rtcp-fb:39 nack pli\r\na=fmtp:39 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=f4001f\r\na=rtpmap:40 rtx/90000\r\na=fmtp:40 apt=39\r\na=rtpmap:41 AV1/90000\r\na=rtcp-fb:41 goog-remb\r\na=rtcp-fb:41 transport-cc\r\na=rtcp-fb:41 ccm fir\r\na=rtcp-fb:41 nack\r\na=rtcp-fb:41 nack pli\r\na=rtpmap:42 rtx/90000\r\na=fmtp:42 apt=41\r\na=rtpmap:114 H264/90000\r\na=rtcp-fb:114 goog-remb\r\na=rtcp-fb:114 transport-cc\r\na=rtcp-fb:114 ccm fir\r\na=rtcp-fb:114 nack\r\na=rtcp-fb:114 nack pli\r\na=fmtp:114 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=64001f\r\na=rtpmap:115 rtx/90000\r\na=fmtp:115 apt=114\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 rtx/90000\r\na=fmtp:117 apt=116\r\na=rtpmap:118 ulpfec/90000\r\na=rtpmap:43 flexfec-03/90000\r\na=rtcp-fb:43 goog-remb\r\na=rtcp-fb:43 transport-cc\r\na=fmtp:43 repair-window=10000000\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 63 103 104 9 0 8 110 112 113 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:fw00\r\na=ice-pwd:6fj9+ucCtd/YaYI35OextUy3\r\na=ice-options:trickle\r\na=fingerprint:sha-256 85:B1:68:FA:0F:6A:AE:06:2F:E5:15:73:72:6A:1F:46:B2:52:32:2C:8E:53:50:25:3D:9D:CE:B0:50:B0:FB:29\r\na=setup:actpass\r\na=mid:1\r\na=extmap:14 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1;stereo=1;sprop-maxcapturerate=48000\r\na=rtpmap:63 red/48000/2\r\na=fmtp:63 111/111\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:112 telephone-event/32000\r\na=rtpmap:113 telephone-event/16000\r\na=rtpmap:126 telephone-event/8000\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:fw00\r\na=ice-pwd:6fj9+ucCtd/YaYI35OextUy3\r\na=ice-options:trickle\r\na=fingerprint:sha-256 85:B1:68:FA:0F:6A:AE:06:2F:E5:15:73:72:6A:1F:46:B2:52:32:2C:8E:53:50:25:3D:9D:CE:B0:50:B0:FB:29\r\na=setup:actpass\r\na=mid:2\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n","playerId":"110"}
+[2022.05.30-17.42.19:364][810]PixelStreamer: Creating player session for PlayerId=110
+[2022.05.30-17.42.19:364][810]PixelStreamer: Created FPlayerSession::FPlayerSession: PlayerId=110
+[2022.05.30-17.42.19:364][810]PixelStreamer: Quality controller is now PlayerId=110.
+[2022.05.30-17.42.19:364][810]PixelStreamer: FPlayerSession::OnRenegotiationNeeded : PlayerId=110
+[2022.05.30-17.42.19:364][810]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=110, NewState=HaveRemoteOffer
+[2022.05.30-17.42.19:364][810]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 440437a9-2392-438d-bc77-7c3711fd2031.local 49616 typ host generation 0 ufrag fw00 network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"110"}
+[2022.05.30-17.42.19:364][810]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 440437a9-2392-438d-bc77-7c3711fd2031.local 49618 typ host generation 0 ufrag fw00 network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"110"}
+[2022.05.30-17.42.19:364][810]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 440437a9-2392-438d-bc77-7c3711fd2031.local 49620 typ host generation 0 ufrag fw00 network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"110"}
+[2022.05.30-17.42.19:373][811]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=110, NewState=Stable
+[2022.05.30-17.42.19:374][811]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=110, NewState=IceConnectionChecking
+[2022.05.30-17.42.19:374][811]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=110, NewState=IceGatheringGathering
+[2022.05.30-17.42.19:374][811]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=110
+[2022.05.30-17.42.19:391][812]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=110
+[2022.05.30-17.42.19:391][812]PixelStreamer: Encoder factory addded new encoder - soon to be associated with a player.
+[2022.05.30-17.42.19:391][812]PixelStreamer: PixelStreaming video encoder CONFIG INITIALISED - unassociated with player for now.
+[2022.05.30-17.42.19:391][812]PixelStreamer: PixelStreaming video encoder CALLBACK REGISTERED - unassociated with player for now.
+[2022.05.30-17.42.19:408][813]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51103 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag fw00 network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"110"}
+[2022.05.30-17.42.19:408][813]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51093 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag fw00 network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"110"}
+[2022.05.30-17.42.19:408][813]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51104 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag fw00 network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"110"}
+[2022.05.30-17.42.19:475][817]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=110
+[2022.05.30-17.42.19:475][817]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=110, NewState=IceGatheringComplete
+[2022.05.30-17.42.20:474][877]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=110, NewState=IceConnectionConnected
+[2022.05.30-17.42.20:474][877]PixelStreamer: PixelStreaming video encoder ASSOCIATED with PlayerId=110
+[2022.05.30-17.42.21:123][916]PixelStreamer: FPlayerSession::OnDataChannel : PlayerId=110
+[2022.05.30-17.42.21:123][916]PixelStreamer: SendMessage to: 110 | Type: 7 | Message: { "Encoder": { "TargetBitrate": -1, "MaxBitrate": 20000000, "MinQP": 1, "MaxQP": 51, "RateControl": "CBR", "FillerData": 0, "MultiPass": "FULL" }, "WebRTC": { "DegradationPref": "MAINTAIN_FRAMERATE", "MaxFPS": 60, "MinBitrate": 100000, "MaxBitrate": 20000000, "LowQP": 25, "HighQP": 37 } }
+[2022.05.30-17.42.21:123][916]PixelStreamer: Player 110 has requested quality control through the data channel.
+[2022.05.30-17.42.21:123][916]PixelStreamer: Quality controller is now PlayerId=110.
+[2022.05.30-17.42.33:697][533]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.42.33:775][536]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "1"}]}
+)JSON
+[2022.05.30-17.42.33:932][542]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.42.34:021][545]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "1"}]}
+)JSON
+[2022.05.30-17.42.34:705][572]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.42.34:830][577]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "1"}]}
+)JSON
+[2022.05.30-17.42.36:601][648]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.42.36:678][651]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "1"}]}
+)JSON
+[2022.05.30-17.42.38:686][728]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-17.42.38:789][732]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "1"}]}
+)JSON
+[2022.05.30-17.42.47:759][107]LogPixelStreamingSS: <- SS: {"type":"pong","time":1653932567}
+[2022.05.30-17.43.19:335][498]LogPixelStreamingSS: <- SS: {"type":"playerDisconnected","playerId":"110"}
+[2022.05.30-17.43.19:335][498]PixelStreamer: player 110 disconnected
+[2022.05.30-17.43.19:377][498]PixelStreamer: FPlayerSession::~FPlayerSession: PlayerId=110
+[2022.05.30-17.43.19:377][498]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=110, NewState=IceConnectionClosed
+[2022.05.30-17.43.19:377][498]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=110, NewState=Closed
+[2022.05.30-17.43.19:377][498]PixelStreamer: PixelStreaming video encoder RELEASED for PlayerId=110
+[2022.05.30-17.43.19:378][498]PixelStreamer: Encoder factory cleaned up stale encoder associated with PlayerId=110
+[2022.05.30-17.43.19:378][498]PixelStreamer: Encoder factory asked to remove encoder for PlayerId=110
+[2022.05.30-17.43.38:050][159]LogPixelStreamingSS: <- SS: {"type":"offer","sdp":"v=0\r\no=- 8549437905933794982 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1 2\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 102 122 127 121 125 107 108 109 124 120 123 119 35 36 37 38 39 40 41 42 114 115 116 117 118 43\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:dwp+\r\na=ice-pwd:r54OkXHXM2hV44zeV7WGCRoD\r\na=ice-options:trickle\r\na=fingerprint:sha-256 97:41:DA:28:18:B6:91:D1:32:30:C2:D5:29:3D:16:29:43:1A:8D:5C:3D:3E:10:6F:C5:15:18:A5:05:30:68:B3\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 urn:3gpp:video-orientation\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:5 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\na=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\na=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=extmap:10 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\r\na=extmap:11 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\r\na=recvonly\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=96\r\na=rtpmap:98 VP9/90000\r\na=rtcp-fb:98 goog-remb\r\na=rtcp-fb:98 transport-cc\r\na=rtcp-fb:98 ccm fir\r\na=rtcp-fb:98 nack\r\na=rtcp-fb:98 nack pli\r\na=fmtp:98 profile-id=0\r\na=rtpmap:99 rtx/90000\r\na=fmtp:99 apt=98\r\na=rtpmap:100 VP9/90000\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=fmtp:100 profile-id=2\r\na=rtpmap:101 rtx/90000\r\na=fmtp:101 apt=100\r\na=rtpmap:102 VP9/90000\r\na=rtcp-fb:102 goog-remb\r\na=rtcp-fb:102 transport-cc\r\na=rtcp-fb:102 ccm fir\r\na=rtcp-fb:102 nack\r\na=rtcp-fb:102 nack pli\r\na=fmtp:102 profile-id=1\r\na=rtpmap:122 rtx/90000\r\na=fmtp:122 apt=102\r\na=rtpmap:127 H264/90000\r\na=rtcp-fb:127 goog-remb\r\na=rtcp-fb:127 transport-cc\r\na=rtcp-fb:127 ccm fir\r\na=rtcp-fb:127 nack\r\na=rtcp-fb:127 nack pli\r\na=fmtp:127 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f\r\na=rtpmap:121 rtx/90000\r\na=fmtp:121 apt=127\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 goog-remb\r\na=rtcp-fb:125 transport-cc\r\na=rtcp-fb:125 ccm fir\r\na=rtcp-fb:125 nack\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f\r\na=rtpmap:107 rtx/90000\r\na=fmtp:107 apt=125\r\na=rtpmap:108 H264/90000\r\na=rtcp-fb:108 goog-remb\r\na=rtcp-fb:108 transport-cc\r\na=rtcp-fb:108 ccm fir\r\na=rtcp-fb:108 nack\r\na=rtcp-fb:108 nack pli\r\na=fmtp:108 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:109 rtx/90000\r\na=fmtp:109 apt=108\r\na=rtpmap:124 H264/90000\r\na=rtcp-fb:124 goog-remb\r\na=rtcp-fb:124 transport-cc\r\na=rtcp-fb:124 ccm fir\r\na=rtcp-fb:124 nack\r\na=rtcp-fb:124 nack pli\r\na=fmtp:124 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\na=rtpmap:120 rtx/90000\r\na=fmtp:120 apt=124\r\na=rtpmap:123 H264/90000\r\na=rtcp-fb:123 goog-remb\r\na=rtcp-fb:123 transport-cc\r\na=rtcp-fb:123 ccm fir\r\na=rtcp-fb:123 nack\r\na=rtcp-fb:123 nack pli\r\na=fmtp:123 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=4d001f\r\na=rtpmap:119 rtx/90000\r\na=fmtp:119 apt=123\r\na=rtpmap:35 H264/90000\r\na=rtcp-fb:35 goog-remb\r\na=rtcp-fb:35 transport-cc\r\na=rtcp-fb:35 ccm fir\r\na=rtcp-fb:35 nack\r\na=rtcp-fb:35 nack pli\r\na=fmtp:35 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=4d001f\r\na=rtpmap:36 rtx/90000\r\na=fmtp:36 apt=35\r\na=rtpmap:37 H264/90000\r\na=rtcp-fb:37 goog-remb\r\na=rtcp-fb:37 transport-cc\r\na=rtcp-fb:37 ccm fir\r\na=rtcp-fb:37 nack\r\na=rtcp-fb:37 nack pli\r\na=fmtp:37 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=f4001f\r\na=rtpmap:38 rtx/90000\r\na=fmtp:38 apt=37\r\na=rtpmap:39 H264/90000\r\na=rtcp-fb:39 goog-remb\r\na=rtcp-fb:39 transport-cc\r\na=rtcp-fb:39 ccm fir\r\na=rtcp-fb:39 nack\r\na=rtcp-fb:39 nack pli\r\na=fmtp:39 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=f4001f\r\na=rtpmap:40 rtx/90000\r\na=fmtp:40 apt=39\r\na=rtpmap:41 AV1/90000\r\na=rtcp-fb:41 goog-remb\r\na=rtcp-fb:41 transport-cc\r\na=rtcp-fb:41 ccm fir\r\na=rtcp-fb:41 nack\r\na=rtcp-fb:41 nack pli\r\na=rtpmap:42 rtx/90000\r\na=fmtp:42 apt=41\r\na=rtpmap:114 H264/90000\r\na=rtcp-fb:114 goog-remb\r\na=rtcp-fb:114 transport-cc\r\na=rtcp-fb:114 ccm fir\r\na=rtcp-fb:114 nack\r\na=rtcp-fb:114 nack pli\r\na=fmtp:114 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=64001f\r\na=rtpmap:115 rtx/90000\r\na=fmtp:115 apt=114\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 rtx/90000\r\na=fmtp:117 apt=116\r\na=rtpmap:118 ulpfec/90000\r\na=rtpmap:43 flexfec-03/90000\r\na=rtcp-fb:43 goog-remb\r\na=rtcp-fb:43 transport-cc\r\na=fmtp:43 repair-window=10000000\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 63 103 104 9 0 8 110 112 113 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:dwp+\r\na=ice-pwd:r54OkXHXM2hV44zeV7WGCRoD\r\na=ice-options:trickle\r\na=fingerprint:sha-256 97:41:DA:28:18:B6:91:D1:32:30:C2:D5:29:3D:16:29:43:1A:8D:5C:3D:3E:10:6F:C5:15:18:A5:05:30:68:B3\r\na=setup:actpass\r\na=mid:1\r\na=extmap:14 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1;stereo=1;sprop-maxcapturerate=48000\r\na=rtpmap:63 red/48000/2\r\na=fmtp:63 111/111\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:112 telephone-event/32000\r\na=rtpmap:113 telephone-event/16000\r\na=rtpmap:126 telephone-event/8000\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:dwp+\r\na=ice-pwd:r54OkXHXM2hV44zeV7WGCRoD\r\na=ice-options:trickle\r\na=fingerprint:sha-256 97:41:DA:28:18:B6:91:D1:32:30:C2:D5:29:3D:16:29:43:1A:8D:5C:3D:3E:10:6F:C5:15:18:A5:05:30:68:B3\r\na=setup:actpass\r\na=mid:2\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n","playerId":"111"}
+[2022.05.30-17.43.38:079][159]PixelStreamer: Creating player session for PlayerId=111
+[2022.05.30-17.43.38:079][159]PixelStreamer: Created FPlayerSession::FPlayerSession: PlayerId=111
+[2022.05.30-17.43.38:079][159]PixelStreamer: Quality controller is now PlayerId=111.
+[2022.05.30-17.43.38:079][159]PixelStreamer: FPlayerSession::OnRenegotiationNeeded : PlayerId=111
+[2022.05.30-17.43.38:079][159]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=111, NewState=HaveRemoteOffer
+[2022.05.30-17.43.38:079][159]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 440437a9-2392-438d-bc77-7c3711fd2031.local 64299 typ host generation 0 ufrag dwp+ network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"111"}
+[2022.05.30-17.43.38:079][159]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 440437a9-2392-438d-bc77-7c3711fd2031.local 64301 typ host generation 0 ufrag dwp+ network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"111"}
+[2022.05.30-17.43.38:079][159]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 440437a9-2392-438d-bc77-7c3711fd2031.local 64303 typ host generation 0 ufrag dwp+ network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"111"}
+[2022.05.30-17.43.38:091][160]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=111, NewState=Stable
+[2022.05.30-17.43.38:091][160]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=111, NewState=IceConnectionChecking
+[2022.05.30-17.43.38:091][160]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=111, NewState=IceGatheringGathering
+[2022.05.30-17.43.38:091][160]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=111
+[2022.05.30-17.43.38:106][161]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=111
+[2022.05.30-17.43.38:116][161]PixelStreamer: Encoder factory addded new encoder - soon to be associated with a player.
+[2022.05.30-17.43.38:116][161]PixelStreamer: PixelStreaming video encoder CONFIG INITIALISED - unassociated with player for now.
+[2022.05.30-17.43.38:116][161]PixelStreamer: PixelStreaming video encoder CALLBACK REGISTERED - unassociated with player for now.
+[2022.05.30-17.43.38:141][162]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51080 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag dwp+ network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"111"}
+[2022.05.30-17.43.38:141][162]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51105 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag dwp+ network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"111"}
+[2022.05.30-17.43.38:141][162]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51131 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag dwp+ network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"111"}
+[2022.05.30-17.43.38:186][164]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=111
+[2022.05.30-17.43.38:186][164]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=111, NewState=IceGatheringComplete
+[2022.05.30-17.43.39:162][199]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=111, NewState=IceConnectionConnected
+[2022.05.30-17.43.39:181][199]PixelStreamer: PixelStreaming video encoder ASSOCIATED with PlayerId=111
+[2022.05.30-17.43.39:750][219]PixelStreamer: FPlayerSession::OnDataChannel : PlayerId=111
+[2022.05.30-17.43.39:750][219]PixelStreamer: SendMessage to: 111 | Type: 7 | Message: { "Encoder": { "TargetBitrate": -1, "MaxBitrate": 20000000, "MinQP": 1, "MaxQP": 51, "RateControl": "CBR", "FillerData": 0, "MultiPass": "FULL" }, "WebRTC": { "DegradationPref": "MAINTAIN_FRAMERATE", "MaxFPS": 60, "MinBitrate": 100000, "MaxBitrate": 20000000, "LowQP": 25, "HighQP": 37 } }
+[2022.05.30-17.43.39:750][219]PixelStreamer: Player 111 has requested quality control through the data channel.
+[2022.05.30-17.43.39:750][219]PixelStreamer: Quality controller is now PlayerId=111.
+[2022.05.30-17.43.47:760][500]LogPixelStreamingSS: <- SS: {"type":"pong","time":1653932627}

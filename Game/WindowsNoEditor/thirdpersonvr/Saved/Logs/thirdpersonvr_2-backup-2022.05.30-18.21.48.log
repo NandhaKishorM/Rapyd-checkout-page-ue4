@@ -1,0 +1,1547 @@
+﻿Log file open, 05/30/22 18:08:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Display: Found Pak file ../../../thirdpersonvr/Content/Paks/thirdpersonvr-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../thirdpersonvr/Content/Paks/thirdpersonvr-WindowsNoEditor.pak.
+LogPakFile: PakFile PrimaryIndexSize=337246
+LogPakFile: PakFile PathHashIndexSize=152582
+LogPakFile: PakFile FullDirectoryIndexSize=398463
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '../../../thirdpersonvr/Content/Paks/thirdpersonvr-WindowsNoEditor.pak' (chunk index -1, root '../../../') mounted
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:../../../ File:../../../thirdpersonvr/Content/Paks/thirdpersonvr-WindowsNoEditor.pak)
+LogPakFile: OnPakFileMounted2Time == 0.000039
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.111157
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin AppleARKitFaceSupport
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ARUtilities
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PixelStreaming
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin HardwareEncoders
+LogPluginManager: Mounting plugin RigLogic
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin LiveLinkControlRig
+LogPluginManager: Mounting plugin SequencerScripting
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin HairStrands
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin VaRest
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogWindows: Failed to load 'amfrt64.dll' (GetLastError=126)
+LogWindows: File 'amfrt64.dll' does not exist
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogD3D11RHI: D3D11 min allowed feature level: 11_0
+LogD3D11RHI: D3D11 max allowed feature level: 11_0
+LogD3D11RHI: D3D11 adapters:
+LogD3D11RHI:    0. 'NVIDIA Tesla T4' (Feature Level 11_0)
+LogD3D11RHI:       15158/0/16148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+LogD3D11RHI:       0/0/16148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+LogD3D11RHI:       0/0/16148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+LogD3D11RHI: Chosen D3D11 Adapter:
+LogD3D11RHI:     Description : NVIDIA Tesla T4
+LogD3D11RHI:     VendorId    : 10de
+LogD3D11RHI:     DeviceId    : 1eb8
+LogD3D11RHI:     SubSysId    : 12a210de
+LogD3D11RHI:     Revision    : 00a1
+LogD3D11RHI:     DedicatedVideoMemory : 15894437888 bytes
+LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+LogD3D11RHI:     SharedSystemMemory : 16933203968 bytes
+LogD3D11RHI:     AdapterLuid : 0 21196
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows Server 2019 (Release 1809) (), CPU: Intel(R) Xeon(R) Platinum 8259CL CPU @ 2.50GHz, GPU: NVIDIA Tesla T4
+LogInit: Compiled (64-bit): Nov 30 2021 07:26:28
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -AudioMixer -PixelStreamingIP=3.213.182.208 -PixelStreamingPort=8888 -RenderOffScreen
+LogInit: Base Directory: C:/Users/Administrator/Desktop/Rapyd Hackathon/Game/WindowsNoEditor/thirdpersonvr/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 30
+LogDevObjectVersion:   Dev-ControlRig (A7820CFB-20A7-4359-8C54-2C149623CF50): 6
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogLinker: AddRedirectList(../../../thirdpersonvr/Saved/Config/WindowsNoEditor/VaRest.ini) has substring redirect /VaRestPlugin/, these are very slow and should be resolved as soon as possible!
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2022.05.30-18.08.08:276][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2022.05.30-18.08.08:276][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.05.30-18.08.08:276][  0]LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2022.05.30-18.08.08:276][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.05.30-18.08.08:276][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.05.30-18.08.08:276][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2022.05.30-18.08.08:276][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2022.05.30-18.08.08:276][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2022.05.30-18.08.08:276][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2022.05.30-18.08.08:276][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2022.05.30-18.08.08:276][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2022.05.30-18.08.08:276][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2022.05.30-18.08.08:276][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.05.30-18.08.08:276][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2022.05.30-18.08.08:276][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2022.05.30-18.08.08:276][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2022.05.30-18.08.08:276][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2022.05.30-18.08.08:276][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.VT.EnableAutoImport:1]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[vr.VRS.HMDFixedFoveationLevel:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2022.05.30-18.08.08:277][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:0]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:1]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:1]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.Mobile.SupportsGen4TAA:0]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[r.SkinCache.BlendUsingVertexColorForRecomputeTangents:2]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.05.30-18.08.08:278][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.05.30-18.08.08:278][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.05.30-18.08.08:279][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-18.08.08:279][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.30-18.08.08:279][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.30-18.08.08:279][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-18.08.08:279][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.30-18.08.08:279][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-18.08.08:279][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.30-18.08.08:279][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.30-18.08.08:280][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2022.05.30-18.08.08:281][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2022.05.30-18.08.08:281][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2022.05.30-18.08.08:281][  0]LogHAL: Display: Platform has ~ 32 GB [33866407936 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.30-18.08.08:281][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2022.05.30-18.08.08:281][  0]LogInit: Going up to parent DeviceProfile []
+[2022.05.30-18.08.08:281][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.30-18.08.08:281][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.05.30-18.08.08:282][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../thirdpersonvr/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.05.30-18.08.08:282][  0]LogConfig: Setting CVar [[fx.Niagara.ForceLastTickGroup:1]]
+[2022.05.30-18.08.08:282][  0]LogInit: Computer: EC2AMAZ-1O28PJK
+[2022.05.30-18.08.08:282][  0]LogInit: User: Administrator
+[2022.05.30-18.08.08:282][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.05.30-18.08.08:282][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.30-18.08.08:283][  0]LogMemory: Memory total: Physical=31.5GB (32GB approx)
+[2022.05.30-18.08.08:283][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2022.05.30-18.08.08:283][  0]LogMemory: Process Physical Memory: 92.86 MB used, 92.87 MB peak
+[2022.05.30-18.08.08:283][  0]LogMemory: Process Virtual Memory: 96.73 MB used, 96.73 MB peak
+[2022.05.30-18.08.08:283][  0]LogMemory: Physical Memory: 11536.47 MB used,  20761.05 MB free, 32297.52 MB total
+[2022.05.30-18.08.08:283][  0]LogMemory: Virtual Memory: 134200576.00 MB used,  17149.98 MB free, 134217728.00 MB total
+[2022.05.30-18.08.08:283][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.30-18.08.08:293][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.05.30-18.08.08:293][  0]LogInit: Using OS detected language (en-US).
+[2022.05.30-18.08.08:293][  0]LogInit: Using OS detected locale (en-US).
+[2022.05.30-18.08.08:293][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.05.30-18.08.08:324][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.30-18.08.08:331][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.30-18.08.08:331][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.30-18.08.08:346][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.05.30-18.08.08:346][  0]LogD3D11RHI:     GPU DeviceId: 0x1eb8 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.30-18.08.08:346][  0]LogWindows: EnumDisplayDevices:
+[2022.05.30-18.08.08:346][  0]LogWindows:    0. 'NVIDIA Tesla T4' (P:1 D:1)
+[2022.05.30-18.08.08:346][  0]LogWindows:    1. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-18.08.08:346][  0]LogWindows:    2. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-18.08.08:346][  0]LogWindows:    3. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-18.08.08:346][  0]LogWindows:    4. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-18.08.08:346][  0]LogWindows:    5. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-18.08.08:346][  0]LogWindows:    6. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-18.08.08:346][  0]LogWindows:    7. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-18.08.08:346][  0]LogWindows:    8. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-18.08.08:347][  0]LogWindows:    9. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-18.08.08:347][  0]LogWindows:    10. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-18.08.08:347][  0]LogWindows:    11. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-18.08.08:347][  0]LogWindows:    12. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-18.08.08:347][  0]LogWindows:    13. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-18.08.08:347][  0]LogWindows:    14. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-18.08.08:347][  0]LogWindows:    15. 'NVIDIA Tesla T4' (P:0 D:0)
+[2022.05.30-18.08.08:347][  0]LogWindows: DebugString: PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed FoundDriverCount:0 
+[2022.05.30-18.08.08:347][  0]LogD3D11RHI:     Adapter Name: NVIDIA Tesla T4
+[2022.05.30-18.08.08:347][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.05.30-18.08.08:347][  0]LogD3D11RHI:      Driver Date: Unknown
+[2022.05.30-18.08.08:347][  0]LogRHI: Texture pool is 10610 MB (70% of 15158 MB)
+[2022.05.30-18.08.08:347][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.05.30-18.08.08:347][  0]LogD3D11RHI:     Description : NVIDIA Tesla T4
+[2022.05.30-18.08.08:347][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.05.30-18.08.08:347][  0]LogD3D11RHI:     DeviceId    : 1eb8
+[2022.05.30-18.08.08:347][  0]LogD3D11RHI:     SubSysId    : 12a210de
+[2022.05.30-18.08.08:347][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.05.30-18.08.08:347][  0]LogD3D11RHI:     DedicatedVideoMemory : 15894437888 bytes
+[2022.05.30-18.08.08:347][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.05.30-18.08.08:347][  0]LogD3D11RHI:     SharedSystemMemory : 16933203968 bytes
+[2022.05.30-18.08.08:347][  0]LogD3D11RHI:     AdapterLuid : 0 21196
+[2022.05.30-18.08.08:398][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.05.30-18.08.08:398][  0]LogD3D11RHI: Async texture creation enabled
+[2022.05.30-18.08.08:398][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.05.30-18.08.08:413][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.05.30-18.08.08:450][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.05.30-18.08.08:450][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.30-18.08.08:455][  0]LogShaderLibrary: Display: Using ../../../thirdpersonvr/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 2382 unique shaders.
+[2022.05.30-18.08.08:455][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2022.05.30-18.08.08:455][  0]LogShaderLibrary: Display: Logical shader library 'Global' has been created, components 1
+[2022.05.30-18.08.08:456][  0]LogTemp: Warning: Clearing the OS Cache
+[2022.05.30-18.08.08:456][  0]LogODSC: ODSC Thread active.
+[2022.05.30-18.08.08:459][  0]LogPakFile: New pak file ../../../thirdpersonvr/Content/Paks/thirdpersonvr-WindowsNoEditor.pak added to pak precacher.
+[2022.05.30-18.08.08:487][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.30-18.08.08:488][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.30-18.08.08:514][  0]LogShaderLibrary: Display: Using ../../../thirdpersonvr/Content/ShaderArchive-thirdpersonvr-PCD3D_SM5.ushaderbytecode for material shader code. Total 6440 unique shaders.
+[2022.05.30-18.08.08:514][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library thirdpersonvr
+[2022.05.30-18.08.08:514][  0]LogShaderLibrary: Display: Logical shader library 'thirdpersonvr' has been created, components 1
+[2022.05.30-18.08.08:514][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2022.05.30-18.08.08:515][  0]LogShaderLibrary: Display: Using ../../../thirdpersonvr/Content/ShaderArchive-thirdpersonvr-PCD3D_SM5.ushaderbytecode for material shader code. Total 6440 unique shaders.
+[2022.05.30-18.08.08:515][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library thirdpersonvr
+[2022.05.30-18.08.08:515][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2022.05.30-18.08.08:515][  0]LogRHI: Display: Failed to open default shader pipeline cache for thirdpersonvr using shader platform 0.
+[2022.05.30-18.08.08:515][  0]LogRHI: Display: Failed to open default shader pipeline cache for thirdpersonvr using shader platform 0.
+[2022.05.30-18.08.08:515][  0]LogInit: Using OS detected language (en-US).
+[2022.05.30-18.08.08:515][  0]LogInit: Using OS detected locale (en-US).
+[2022.05.30-18.08.08:515][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.05.30-18.08.08:515][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2022.05.30-18.08.08:515][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.05.30-18.08.08:515][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.05.30-18.08.08:518][  0]LogTextLocalizationManager: Compacting localization data took   1.44ms
+[2022.05.30-18.08.08:518][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2022.05.30-18.08.08:617][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.05.30-18.08.08:617][  0]LogPackageLocalizationCache: Processed 35 localized package path(s) for 1 prioritized culture(s) in 0.000086 seconds
+[2022.05.30-18.08.08:625][  0]LogSerialization: Display: AllowBulkDataInIoStore: 'true'
+[2022.05.30-18.08.08:625][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2022.05.30-18.08.08:625][  0]LogInit: Active device profile: [0000020B2C778D40][0000020B27E96DC0 49] WindowsNoEditor
+[2022.05.30-18.08.08:625][  0]LogInit: Profiles: [0000020B2C7788C0][0000020B2063B6E0 49] Windows, [0000020B2C778D40][0000020B27E96DC0 49] WindowsNoEditor, 
+[2022.05.30-18.08.08:638][  0]LogNetVersion: thirdpersonvr 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1214796559)
+[2022.05.30-18.08.08:672][  0]PixelStreamer: Warning: Pixel Streaming audio component will not tick because Pixel Streaming module is not loaded. This is expected on dedicated servers.
+[2022.05.30-18.08.08:699][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.30-18.08.08:699][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.30-18.08.08:700][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.05.30-18.08.08:722][  0]LogMoviePlayer: Initializing movie player
+[2022.05.30-18.08.08:724][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: CF919D9048B05FB50E2B1CA94C9B8C15 | Instance: 218E3B9E467B3E8660AADEB97ACD6627 (EC2AMAZ-1O28PJK-11944).
+[2022.05.30-18.08.08:725][  0]LogVaRest: FVaRestModule::StartupModule(28): VaRest (1.1.33) module started
+[2022.05.30-18.08.08:726][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.30-18.08.08:726][  0]LogOcInput: OculusInput pre-init called
+[2022.05.30-18.08.08:726][  0]PixelStreamer: Initialising Pixel Streaming settings.
+[2022.05.30-18.08.08:731][  0]LogUObjectArray: 17226 objects as part of root set at end of initial load.
+[2022.05.30-18.08.08:731][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2022.05.30-18.08.08:731][  0]LogUObjectAllocator: 3491560 out of 0 bytes used by permanent object pool.
+[2022.05.30-18.08.08:731][  0]LogUObjectArray: CloseDisregardForGC: 17226/17226 objects in disregard for GC pool
+[2022.05.30-18.08.08:732][  0]LogEngine: Initializing Engine...
+[2022.05.30-18.08.08:732][  0]LogVaRest: UVaRestSubsystem::Initialize(24): VaRest subsystem initialized
+[2022.05.30-18.08.08:734][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.05.30-18.08.08:734][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.30-18.08.08:735][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.30-18.08.08:814][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.30-18.08.08:814][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.30-18.08.08:814][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.05.30-18.08.08:815][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.05.30-18.08.08:815][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.30-18.08.08:815][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.30-18.08.08:815][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.30-18.08.08:815][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.30-18.08.08:815][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.30-18.08.08:815][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.30-18.08.08:815][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.30-18.08.08:815][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.30-18.08.08:815][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.30-18.08.08:815][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.30-18.08.08:815][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.30-18.08.08:815][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.30-18.08.08:815][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.30-18.08.08:815][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.30-18.08.08:820][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.30-18.08.08:825][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.30-18.08.08:825][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.05.30-18.08.08:852][  0]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2022.05.30-18.08.08:857][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.30-18.08.08:858][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.30-18.08.08:858][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.30-18.08.08:860][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.30-18.08.08:860][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.30-18.08.08:860][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.30-18.08.08:861][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.30-18.08.08:861][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.30-18.08.08:861][  0]LogInit: FAudioDevice initialized.
+[2022.05.30-18.08.08:862][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.30-18.08.08:862][  0]LogInit: Texture streaming: Enabled
+[2022.05.30-18.08.08:865][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.30-18.08.08:866][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.30-18.08.08:866][  0]LogInit: Display: Game Engine Initialized.
+[2022.05.30-18.08.08:891][  0]LogEncoderNVENC: Created D3D11 device for NVENC on 'NVIDIA Tesla T4'.
+[2022.05.30-18.08.08:901][  0]LogInit: Display: Starting Game.
+[2022.05.30-18.08.08:901][  0]LogNet: Browse: /Game/Downtown_West/Maps/Demo_Environment?Name=Player
+[2022.05.30-18.08.08:901][  0]LogLoad: LoadMap: /Game/Downtown_West/Maps/Demo_Environment?Name=Player
+[2022.05.30-18.08.08:901][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.05.30-18.08.08:902][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-18.08.08:902][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-18.08.08:905][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.30-18.08.08:907][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.05.30-18.08.12:062][  0]LogPakFile: Precache HighWater 16MB
+
+[2022.05.30-18.08.12:062][  0]LogPakFile: Precache HighWater 32MB
+
+[2022.05.30-18.08.12:062][  0]LogPakFile: Precache HighWater 48MB
+
+[2022.05.30-18.08.12:062][  0]LogPakFile: Precache HighWater 64MB
+
+[2022.05.30-18.08.12:062][  0]LogPakFile: Precache HighWater 80MB
+
+[2022.05.30-18.08.12:062][  0]LogPakFile: Precache HighWater 96MB
+
+[2022.05.30-18.08.12:062][  0]LogPakFile: Precache HighWater 112MB
+
+[2022.05.30-18.08.12:116][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Demo_Environment'.
+[2022.05.30-18.08.12:118][  0]LogAIModule: Creating AISystem for world Demo_Environment
+[2022.05.30-18.08.12:124][  0]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.05.30-18.08.12:124][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Downtown_West/Maps/Sub-Levels/Daytime_Lighting) is flushing async loading
+[2022.05.30-18.08.12:346][  0]LogWorld: Bringing World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2022.05.30-18.08.12
+[2022.05.30-18.08.12:353][  0]LogWorld: Bringing up level for play took: 0.105884
+[2022.05.30-18.08.12:443][  0]LogStreaming: Error: Couldn't find file for package /HairStrands/Emitters/StableSpringsSystem requested by async loading code. NameToLoad: /HairStrands/Emitters/StableSpringsSystem
+[2022.05.30-18.08.12:443][  0]LogStreaming: Error: Found 0 dependent packages...
+[2022.05.30-18.08.12:462][  0]LogLoad: Took 3.561635 seconds to LoadMap(/Game/Downtown_West/Maps/Demo_Environment)
+[2022.05.30-18.08.12:463][  0]LogSlate: Took 0.000378 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2022.05.30-18.08.12:988][  0]LogSlate: Took 0.000361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.30-18.08.12:990][  0]LogRHI: Display: ShaderPipelineCache: Paused Batching. 1
+[2022.05.30-18.08.12:990][  0]PixelStreamer: Warning: PixelStreamingIP and PixelStreamingPort are deprecated flags. Use PixelStreamingURL instead. eg. -PixelStreamingURL=ws://3.213.182.208:8888
+[2022.05.30-18.08.12:990][  0]PixelStreamer: PixelStreaming endpoint ID: 
+[2022.05.30-18.08.12:997][  0]LogPixelStreamingSS: Connecting to SS ws://3.213.182.208:8888
+[2022.05.30-18.08.12:997][  0]LogPakFile: AllPaks IndexSizes: DirectoryHashSize=1172848, PathHashSize=16, EntriesSize=339968, TotalSize=1512832
+[2022.05.30-18.08.12:997][  0]LogRHI: Display: ShaderPipelineCache: Resumed Batching. 0
+[2022.05.30-18.08.12:997][  0]LogRHI: Display: ShaderPipelineCache: Batching Resumed.
+[2022.05.30-18.08.12:997][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.30-18.08.12:997][  0]LogLoad: (Engine Initialization) Total time: 5.14 seconds
+[2022.05.30-18.08.13:097][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2022.05.30-18.08.13:224][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.30-18.08.13:266][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-18.08.13:311][  0]LogRenderer: Reallocating scene render targets to support 1024x1024 Format 10 NumSamples 1 (Frame:1).
+[2022.05.30-18.08.13:466][  0]LogRenderer: Reallocating scene render targets to support 1280x1024 Format 10 NumSamples 1 (Frame:2).
+[2022.05.30-18.08.13:561][  0]LogSlate: Slate font cache was flushed
+[2022.05.30-18.08.13:570][  1]LogPixelStreamingSS: Connected to SS
+[2022.05.30-18.08.13:570][  1]LogPixelStreamingSS: <- SS: {"type":"config","peerConnectionOptions":{"iceServers":[{"urls":["stun:stun.l.google.com:19302"]}]}}
+[2022.05.30-18.08.13:596][  1]LogSlate: Took 0.000359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.30-18.08.13:597][  1]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2022.05.30-18.08.13:643][  4]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:4).
+[2022.05.30-18.08.26:116][526]LogPixelStreamingSS: <- SS: {"type":"offer","sdp":"v=0\r\no=- 7360933730172221425 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1 2\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 102 122 127 121 125 107 108 109 124 120 123 119 35 36 37 38 39 40 41 42 114 115 116 117 118 43\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:xZLt\r\na=ice-pwd:m71ifKVuydUOsxDfAf2LVzp1\r\na=ice-options:trickle\r\na=fingerprint:sha-256 C7:DE:CA:FB:10:AA:1C:5B:28:E9:F0:7F:EF:55:ED:32:33:F0:60:92:82:74:32:80:A2:95:9F:28:1A:B7:EB:0B\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 urn:3gpp:video-orientation\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:5 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\na=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\na=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=extmap:10 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\r\na=extmap:11 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\r\na=recvonly\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=96\r\na=rtpmap:98 VP9/90000\r\na=rtcp-fb:98 goog-remb\r\na=rtcp-fb:98 transport-cc\r\na=rtcp-fb:98 ccm fir\r\na=rtcp-fb:98 nack\r\na=rtcp-fb:98 nack pli\r\na=fmtp:98 profile-id=0\r\na=rtpmap:99 rtx/90000\r\na=fmtp:99 apt=98\r\na=rtpmap:100 VP9/90000\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=fmtp:100 profile-id=2\r\na=rtpmap:101 rtx/90000\r\na=fmtp:101 apt=100\r\na=rtpmap:102 VP9/90000\r\na=rtcp-fb:102 goog-remb\r\na=rtcp-fb:102 transport-cc\r\na=rtcp-fb:102 ccm fir\r\na=rtcp-fb:102 nack\r\na=rtcp-fb:102 nack pli\r\na=fmtp:102 profile-id=1\r\na=rtpmap:122 rtx/90000\r\na=fmtp:122 apt=102\r\na=rtpmap:127 H264/90000\r\na=rtcp-fb:127 goog-remb\r\na=rtcp-fb:127 transport-cc\r\na=rtcp-fb:127 ccm fir\r\na=rtcp-fb:127 nack\r\na=rtcp-fb:127 nack pli\r\na=fmtp:127 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f\r\na=rtpmap:121 rtx/90000\r\na=fmtp:121 apt=127\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 goog-remb\r\na=rtcp-fb:125 transport-cc\r\na=rtcp-fb:125 ccm fir\r\na=rtcp-fb:125 nack\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f\r\na=rtpmap:107 rtx/90000\r\na=fmtp:107 apt=125\r\na=rtpmap:108 H264/90000\r\na=rtcp-fb:108 goog-remb\r\na=rtcp-fb:108 transport-cc\r\na=rtcp-fb:108 ccm fir\r\na=rtcp-fb:108 nack\r\na=rtcp-fb:108 nack pli\r\na=fmtp:108 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:109 rtx/90000\r\na=fmtp:109 apt=108\r\na=rtpmap:124 H264/90000\r\na=rtcp-fb:124 goog-remb\r\na=rtcp-fb:124 transport-cc\r\na=rtcp-fb:124 ccm fir\r\na=rtcp-fb:124 nack\r\na=rtcp-fb:124 nack pli\r\na=fmtp:124 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\na=rtpmap:120 rtx/90000\r\na=fmtp:120 apt=124\r\na=rtpmap:123 H264/90000\r\na=rtcp-fb:123 goog-remb\r\na=rtcp-fb:123 transport-cc\r\na=rtcp-fb:123 ccm fir\r\na=rtcp-fb:123 nack\r\na=rtcp-fb:123 nack pli\r\na=fmtp:123 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=4d001f\r\na=rtpmap:119 rtx/90000\r\na=fmtp:119 apt=123\r\na=rtpmap:35 H264/90000\r\na=rtcp-fb:35 goog-remb\r\na=rtcp-fb:35 transport-cc\r\na=rtcp-fb:35 ccm fir\r\na=rtcp-fb:35 nack\r\na=rtcp-fb:35 nack pli\r\na=fmtp:35 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=4d001f\r\na=rtpmap:36 rtx/90000\r\na=fmtp:36 apt=35\r\na=rtpmap:37 H264/90000\r\na=rtcp-fb:37 goog-remb\r\na=rtcp-fb:37 transport-cc\r\na=rtcp-fb:37 ccm fir\r\na=rtcp-fb:37 nack\r\na=rtcp-fb:37 nack pli\r\na=fmtp:37 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=f4001f\r\na=rtpmap:38 rtx/90000\r\na=fmtp:38 apt=37\r\na=rtpmap:39 H264/90000\r\na=rtcp-fb:39 goog-remb\r\na=rtcp-fb:39 transport-cc\r\na=rtcp-fb:39 ccm fir\r\na=rtcp-fb:39 nack\r\na=rtcp-fb:39 nack pli\r\na=fmtp:39 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=f4001f\r\na=rtpmap:40 rtx/90000\r\na=fmtp:40 apt=39\r\na=rtpmap:41 AV1/90000\r\na=rtcp-fb:41 goog-remb\r\na=rtcp-fb:41 transport-cc\r\na=rtcp-fb:41 ccm fir\r\na=rtcp-fb:41 nack\r\na=rtcp-fb:41 nack pli\r\na=rtpmap:42 rtx/90000\r\na=fmtp:42 apt=41\r\na=rtpmap:114 H264/90000\r\na=rtcp-fb:114 goog-remb\r\na=rtcp-fb:114 transport-cc\r\na=rtcp-fb:114 ccm fir\r\na=rtcp-fb:114 nack\r\na=rtcp-fb:114 nack pli\r\na=fmtp:114 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=64001f\r\na=rtpmap:115 rtx/90000\r\na=fmtp:115 apt=114\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 rtx/90000\r\na=fmtp:117 apt=116\r\na=rtpmap:118 ulpfec/90000\r\na=rtpmap:43 flexfec-03/90000\r\na=rtcp-fb:43 goog-remb\r\na=rtcp-fb:43 transport-cc\r\na=fmtp:43 repair-window=10000000\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 63 103 104 9 0 8 110 112 113 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:xZLt\r\na=ice-pwd:m71ifKVuydUOsxDfAf2LVzp1\r\na=ice-options:trickle\r\na=fingerprint:sha-256 C7:DE:CA:FB:10:AA:1C:5B:28:E9:F0:7F:EF:55:ED:32:33:F0:60:92:82:74:32:80:A2:95:9F:28:1A:B7:EB:0B\r\na=setup:actpass\r\na=mid:1\r\na=extmap:14 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1;stereo=1;sprop-maxcapturerate=48000\r\na=rtpmap:63 red/48000/2\r\na=fmtp:63 111/111\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:112 telephone-event/32000\r\na=rtpmap:113 telephone-event/16000\r\na=rtpmap:126 telephone-event/8000\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:xZLt\r\na=ice-pwd:m71ifKVuydUOsxDfAf2LVzp1\r\na=ice-options:trickle\r\na=fingerprint:sha-256 C7:DE:CA:FB:10:AA:1C:5B:28:E9:F0:7F:EF:55:ED:32:33:F0:60:92:82:74:32:80:A2:95:9F:28:1A:B7:EB:0B\r\na=setup:actpass\r\na=mid:2\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n","playerId":"123"}
+[2022.05.30-18.08.26:139][526]PixelStreamer: Creating player session for PlayerId=123
+[2022.05.30-18.08.26:139][526]PixelStreamer: Created FPlayerSession::FPlayerSession: PlayerId=123
+[2022.05.30-18.08.26:139][526]PixelStreamer: Quality controller is now PlayerId=123.
+[2022.05.30-18.08.26:139][526]PixelStreamer: FPlayerSession::OnRenegotiationNeeded : PlayerId=123
+[2022.05.30-18.08.26:139][526]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=123, NewState=HaveRemoteOffer
+[2022.05.30-18.08.26:139][526]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 99182ad8-4380-4405-be96-164a5318f2a1.local 59904 typ host generation 0 ufrag xZLt network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"123"}
+[2022.05.30-18.08.26:150][527]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=123, NewState=Stable
+[2022.05.30-18.08.26:150][527]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=123, NewState=IceConnectionChecking
+[2022.05.30-18.08.26:150][527]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=123, NewState=IceGatheringGathering
+[2022.05.30-18.08.26:151][527]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=123
+[2022.05.30-18.08.26:151][527]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 99182ad8-4380-4405-be96-164a5318f2a1.local 59906 typ host generation 0 ufrag xZLt network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"123"}
+[2022.05.30-18.08.26:151][527]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 99182ad8-4380-4405-be96-164a5318f2a1.local 59908 typ host generation 0 ufrag xZLt network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"123"}
+[2022.05.30-18.08.26:166][528]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=123
+[2022.05.30-18.08.26:206][528]PixelStreamer: Encoder factory addded new encoder - soon to be associated with a player.
+[2022.05.30-18.08.26:206][528]PixelStreamer: PixelStreaming video encoder CONFIG INITIALISED - unassociated with player for now.
+[2022.05.30-18.08.26:206][528]PixelStreamer: PixelStreaming video encoder CALLBACK REGISTERED - unassociated with player for now.
+[2022.05.30-18.08.26:231][529]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51127 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag xZLt network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"123"}
+[2022.05.30-18.08.26:244][530]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=123
+[2022.05.30-18.08.26:244][530]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=123, NewState=IceGatheringComplete
+[2022.05.30-18.08.26:256][530]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51129 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag xZLt network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"123"}
+[2022.05.30-18.08.26:256][530]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51120 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag xZLt network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"123"}
+[2022.05.30-18.08.27:239][574]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=123, NewState=IceConnectionConnected
+[2022.05.30-18.08.27:252][574]PixelStreamer: PixelStreaming video encoder ASSOCIATED with PlayerId=123
+[2022.05.30-18.08.27:820][598]PixelStreamer: FPlayerSession::OnDataChannel : PlayerId=123
+[2022.05.30-18.08.27:840][599]PixelStreamer: SendMessage to: 123 | Type: 7 | Message: { "Encoder": { "TargetBitrate": -1, "MaxBitrate": 20000000, "MinQP": 1, "MaxQP": 51, "RateControl": "CBR", "FillerData": 0, "MultiPass": "FULL" }, "WebRTC": { "DegradationPref": "MAINTAIN_FRAMERATE", "MaxFPS": 60, "MinBitrate": 100000, "MaxBitrate": 20000000, "LowQP": 25, "HighQP": 37 } }
+[2022.05.30-18.08.27:841][599]PixelStreamer: Player 123 has requested quality control through the data channel.
+[2022.05.30-18.08.27:841][599]PixelStreamer: Quality controller is now PlayerId=123.
+[2022.05.30-18.09.13:688][571]LogPixelStreamingSS: <- SS: {"type":"pong","time":1653934153}
+[2022.05.30-18.09.26:124][102]LogPixelStreamingSS: <- SS: {"type":"playerDisconnected","playerId":"123"}
+[2022.05.30-18.09.26:124][102]PixelStreamer: player 123 disconnected
+[2022.05.30-18.09.26:163][102]PixelStreamer: FPlayerSession::~FPlayerSession: PlayerId=123
+[2022.05.30-18.09.26:163][102]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=123, NewState=IceConnectionClosed
+[2022.05.30-18.09.26:163][102]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=123, NewState=Closed
+[2022.05.30-18.09.26:163][102]PixelStreamer: PixelStreaming video encoder RELEASED for PlayerId=123
+[2022.05.30-18.09.26:163][102]PixelStreamer: Encoder factory asked to remove encoder for PlayerId=123
+[2022.05.30-18.09.48:363][ 93]LogPixelStreamingSS: <- SS: {"type":"offer","sdp":"v=0\r\no=- 3424696165193540482 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1 2\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 102 122 127 121 125 107 108 109 124 120 123 119 35 36 37 38 39 40 41 42 114 115 116 117 118 43\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:lcd9\r\na=ice-pwd:17ZvktfRXzkWkXjTnphGzXTr\r\na=ice-options:trickle\r\na=fingerprint:sha-256 8A:FF:90:17:9B:87:CF:2A:D7:89:66:B9:C8:6D:CC:99:3E:86:5C:20:FB:0D:BA:DE:3E:FA:74:40:21:77:E9:EB\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 urn:3gpp:video-orientation\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:5 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\na=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\na=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=extmap:10 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\r\na=extmap:11 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\r\na=recvonly\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=96\r\na=rtpmap:98 VP9/90000\r\na=rtcp-fb:98 goog-remb\r\na=rtcp-fb:98 transport-cc\r\na=rtcp-fb:98 ccm fir\r\na=rtcp-fb:98 nack\r\na=rtcp-fb:98 nack pli\r\na=fmtp:98 profile-id=0\r\na=rtpmap:99 rtx/90000\r\na=fmtp:99 apt=98\r\na=rtpmap:100 VP9/90000\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=fmtp:100 profile-id=2\r\na=rtpmap:101 rtx/90000\r\na=fmtp:101 apt=100\r\na=rtpmap:102 VP9/90000\r\na=rtcp-fb:102 goog-remb\r\na=rtcp-fb:102 transport-cc\r\na=rtcp-fb:102 ccm fir\r\na=rtcp-fb:102 nack\r\na=rtcp-fb:102 nack pli\r\na=fmtp:102 profile-id=1\r\na=rtpmap:122 rtx/90000\r\na=fmtp:122 apt=102\r\na=rtpmap:127 H264/90000\r\na=rtcp-fb:127 goog-remb\r\na=rtcp-fb:127 transport-cc\r\na=rtcp-fb:127 ccm fir\r\na=rtcp-fb:127 nack\r\na=rtcp-fb:127 nack pli\r\na=fmtp:127 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f\r\na=rtpmap:121 rtx/90000\r\na=fmtp:121 apt=127\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 goog-remb\r\na=rtcp-fb:125 transport-cc\r\na=rtcp-fb:125 ccm fir\r\na=rtcp-fb:125 nack\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f\r\na=rtpmap:107 rtx/90000\r\na=fmtp:107 apt=125\r\na=rtpmap:108 H264/90000\r\na=rtcp-fb:108 goog-remb\r\na=rtcp-fb:108 transport-cc\r\na=rtcp-fb:108 ccm fir\r\na=rtcp-fb:108 nack\r\na=rtcp-fb:108 nack pli\r\na=fmtp:108 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:109 rtx/90000\r\na=fmtp:109 apt=108\r\na=rtpmap:124 H264/90000\r\na=rtcp-fb:124 goog-remb\r\na=rtcp-fb:124 transport-cc\r\na=rtcp-fb:124 ccm fir\r\na=rtcp-fb:124 nack\r\na=rtcp-fb:124 nack pli\r\na=fmtp:124 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\na=rtpmap:120 rtx/90000\r\na=fmtp:120 apt=124\r\na=rtpmap:123 H264/90000\r\na=rtcp-fb:123 goog-remb\r\na=rtcp-fb:123 transport-cc\r\na=rtcp-fb:123 ccm fir\r\na=rtcp-fb:123 nack\r\na=rtcp-fb:123 nack pli\r\na=fmtp:123 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=4d001f\r\na=rtpmap:119 rtx/90000\r\na=fmtp:119 apt=123\r\na=rtpmap:35 H264/90000\r\na=rtcp-fb:35 goog-remb\r\na=rtcp-fb:35 transport-cc\r\na=rtcp-fb:35 ccm fir\r\na=rtcp-fb:35 nack\r\na=rtcp-fb:35 nack pli\r\na=fmtp:35 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=4d001f\r\na=rtpmap:36 rtx/90000\r\na=fmtp:36 apt=35\r\na=rtpmap:37 H264/90000\r\na=rtcp-fb:37 goog-remb\r\na=rtcp-fb:37 transport-cc\r\na=rtcp-fb:37 ccm fir\r\na=rtcp-fb:37 nack\r\na=rtcp-fb:37 nack pli\r\na=fmtp:37 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=f4001f\r\na=rtpmap:38 rtx/90000\r\na=fmtp:38 apt=37\r\na=rtpmap:39 H264/90000\r\na=rtcp-fb:39 goog-remb\r\na=rtcp-fb:39 transport-cc\r\na=rtcp-fb:39 ccm fir\r\na=rtcp-fb:39 nack\r\na=rtcp-fb:39 nack pli\r\na=fmtp:39 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=f4001f\r\na=rtpmap:40 rtx/90000\r\na=fmtp:40 apt=39\r\na=rtpmap:41 AV1/90000\r\na=rtcp-fb:41 goog-remb\r\na=rtcp-fb:41 transport-cc\r\na=rtcp-fb:41 ccm fir\r\na=rtcp-fb:41 nack\r\na=rtcp-fb:41 nack pli\r\na=rtpmap:42 rtx/90000\r\na=fmtp:42 apt=41\r\na=rtpmap:114 H264/90000\r\na=rtcp-fb:114 goog-remb\r\na=rtcp-fb:114 transport-cc\r\na=rtcp-fb:114 ccm fir\r\na=rtcp-fb:114 nack\r\na=rtcp-fb:114 nack pli\r\na=fmtp:114 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=64001f\r\na=rtpmap:115 rtx/90000\r\na=fmtp:115 apt=114\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 rtx/90000\r\na=fmtp:117 apt=116\r\na=rtpmap:118 ulpfec/90000\r\na=rtpmap:43 flexfec-03/90000\r\na=rtcp-fb:43 goog-remb\r\na=rtcp-fb:43 transport-cc\r\na=fmtp:43 repair-window=10000000\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 63 103 104 9 0 8 110 112 113 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:lcd9\r\na=ice-pwd:17ZvktfRXzkWkXjTnphGzXTr\r\na=ice-options:trickle\r\na=fingerprint:sha-256 8A:FF:90:17:9B:87:CF:2A:D7:89:66:B9:C8:6D:CC:99:3E:86:5C:20:FB:0D:BA:DE:3E:FA:74:40:21:77:E9:EB\r\na=setup:actpass\r\na=mid:1\r\na=extmap:14 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1;stereo=1;sprop-maxcapturerate=48000\r\na=rtpmap:63 red/48000/2\r\na=fmtp:63 111/111\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:112 telephone-event/32000\r\na=rtpmap:113 telephone-event/16000\r\na=rtpmap:126 telephone-event/8000\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:lcd9\r\na=ice-pwd:17ZvktfRXzkWkXjTnphGzXTr\r\na=ice-options:trickle\r\na=fingerprint:sha-256 8A:FF:90:17:9B:87:CF:2A:D7:89:66:B9:C8:6D:CC:99:3E:86:5C:20:FB:0D:BA:DE:3E:FA:74:40:21:77:E9:EB\r\na=setup:actpass\r\na=mid:2\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n","playerId":"124"}
+[2022.05.30-18.09.48:386][ 93]PixelStreamer: Creating player session for PlayerId=124
+[2022.05.30-18.09.48:386][ 93]PixelStreamer: Created FPlayerSession::FPlayerSession: PlayerId=124
+[2022.05.30-18.09.48:386][ 93]PixelStreamer: Quality controller is now PlayerId=124.
+[2022.05.30-18.09.48:386][ 93]PixelStreamer: FPlayerSession::OnRenegotiationNeeded : PlayerId=124
+[2022.05.30-18.09.48:386][ 93]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=124, NewState=HaveRemoteOffer
+[2022.05.30-18.09.48:386][ 93]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 99182ad8-4380-4405-be96-164a5318f2a1.local 57034 typ host generation 0 ufrag lcd9 network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"124"}
+[2022.05.30-18.09.48:387][ 93]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 99182ad8-4380-4405-be96-164a5318f2a1.local 57036 typ host generation 0 ufrag lcd9 network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"124"}
+[2022.05.30-18.09.48:387][ 93]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 99182ad8-4380-4405-be96-164a5318f2a1.local 57038 typ host generation 0 ufrag lcd9 network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"124"}
+[2022.05.30-18.09.48:398][ 94]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=124, NewState=Stable
+[2022.05.30-18.09.48:398][ 94]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=124, NewState=IceConnectionChecking
+[2022.05.30-18.09.48:398][ 94]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=124, NewState=IceGatheringGathering
+[2022.05.30-18.09.48:398][ 94]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=124
+[2022.05.30-18.09.48:414][ 95]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=124
+[2022.05.30-18.09.48:420][ 95]PixelStreamer: Encoder factory addded new encoder - soon to be associated with a player.
+[2022.05.30-18.09.48:420][ 95]PixelStreamer: PixelStreaming video encoder CONFIG INITIALISED - unassociated with player for now.
+[2022.05.30-18.09.48:420][ 95]PixelStreamer: PixelStreaming video encoder CALLBACK REGISTERED - unassociated with player for now.
+[2022.05.30-18.09.48:463][ 97]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51088 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag lcd9 network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"124"}
+[2022.05.30-18.09.48:463][ 97]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51122 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag lcd9 network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"124"}
+[2022.05.30-18.09.48:463][ 97]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51117 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag lcd9 network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"124"}
+[2022.05.30-18.09.48:493][ 99]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=124
+[2022.05.30-18.09.48:493][ 99]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=124, NewState=IceGatheringComplete
+[2022.05.30-18.09.49:492][144]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=124, NewState=IceConnectionConnected
+[2022.05.30-18.09.49:503][144]PixelStreamer: PixelStreaming video encoder ASSOCIATED with PlayerId=124
+[2022.05.30-18.09.50:068][169]PixelStreamer: FPlayerSession::OnDataChannel : PlayerId=124
+[2022.05.30-18.09.50:068][169]PixelStreamer: SendMessage to: 124 | Type: 7 | Message: { "Encoder": { "TargetBitrate": -1, "MaxBitrate": 20000000, "MinQP": 1, "MaxQP": 51, "RateControl": "CBR", "FillerData": 0, "MultiPass": "FULL" }, "WebRTC": { "DegradationPref": "MAINTAIN_FRAMERATE", "MaxFPS": 60, "MinBitrate": 100000, "MaxBitrate": 20000000, "LowQP": 25, "HighQP": 37 } }
+[2022.05.30-18.09.50:068][169]PixelStreamer: Player 124 has requested quality control through the data channel.
+[2022.05.30-18.09.50:068][169]PixelStreamer: Quality controller is now PlayerId=124.
+[2022.05.30-18.10.13:651][233]LogPixelStreamingSS: <- SS: {"type":"pong","time":1653934213}
+[2022.05.30-18.10.27:007][841]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-18.10.27:305][853]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-18.10.27:679][869]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "0"}]}
+)JSON
+[2022.05.30-18.10.27:964][882]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "0"}]}
+)JSON
+[2022.05.30-18.10.29:599][957]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-18.10.29:683][961]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "0"}]}
+)JSON
+[2022.05.30-18.10.32:620][119]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-18.10.32:727][125]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "0"}]}
+)JSON
+[2022.05.30-18.10.36:307][338]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-18.10.36:430][344]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "0"}]}
+)JSON
+[2022.05.30-18.10.45:587][893]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-18.10.45:680][899]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "0"}]}
+)JSON
+[2022.05.30-18.10.45:904][912]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-18.10.45:984][917]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "0"}]}
+)JSON
+[2022.05.30-18.10.48:361][ 59]LogPixelStreamingSS: <- SS: {"type":"playerDisconnected","playerId":"124"}
+[2022.05.30-18.10.48:361][ 59]PixelStreamer: player 124 disconnected
+[2022.05.30-18.10.48:397][ 59]PixelStreamer: FPlayerSession::~FPlayerSession: PlayerId=124
+[2022.05.30-18.10.48:397][ 59]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=124, NewState=IceConnectionClosed
+[2022.05.30-18.10.48:397][ 59]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=124, NewState=Closed
+[2022.05.30-18.10.48:397][ 59]PixelStreamer: PixelStreaming video encoder RELEASED for PlayerId=124
+[2022.05.30-18.10.48:397][ 59]PixelStreamer: Encoder factory cleaned up stale encoder associated with PlayerId=124
+[2022.05.30-18.10.48:397][ 59]PixelStreamer: Encoder factory asked to remove encoder for PlayerId=124
+[2022.05.30-18.10.54:425][421]LogPixelStreamingSS: <- SS: {"type":"offer","sdp":"v=0\r\no=- 8448938807548830420 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1 2\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 102 122 127 121 125 107 108 109 124 120 123 119 35 36 37 38 39 40 41 42 114 115 116 117 118 43\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:aUzE\r\na=ice-pwd:HiwwxjPWKlbg88p8eTiQXgMR\r\na=ice-options:trickle\r\na=fingerprint:sha-256 31:31:46:02:49:DB:E3:0B:75:80:25:C2:8A:13:95:74:27:E7:CE:76:5B:51:C2:F3:19:00:4E:FB:00:AB:00:DB\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 urn:3gpp:video-orientation\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:5 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\na=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\na=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=extmap:10 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\r\na=extmap:11 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\r\na=recvonly\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=96\r\na=rtpmap:98 VP9/90000\r\na=rtcp-fb:98 goog-remb\r\na=rtcp-fb:98 transport-cc\r\na=rtcp-fb:98 ccm fir\r\na=rtcp-fb:98 nack\r\na=rtcp-fb:98 nack pli\r\na=fmtp:98 profile-id=0\r\na=rtpmap:99 rtx/90000\r\na=fmtp:99 apt=98\r\na=rtpmap:100 VP9/90000\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=fmtp:100 profile-id=2\r\na=rtpmap:101 rtx/90000\r\na=fmtp:101 apt=100\r\na=rtpmap:102 VP9/90000\r\na=rtcp-fb:102 goog-remb\r\na=rtcp-fb:102 transport-cc\r\na=rtcp-fb:102 ccm fir\r\na=rtcp-fb:102 nack\r\na=rtcp-fb:102 nack pli\r\na=fmtp:102 profile-id=1\r\na=rtpmap:122 rtx/90000\r\na=fmtp:122 apt=102\r\na=rtpmap:127 H264/90000\r\na=rtcp-fb:127 goog-remb\r\na=rtcp-fb:127 transport-cc\r\na=rtcp-fb:127 ccm fir\r\na=rtcp-fb:127 nack\r\na=rtcp-fb:127 nack pli\r\na=fmtp:127 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f\r\na=rtpmap:121 rtx/90000\r\na=fmtp:121 apt=127\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 goog-remb\r\na=rtcp-fb:125 transport-cc\r\na=rtcp-fb:125 ccm fir\r\na=rtcp-fb:125 nack\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f\r\na=rtpmap:107 rtx/90000\r\na=fmtp:107 apt=125\r\na=rtpmap:108 H264/90000\r\na=rtcp-fb:108 goog-remb\r\na=rtcp-fb:108 transport-cc\r\na=rtcp-fb:108 ccm fir\r\na=rtcp-fb:108 nack\r\na=rtcp-fb:108 nack pli\r\na=fmtp:108 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:109 rtx/90000\r\na=fmtp:109 apt=108\r\na=rtpmap:124 H264/90000\r\na=rtcp-fb:124 goog-remb\r\na=rtcp-fb:124 transport-cc\r\na=rtcp-fb:124 ccm fir\r\na=rtcp-fb:124 nack\r\na=rtcp-fb:124 nack pli\r\na=fmtp:124 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\na=rtpmap:120 rtx/90000\r\na=fmtp:120 apt=124\r\na=rtpmap:123 H264/90000\r\na=rtcp-fb:123 goog-remb\r\na=rtcp-fb:123 transport-cc\r\na=rtcp-fb:123 ccm fir\r\na=rtcp-fb:123 nack\r\na=rtcp-fb:123 nack pli\r\na=fmtp:123 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=4d001f\r\na=rtpmap:119 rtx/90000\r\na=fmtp:119 apt=123\r\na=rtpmap:35 H264/90000\r\na=rtcp-fb:35 goog-remb\r\na=rtcp-fb:35 transport-cc\r\na=rtcp-fb:35 ccm fir\r\na=rtcp-fb:35 nack\r\na=rtcp-fb:35 nack pli\r\na=fmtp:35 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=4d001f\r\na=rtpmap:36 rtx/90000\r\na=fmtp:36 apt=35\r\na=rtpmap:37 H264/90000\r\na=rtcp-fb:37 goog-remb\r\na=rtcp-fb:37 transport-cc\r\na=rtcp-fb:37 ccm fir\r\na=rtcp-fb:37 nack\r\na=rtcp-fb:37 nack pli\r\na=fmtp:37 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=f4001f\r\na=rtpmap:38 rtx/90000\r\na=fmtp:38 apt=37\r\na=rtpmap:39 H264/90000\r\na=rtcp-fb:39 goog-remb\r\na=rtcp-fb:39 transport-cc\r\na=rtcp-fb:39 ccm fir\r\na=rtcp-fb:39 nack\r\na=rtcp-fb:39 nack pli\r\na=fmtp:39 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=f4001f\r\na=rtpmap:40 rtx/90000\r\na=fmtp:40 apt=39\r\na=rtpmap:41 AV1/90000\r\na=rtcp-fb:41 goog-remb\r\na=rtcp-fb:41 transport-cc\r\na=rtcp-fb:41 ccm fir\r\na=rtcp-fb:41 nack\r\na=rtcp-fb:41 nack pli\r\na=rtpmap:42 rtx/90000\r\na=fmtp:42 apt=41\r\na=rtpmap:114 H264/90000\r\na=rtcp-fb:114 goog-remb\r\na=rtcp-fb:114 transport-cc\r\na=rtcp-fb:114 ccm fir\r\na=rtcp-fb:114 nack\r\na=rtcp-fb:114 nack pli\r\na=fmtp:114 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=64001f\r\na=rtpmap:115 rtx/90000\r\na=fmtp:115 apt=114\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 rtx/90000\r\na=fmtp:117 apt=116\r\na=rtpmap:118 ulpfec/90000\r\na=rtpmap:43 flexfec-03/90000\r\na=rtcp-fb:43 goog-remb\r\na=rtcp-fb:43 transport-cc\r\na=fmtp:43 repair-window=10000000\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 63 103 104 9 0 8 110 112 113 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:aUzE\r\na=ice-pwd:HiwwxjPWKlbg88p8eTiQXgMR\r\na=ice-options:trickle\r\na=fingerprint:sha-256 31:31:46:02:49:DB:E3:0B:75:80:25:C2:8A:13:95:74:27:E7:CE:76:5B:51:C2:F3:19:00:4E:FB:00:AB:00:DB\r\na=setup:actpass\r\na=mid:1\r\na=extmap:14 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1;stereo=1;sprop-maxcapturerate=48000\r\na=rtpmap:63 red/48000/2\r\na=fmtp:63 111/111\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:112 telephone-event/32000\r\na=rtpmap:113 telephone-event/16000\r\na=rtpmap:126 telephone-event/8000\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:aUzE\r\na=ice-pwd:HiwwxjPWKlbg88p8eTiQXgMR\r\na=ice-options:trickle\r\na=fingerprint:sha-256 31:31:46:02:49:DB:E3:0B:75:80:25:C2:8A:13:95:74:27:E7:CE:76:5B:51:C2:F3:19:00:4E:FB:00:AB:00:DB\r\na=setup:actpass\r\na=mid:2\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n","playerId":"125"}
+[2022.05.30-18.10.54:439][421]PixelStreamer: Creating player session for PlayerId=125
+[2022.05.30-18.10.54:439][421]PixelStreamer: Created FPlayerSession::FPlayerSession: PlayerId=125
+[2022.05.30-18.10.54:439][421]PixelStreamer: Quality controller is now PlayerId=125.
+[2022.05.30-18.10.54:439][421]PixelStreamer: FPlayerSession::OnRenegotiationNeeded : PlayerId=125
+[2022.05.30-18.10.54:439][421]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=125, NewState=HaveRemoteOffer
+[2022.05.30-18.10.54:439][421]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 99182ad8-4380-4405-be96-164a5318f2a1.local 55088 typ host generation 0 ufrag aUzE network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"125"}
+[2022.05.30-18.10.54:439][421]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 99182ad8-4380-4405-be96-164a5318f2a1.local 55090 typ host generation 0 ufrag aUzE network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"125"}
+[2022.05.30-18.10.54:439][421]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 99182ad8-4380-4405-be96-164a5318f2a1.local 55092 typ host generation 0 ufrag aUzE network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"125"}
+[2022.05.30-18.10.54:449][422]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=125, NewState=Stable
+[2022.05.30-18.10.54:449][422]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=125, NewState=IceConnectionChecking
+[2022.05.30-18.10.54:449][422]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=125, NewState=IceGatheringGathering
+[2022.05.30-18.10.54:449][422]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=125
+[2022.05.30-18.10.54:467][423]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=125
+[2022.05.30-18.10.54:467][423]PixelStreamer: Encoder factory addded new encoder - soon to be associated with a player.
+[2022.05.30-18.10.54:467][423]PixelStreamer: PixelStreaming video encoder CONFIG INITIALISED - unassociated with player for now.
+[2022.05.30-18.10.54:467][423]PixelStreamer: PixelStreaming video encoder CALLBACK REGISTERED - unassociated with player for now.
+[2022.05.30-18.10.54:549][428]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=125
+[2022.05.30-18.10.54:549][428]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=125, NewState=IceGatheringComplete
+[2022.05.30-18.10.54:566][429]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51089 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag aUzE network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"125"}
+[2022.05.30-18.10.54:567][429]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51092 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag aUzE network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"125"}
+[2022.05.30-18.10.54:599][431]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51078 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag aUzE network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"125"}
+[2022.05.30-18.10.55:499][485]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=125, NewState=IceConnectionConnected
+[2022.05.30-18.10.55:515][486]PixelStreamer: PixelStreaming video encoder ASSOCIATED with PlayerId=125
+[2022.05.30-18.10.56:082][520]PixelStreamer: FPlayerSession::OnDataChannel : PlayerId=125
+[2022.05.30-18.10.56:082][520]PixelStreamer: SendMessage to: 125 | Type: 7 | Message: { "Encoder": { "TargetBitrate": -1, "MaxBitrate": 20000000, "MinQP": 1, "MaxQP": 51, "RateControl": "CBR", "FillerData": 0, "MultiPass": "FULL" }, "WebRTC": { "DegradationPref": "MAINTAIN_FRAMERATE", "MaxFPS": 60, "MinBitrate": 100000, "MaxBitrate": 20000000, "LowQP": 25, "HighQP": 37 } }
+[2022.05.30-18.10.56:082][520]PixelStreamer: Player 125 has requested quality control through the data channel.
+[2022.05.30-18.10.56:082][520]PixelStreamer: Quality controller is now PlayerId=125.
+[2022.05.30-18.11.09:211][300]LogVaRest: UVaRestRequestJSON::ProcessRequest(360): Request (urlencoded): GET https://61ucow4ixa.execute-api.us-east-1.amazonaws.com/default/GetTable?c=checkout_201b97ac719fc329a2b77fa8bb6e7feb (check bExtendedLog for additional data)
+[2022.05.30-18.11.09:321][307]LogVaRest: Response (200): 
+JSON(
+{"message": [{"coin": "0"}]}
+)JSON
+[2022.05.30-18.11.13:648][565]LogPixelStreamingSS: <- SS: {"type":"pong","time":1653934273}
+[2022.05.30-18.11.44:082][266]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=125, NewState=IceConnectionDisconnected
+[2022.05.30-18.11.44:133][269]LogPixelStreamingSS: <- SS: {"type":"playerDisconnected","playerId":"125"}
+[2022.05.30-18.11.44:133][269]PixelStreamer: player 125 disconnected
+[2022.05.30-18.11.44:166][269]PixelStreamer: FPlayerSession::~FPlayerSession: PlayerId=125
+[2022.05.30-18.11.44:166][269]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=125, NewState=IceConnectionClosed
+[2022.05.30-18.11.44:166][269]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=125, NewState=Closed
+[2022.05.30-18.11.44:166][269]PixelStreamer: PixelStreaming video encoder RELEASED for PlayerId=125
+[2022.05.30-18.11.44:166][269]PixelStreamer: Encoder factory asked to remove encoder for PlayerId=125
+[2022.05.30-18.11.59:676][200]LogPixelStreamingSS: <- SS: {"type":"offer","sdp":"v=0\r\no=- 8285133169006748443 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1 2\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 102 122 127 121 125 107 108 109 124 120 123 119 35 36 37 38 39 40 41 42 114 115 116 117 118 43\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:dX/Y\r\na=ice-pwd:q1GFbEZoTvX+RIvlLB/lw5gt\r\na=ice-options:trickle\r\na=fingerprint:sha-256 60:84:B3:C4:DE:02:B3:7A:6A:B5:35:20:D7:AA:B7:10:3B:B3:CC:44:7B:A0:10:A9:55:B4:0E:0C:71:95:F3:AF\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 urn:3gpp:video-orientation\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:5 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\na=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\na=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=extmap:10 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\r\na=extmap:11 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\r\na=recvonly\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=96\r\na=rtpmap:98 VP9/90000\r\na=rtcp-fb:98 goog-remb\r\na=rtcp-fb:98 transport-cc\r\na=rtcp-fb:98 ccm fir\r\na=rtcp-fb:98 nack\r\na=rtcp-fb:98 nack pli\r\na=fmtp:98 profile-id=0\r\na=rtpmap:99 rtx/90000\r\na=fmtp:99 apt=98\r\na=rtpmap:100 VP9/90000\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=fmtp:100 profile-id=2\r\na=rtpmap:101 rtx/90000\r\na=fmtp:101 apt=100\r\na=rtpmap:102 VP9/90000\r\na=rtcp-fb:102 goog-remb\r\na=rtcp-fb:102 transport-cc\r\na=rtcp-fb:102 ccm fir\r\na=rtcp-fb:102 nack\r\na=rtcp-fb:102 nack pli\r\na=fmtp:102 profile-id=1\r\na=rtpmap:122 rtx/90000\r\na=fmtp:122 apt=102\r\na=rtpmap:127 H264/90000\r\na=rtcp-fb:127 goog-remb\r\na=rtcp-fb:127 transport-cc\r\na=rtcp-fb:127 ccm fir\r\na=rtcp-fb:127 nack\r\na=rtcp-fb:127 nack pli\r\na=fmtp:127 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f\r\na=rtpmap:121 rtx/90000\r\na=fmtp:121 apt=127\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 goog-remb\r\na=rtcp-fb:125 transport-cc\r\na=rtcp-fb:125 ccm fir\r\na=rtcp-fb:125 nack\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f\r\na=rtpmap:107 rtx/90000\r\na=fmtp:107 apt=125\r\na=rtpmap:108 H264/90000\r\na=rtcp-fb:108 goog-remb\r\na=rtcp-fb:108 transport-cc\r\na=rtcp-fb:108 ccm fir\r\na=rtcp-fb:108 nack\r\na=rtcp-fb:108 nack pli\r\na=fmtp:108 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:109 rtx/90000\r\na=fmtp:109 apt=108\r\na=rtpmap:124 H264/90000\r\na=rtcp-fb:124 goog-remb\r\na=rtcp-fb:124 transport-cc\r\na=rtcp-fb:124 ccm fir\r\na=rtcp-fb:124 nack\r\na=rtcp-fb:124 nack pli\r\na=fmtp:124 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\na=rtpmap:120 rtx/90000\r\na=fmtp:120 apt=124\r\na=rtpmap:123 H264/90000\r\na=rtcp-fb:123 goog-remb\r\na=rtcp-fb:123 transport-cc\r\na=rtcp-fb:123 ccm fir\r\na=rtcp-fb:123 nack\r\na=rtcp-fb:123 nack pli\r\na=fmtp:123 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=4d001f\r\na=rtpmap:119 rtx/90000\r\na=fmtp:119 apt=123\r\na=rtpmap:35 H264/90000\r\na=rtcp-fb:35 goog-remb\r\na=rtcp-fb:35 transport-cc\r\na=rtcp-fb:35 ccm fir\r\na=rtcp-fb:35 nack\r\na=rtcp-fb:35 nack pli\r\na=fmtp:35 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=4d001f\r\na=rtpmap:36 rtx/90000\r\na=fmtp:36 apt=35\r\na=rtpmap:37 H264/90000\r\na=rtcp-fb:37 goog-remb\r\na=rtcp-fb:37 transport-cc\r\na=rtcp-fb:37 ccm fir\r\na=rtcp-fb:37 nack\r\na=rtcp-fb:37 nack pli\r\na=fmtp:37 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=f4001f\r\na=rtpmap:38 rtx/90000\r\na=fmtp:38 apt=37\r\na=rtpmap:39 H264/90000\r\na=rtcp-fb:39 goog-remb\r\na=rtcp-fb:39 transport-cc\r\na=rtcp-fb:39 ccm fir\r\na=rtcp-fb:39 nack\r\na=rtcp-fb:39 nack pli\r\na=fmtp:39 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=f4001f\r\na=rtpmap:40 rtx/90000\r\na=fmtp:40 apt=39\r\na=rtpmap:41 AV1/90000\r\na=rtcp-fb:41 goog-remb\r\na=rtcp-fb:41 transport-cc\r\na=rtcp-fb:41 ccm fir\r\na=rtcp-fb:41 nack\r\na=rtcp-fb:41 nack pli\r\na=rtpmap:42 rtx/90000\r\na=fmtp:42 apt=41\r\na=rtpmap:114 H264/90000\r\na=rtcp-fb:114 goog-remb\r\na=rtcp-fb:114 transport-cc\r\na=rtcp-fb:114 ccm fir\r\na=rtcp-fb:114 nack\r\na=rtcp-fb:114 nack pli\r\na=fmtp:114 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=64001f\r\na=rtpmap:115 rtx/90000\r\na=fmtp:115 apt=114\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 rtx/90000\r\na=fmtp:117 apt=116\r\na=rtpmap:118 ulpfec/90000\r\na=rtpmap:43 flexfec-03/90000\r\na=rtcp-fb:43 goog-remb\r\na=rtcp-fb:43 transport-cc\r\na=fmtp:43 repair-window=10000000\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 63 103 104 9 0 8 110 112 113 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:dX/Y\r\na=ice-pwd:q1GFbEZoTvX+RIvlLB/lw5gt\r\na=ice-options:trickle\r\na=fingerprint:sha-256 60:84:B3:C4:DE:02:B3:7A:6A:B5:35:20:D7:AA:B7:10:3B:B3:CC:44:7B:A0:10:A9:55:B4:0E:0C:71:95:F3:AF\r\na=setup:actpass\r\na=mid:1\r\na=extmap:14 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1;stereo=1;sprop-maxcapturerate=48000\r\na=rtpmap:63 red/48000/2\r\na=fmtp:63 111/111\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:112 telephone-event/32000\r\na=rtpmap:113 telephone-event/16000\r\na=rtpmap:126 telephone-event/8000\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:dX/Y\r\na=ice-pwd:q1GFbEZoTvX+RIvlLB/lw5gt\r\na=ice-options:trickle\r\na=fingerprint:sha-256 60:84:B3:C4:DE:02:B3:7A:6A:B5:35:20:D7:AA:B7:10:3B:B3:CC:44:7B:A0:10:A9:55:B4:0E:0C:71:95:F3:AF\r\na=setup:actpass\r\na=mid:2\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n","playerId":"126"}
+[2022.05.30-18.11.59:691][200]PixelStreamer: Creating player session for PlayerId=126
+[2022.05.30-18.11.59:691][200]PixelStreamer: Created FPlayerSession::FPlayerSession: PlayerId=126
+[2022.05.30-18.11.59:691][200]PixelStreamer: Quality controller is now PlayerId=126.
+[2022.05.30-18.11.59:691][200]PixelStreamer: FPlayerSession::OnRenegotiationNeeded : PlayerId=126
+[2022.05.30-18.11.59:691][200]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=126, NewState=HaveRemoteOffer
+[2022.05.30-18.11.59:691][200]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 2a930e0f-b36c-41c7-830b-77637bdc12b8.local 61893 typ host generation 0 ufrag dX/Y network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"126"}
+[2022.05.30-18.11.59:691][200]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 2a930e0f-b36c-41c7-830b-77637bdc12b8.local 61895 typ host generation 0 ufrag dX/Y network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"126"}
+[2022.05.30-18.11.59:691][200]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:850141900 1 udp 2113937151 2a930e0f-b36c-41c7-830b-77637bdc12b8.local 61897 typ host generation 0 ufrag dX/Y network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"126"}
+[2022.05.30-18.11.59:700][201]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=126, NewState=Stable
+[2022.05.30-18.11.59:700][201]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=126, NewState=IceConnectionChecking
+[2022.05.30-18.11.59:700][201]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=126, NewState=IceGatheringGathering
+[2022.05.30-18.11.59:700][201]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=126
+[2022.05.30-18.11.59:718][202]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=126
+[2022.05.30-18.11.59:718][202]PixelStreamer: Encoder factory addded new encoder - soon to be associated with a player.
+[2022.05.30-18.11.59:718][202]PixelStreamer: PixelStreaming video encoder CONFIG INITIALISED - unassociated with player for now.
+[2022.05.30-18.11.59:718][202]PixelStreamer: PixelStreaming video encoder CALLBACK REGISTERED - unassociated with player for now.
+[2022.05.30-18.11.59:801][207]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=126
+[2022.05.30-18.11.59:801][207]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=126, NewState=IceGatheringComplete
+[2022.05.30-18.11.59:817][208]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51083 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag dX/Y network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"126"}
+[2022.05.30-18.11.59:817][208]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51084 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag dX/Y network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"126"}
+[2022.05.30-18.11.59:817][208]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 42.111.240.141 51100 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag dX/Y network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"126"}
+[2022.05.30-18.12.00:785][266]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=126, NewState=IceConnectionConnected
+[2022.05.30-18.12.00:801][267]PixelStreamer: PixelStreaming video encoder ASSOCIATED with PlayerId=126
+[2022.05.30-18.12.01:368][301]PixelStreamer: FPlayerSession::OnDataChannel : PlayerId=126
+[2022.05.30-18.12.01:368][301]PixelStreamer: SendMessage to: 126 | Type: 7 | Message: { "Encoder": { "TargetBitrate": -1, "MaxBitrate": 20000000, "MinQP": 1, "MaxQP": 51, "RateControl": "CBR", "FillerData": 0, "MultiPass": "FULL" }, "WebRTC": { "DegradationPref": "MAINTAIN_FRAMERATE", "MaxFPS": 60, "MinBitrate": 100000, "MaxBitrate": 20000000, "LowQP": 25, "HighQP": 37 } }
+[2022.05.30-18.12.01:368][301]PixelStreamer: Player 126 has requested quality control through the data channel.
+[2022.05.30-18.12.01:368][301]PixelStreamer: Quality controller is now PlayerId=126.
+[2022.05.30-18.12.13:651][ 38]LogPixelStreamingSS: <- SS: {"type":"pong","time":1653934333}
+[2022.05.30-18.12.52:004][338]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=126, NewState=IceConnectionDisconnected
+[2022.05.30-18.12.52:021][339]LogPixelStreamingSS: <- SS: {"type":"playerDisconnected","playerId":"126"}
+[2022.05.30-18.12.52:021][339]PixelStreamer: player 126 disconnected
+[2022.05.30-18.12.52:054][339]PixelStreamer: FPlayerSession::~FPlayerSession: PlayerId=126
+[2022.05.30-18.12.52:054][339]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=126, NewState=IceConnectionClosed
+[2022.05.30-18.12.52:054][339]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=126, NewState=Closed
+[2022.05.30-18.12.52:054][339]PixelStreamer: PixelStreaming video encoder RELEASED for PlayerId=126
+[2022.05.30-18.12.52:055][339]PixelStreamer: Encoder factory asked to remove encoder for PlayerId=126
+[2022.05.30-18.13.13:648][635]LogPixelStreamingSS: <- SS: {"type":"pong","time":1653934393}
+[2022.05.30-18.13.25:124][323]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2022.05.30-18.13.25:145][324]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.30-18.13.25:145][324]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.05.30-18.13.47:849][671]LogAudioMixer: Warning: Changing default audio render device to new device: {3.0.0.00000002}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}.
+[2022.05.30-18.13.47:868][672]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.30-18.13.47:868][672]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.05.30-18.13.47:926][672]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.30-18.13.47:926][672]LogAudioMixer: Display: 1: FrontRight
+[2022.05.30-18.13.47:926][672]LogAudio: Display: Waited 35.730103 ms for audio thread.
+[2022.05.30-18.13.47:961][672]LogAudio: Display: Waited 70.755196 ms for audio thread.
+[2022.05.30-18.13.47:997][672]LogAudio: Display: Waited 106.728500 ms for audio thread.
+[2022.05.30-18.13.48:032][672]LogAudio: Display: Waited 141.755188 ms for audio thread.
+[2022.05.30-18.13.48:068][672]LogAudio: Display: Waited 177.743408 ms for audio thread.
+[2022.05.30-18.13.48:104][672]LogAudio: Display: Waited 213.707108 ms for audio thread.
+[2022.05.30-18.13.48:139][672]LogAudio: Display: Waited 248.730896 ms for audio thread.
+[2022.05.30-18.13.48:174][672]LogAudio: Display: Waited 283.737396 ms for audio thread.
+[2022.05.30-18.13.48:209][672]LogAudio: Display: Waited 318.734192 ms for audio thread.
+[2022.05.30-18.13.48:244][672]LogAudio: Display: Waited 353.750122 ms for audio thread.
+[2022.05.30-18.13.48:280][672]LogAudio: Display: Waited 389.744598 ms for audio thread.
+[2022.05.30-18.13.48:316][672]LogAudio: Display: Waited 425.719696 ms for audio thread.
+[2022.05.30-18.13.48:351][672]LogAudio: Display: Waited 460.733398 ms for audio thread.
+[2022.05.30-18.13.48:386][672]LogAudio: Display: Waited 495.743408 ms for audio thread.
+[2022.05.30-18.13.48:421][672]LogAudio: Display: Waited 530.744629 ms for audio thread.
+[2022.05.30-18.13.48:457][672]LogAudio: Display: Waited 566.734314 ms for audio thread.
+[2022.05.30-18.13.48:492][672]LogAudio: Display: Waited 601.740784 ms for audio thread.
+[2022.05.30-18.13.48:527][672]LogAudio: Display: Waited 636.767700 ms for audio thread.
+[2022.05.30-18.13.48:563][672]LogAudio: Display: Waited 672.723694 ms for audio thread.
+[2022.05.30-18.13.48:598][672]LogAudio: Display: Waited 707.730164 ms for audio thread.
+[2022.05.30-18.13.48:634][672]LogAudio: Display: Waited 743.725159 ms for audio thread.
+[2022.05.30-18.13.48:669][672]LogAudio: Display: Waited 778.734680 ms for audio thread.
+[2022.05.30-18.13.48:705][672]LogAudio: Display: Waited 814.746521 ms for audio thread.
+[2022.05.30-18.13.48:741][672]LogAudio: Display: Waited 850.726440 ms for audio thread.
+[2022.05.30-18.13.48:777][672]LogAudio: Display: Waited 886.731628 ms for audio thread.
+[2022.05.30-18.13.48:812][672]LogAudio: Display: Waited 921.739502 ms for audio thread.
+[2022.05.30-18.13.48:848][672]LogAudio: Display: Waited 957.737061 ms for audio thread.
+[2022.05.30-18.13.48:884][672]LogAudio: Display: Waited 993.723206 ms for audio thread.
+[2022.05.30-18.13.48:919][672]LogAudio: Display: Waited 1028.749512 ms for audio thread.
+[2022.05.30-18.13.48:955][672]LogAudio: Display: Waited 1064.734497 ms for audio thread.
+[2022.05.30-18.13.48:991][672]LogAudio: Display: Waited 1100.739990 ms for audio thread.
+[2022.05.30-18.13.49:027][672]LogAudio: Display: Waited 1136.719360 ms for audio thread.
+[2022.05.30-18.13.49:062][672]LogAudio: Display: Waited 1171.737427 ms for audio thread.
+[2022.05.30-18.13.49:097][672]LogAudio: Display: Waited 1206.735840 ms for audio thread.
+[2022.05.30-18.13.49:133][672]LogAudio: Display: Waited 1242.721436 ms for audio thread.
+[2022.05.30-18.13.49:169][672]LogAudio: Display: Waited 1278.737061 ms for audio thread.
+[2022.05.30-18.13.49:205][672]LogAudio: Display: Waited 1314.710815 ms for audio thread.
+[2022.05.30-18.13.49:240][672]LogAudio: Display: Waited 1349.732056 ms for audio thread.
+[2022.05.30-18.13.49:276][672]LogAudio: Display: Waited 1385.709473 ms for audio thread.
+[2022.05.30-18.13.49:312][672]LogAudio: Display: Waited 1421.712524 ms for audio thread.
+[2022.05.30-18.13.49:347][672]LogAudio: Display: Waited 1456.733032 ms for audio thread.
+[2022.05.30-18.13.49:383][672]LogAudio: Display: Waited 1492.723999 ms for audio thread.
+[2022.05.30-18.13.49:418][672]LogAudio: Display: Waited 1527.773315 ms for audio thread.
+[2022.05.30-18.13.49:454][672]LogAudio: Display: Waited 1563.754272 ms for audio thread.
+[2022.05.30-18.13.49:490][672]LogAudio: Display: Waited 1599.739868 ms for audio thread.
+[2022.05.30-18.13.49:525][672]LogAudio: Display: Waited 1634.751587 ms for audio thread.
+[2022.05.30-18.13.49:561][672]LogAudio: Display: Waited 1670.720459 ms for audio thread.
+[2022.05.30-18.13.49:596][672]LogAudio: Display: Waited 1705.749512 ms for audio thread.
+[2022.05.30-18.13.49:632][672]LogAudio: Display: Waited 1741.719971 ms for audio thread.
+[2022.05.30-18.13.49:668][672]LogAudio: Display: Waited 1777.719604 ms for audio thread.
+[2022.05.30-18.13.49:704][672]LogAudio: Display: Waited 1813.710571 ms for audio thread.
+[2022.05.30-18.13.49:740][672]LogAudio: Display: Waited 1849.713745 ms for audio thread.
+[2022.05.30-18.13.49:776][672]LogAudio: Display: Waited 1885.709961 ms for audio thread.
+[2022.05.30-18.13.49:812][672]LogAudio: Display: Waited 1921.707153 ms for audio thread.
+[2022.05.30-18.13.49:848][672]LogAudio: Display: Waited 1957.708984 ms for audio thread.
+[2022.05.30-18.13.49:884][672]LogAudio: Display: Waited 1993.718140 ms for audio thread.
+[2022.05.30-18.13.49:920][672]LogAudio: Display: Waited 2029.716675 ms for audio thread.
+[2022.05.30-18.13.49:955][672]LogAudio: Display: Waited 2064.710449 ms for audio thread.
+[2022.05.30-18.13.49:991][672]LogAudio: Display: Waited 2100.709717 ms for audio thread.
+[2022.05.30-18.13.50:026][672]LogAudio: Display: Waited 2135.709717 ms for audio thread.
+[2022.05.30-18.13.50:061][672]LogAudio: Display: Waited 2170.710205 ms for audio thread.
+[2022.05.30-18.13.50:097][672]LogAudio: Display: Waited 2206.705811 ms for audio thread.
+[2022.05.30-18.13.50:132][672]LogAudio: Display: Waited 2241.713623 ms for audio thread.
+[2022.05.30-18.13.50:167][672]LogAudio: Display: Waited 2276.712158 ms for audio thread.
+[2022.05.30-18.13.50:203][672]LogAudio: Display: Waited 2312.710205 ms for audio thread.
+[2022.05.30-18.13.50:238][672]LogAudio: Display: Waited 2347.706787 ms for audio thread.
+[2022.05.30-18.13.50:274][672]LogAudio: Display: Waited 2383.711182 ms for audio thread.
+[2022.05.30-18.13.50:309][672]LogAudio: Display: Waited 2418.708984 ms for audio thread.
+[2022.05.30-18.13.50:344][672]LogAudio: Display: Waited 2453.706299 ms for audio thread.
+[2022.05.30-18.13.50:379][672]LogAudio: Display: Waited 2488.715820 ms for audio thread.
+[2022.05.30-18.13.50:415][672]LogAudio: Display: Waited 2524.714111 ms for audio thread.
+[2022.05.30-18.13.50:450][672]LogAudio: Display: Waited 2559.712646 ms for audio thread.
+[2022.05.30-18.13.50:486][672]LogAudio: Display: Waited 2595.706787 ms for audio thread.
+[2022.05.30-18.13.50:521][672]LogAudio: Display: Waited 2630.709717 ms for audio thread.
+[2022.05.30-18.13.50:556][672]LogAudio: Display: Waited 2665.711670 ms for audio thread.
+[2022.05.30-18.13.50:592][672]LogAudio: Display: Waited 2701.706055 ms for audio thread.
+[2022.05.30-18.13.50:628][672]LogAudio: Display: Waited 2737.706787 ms for audio thread.
+[2022.05.30-18.13.50:663][672]LogAudio: Display: Waited 2772.710938 ms for audio thread.
+[2022.05.30-18.13.50:699][672]LogAudio: Display: Waited 2808.708740 ms for audio thread.
+[2022.05.30-18.13.50:734][672]LogAudio: Display: Waited 2843.718506 ms for audio thread.
+[2022.05.30-18.13.50:770][672]LogAudio: Display: Waited 2879.712891 ms for audio thread.
+[2022.05.30-18.13.50:806][672]LogAudio: Display: Waited 2915.710205 ms for audio thread.
+[2022.05.30-18.13.50:841][672]LogAudio: Display: Waited 2950.704834 ms for audio thread.
+[2022.05.30-18.13.50:877][672]LogAudio: Display: Waited 2986.708984 ms for audio thread.
+[2022.05.30-18.13.50:912][672]LogAudio: Display: Waited 3021.707275 ms for audio thread.
+[2022.05.30-18.13.50:948][672]LogAudio: Display: Waited 3057.710938 ms for audio thread.
+[2022.05.30-18.13.50:984][672]LogAudio: Display: Waited 3093.712646 ms for audio thread.
+[2022.05.30-18.13.51:019][672]LogAudio: Display: Waited 3128.709473 ms for audio thread.
+[2022.05.30-18.13.51:055][672]LogAudio: Display: Waited 3164.710205 ms for audio thread.
+[2022.05.30-18.13.51:091][672]LogAudio: Display: Waited 3200.714600 ms for audio thread.
+[2022.05.30-18.13.51:126][672]LogAudio: Display: Waited 3235.712402 ms for audio thread.
+[2022.05.30-18.13.51:162][672]LogAudio: Display: Waited 3271.706299 ms for audio thread.
+[2022.05.30-18.13.51:197][672]LogAudio: Display: Waited 3306.714600 ms for audio thread.
+[2022.05.30-18.13.51:232][672]LogAudio: Display: Waited 3341.745117 ms for audio thread.
+[2022.05.30-18.13.51:268][672]LogAudio: Display: Waited 3377.711426 ms for audio thread.
+[2022.05.30-18.13.51:303][672]LogAudio: Display: Waited 3412.712402 ms for audio thread.
+[2022.05.30-18.13.51:339][672]LogAudio: Display: Waited 3448.705566 ms for audio thread.
+[2022.05.30-18.13.51:374][672]LogAudio: Display: Waited 3483.715332 ms for audio thread.
+[2022.05.30-18.13.51:409][672]LogAudio: Display: Waited 3518.711914 ms for audio thread.
+[2022.05.30-18.13.51:445][672]LogAudio: Display: Waited 3554.705078 ms for audio thread.
+[2022.05.30-18.13.51:480][672]LogAudio: Display: Waited 3589.712158 ms for audio thread.
+[2022.05.30-18.13.51:515][672]LogAudio: Display: Waited 3624.707764 ms for audio thread.
+[2022.05.30-18.13.51:551][672]LogAudio: Display: Waited 3660.709717 ms for audio thread.
+[2022.05.30-18.13.51:586][672]LogAudio: Display: Waited 3695.711426 ms for audio thread.
+[2022.05.30-18.13.51:621][672]LogAudio: Display: Waited 3730.710205 ms for audio thread.
+[2022.05.30-18.13.51:657][672]LogAudio: Display: Waited 3766.714355 ms for audio thread.
+[2022.05.30-18.13.51:693][672]LogAudio: Display: Waited 3802.710449 ms for audio thread.
+[2022.05.30-18.13.51:728][672]LogAudio: Display: Waited 3837.716309 ms for audio thread.
+[2022.05.30-18.13.51:764][672]LogAudio: Display: Waited 3873.713135 ms for audio thread.
+[2022.05.30-18.13.51:800][672]LogAudio: Display: Waited 3909.713135 ms for audio thread.
+[2022.05.30-18.13.51:835][672]LogAudio: Display: Waited 3944.709229 ms for audio thread.
+[2022.05.30-18.13.51:871][672]LogAudio: Display: Waited 3980.709473 ms for audio thread.
+[2022.05.30-18.13.51:907][672]LogAudio: Display: Waited 4016.712158 ms for audio thread.
+[2022.05.30-18.13.51:943][672]LogAudio: Display: Waited 4052.708984 ms for audio thread.
+[2022.05.30-18.13.51:979][672]LogAudio: Display: Waited 4088.709717 ms for audio thread.
+[2022.05.30-18.13.52:014][672]LogAudio: Display: Waited 4123.706055 ms for audio thread.
+[2022.05.30-18.13.52:049][672]LogAudio: Display: Waited 4158.711914 ms for audio thread.
+[2022.05.30-18.13.52:084][672]LogAudio: Display: Waited 4193.713867 ms for audio thread.
+[2022.05.30-18.13.52:120][672]LogAudio: Display: Waited 4229.708008 ms for audio thread.
+[2022.05.30-18.13.52:156][672]LogAudio: Display: Waited 4265.706543 ms for audio thread.
+[2022.05.30-18.13.52:192][672]LogAudio: Display: Waited 4301.712891 ms for audio thread.
+[2022.05.30-18.13.52:227][672]LogAudio: Display: Waited 4336.734375 ms for audio thread.
+[2022.05.30-18.13.52:263][672]LogAudio: Display: Waited 4372.709961 ms for audio thread.
+[2022.05.30-18.13.52:298][672]LogAudio: Display: Waited 4407.709961 ms for audio thread.
+[2022.05.30-18.13.52:334][672]LogAudio: Display: Waited 4443.709961 ms for audio thread.
+[2022.05.30-18.13.52:370][672]LogAudio: Display: Waited 4479.713867 ms for audio thread.
+[2022.05.30-18.13.52:405][672]LogAudio: Display: Waited 4514.708008 ms for audio thread.
+[2022.05.30-18.13.52:440][672]LogAudio: Display: Waited 4549.709961 ms for audio thread.
+[2022.05.30-18.13.52:476][672]LogAudio: Display: Waited 4585.711426 ms for audio thread.
+[2022.05.30-18.13.52:512][672]LogAudio: Display: Waited 4621.710449 ms for audio thread.
+[2022.05.30-18.13.52:548][672]LogAudio: Display: Waited 4657.705078 ms for audio thread.
+[2022.05.30-18.13.52:583][672]LogAudio: Display: Waited 4692.709473 ms for audio thread.
+[2022.05.30-18.13.52:619][672]LogAudio: Display: Waited 4728.709473 ms for audio thread.
+[2022.05.30-18.13.52:654][672]LogAudio: Display: Waited 4763.710449 ms for audio thread.
+[2022.05.30-18.13.52:689][672]LogAudio: Display: Waited 4798.709961 ms for audio thread.
+[2022.05.30-18.13.52:724][672]LogAudio: Display: Waited 4833.713379 ms for audio thread.
+[2022.05.30-18.13.52:760][672]LogAudio: Display: Waited 4869.706055 ms for audio thread.
+[2022.05.30-18.13.52:795][672]LogAudio: Display: Waited 4904.713867 ms for audio thread.
+[2022.05.30-18.13.52:831][672]LogAudio: Display: Waited 4940.710938 ms for audio thread.
+[2022.05.30-18.13.52:866][672]LogAudio: Display: Waited 4975.706055 ms for audio thread.
+[2022.05.30-18.13.52:902][672]LogAudio: Display: Waited 5011.711426 ms for audio thread.
+[2022.05.30-18.13.52:937][672]LogAudio: Display: Waited 5046.706543 ms for audio thread.
+[2022.05.30-18.13.52:972][672]LogAudio: Display: Waited 5081.716797 ms for audio thread.
+[2022.05.30-18.13.52:997][672]LogAudio: Display: Waited 5107.600586 ms for audio thread.
+[2022.05.30-18.13.52:998][673]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.30-18.13.53:025][674]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.30-18.13.53:025][674]LogAudioMixer: Display: 1: FrontRight
+[2022.05.30-18.14.05:747][424]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2022.05.30-18.14.05:761][425]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.30-18.14.05:761][425]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.05.30-18.14.18:386][181]LogPixelStreamingSS: <- SS: {"type":"pong","time":1653934458}
+[2022.05.30-18.14.31:257][942]LogAudioMixer: Warning: Changing default audio render device to new device: {3.0.0.00000002}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}.
+[2022.05.30-18.14.31:312][942]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.30-18.14.31:312][942]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.05.30-18.14.31:312][942]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.30-18.14.31:312][942]LogAudioMixer: Display: 1: FrontRight
+[2022.05.30-18.14.31:312][942]LogAudio: Display: Waited 35.810200 ms for audio thread.
+[2022.05.30-18.14.31:347][942]LogAudio: Display: Waited 70.810898 ms for audio thread.
+[2022.05.30-18.14.31:382][942]LogAudio: Display: Waited 105.818001 ms for audio thread.
+[2022.05.30-18.14.31:418][942]LogAudio: Display: Waited 141.796097 ms for audio thread.
+[2022.05.30-18.14.31:453][942]LogAudio: Display: Waited 176.805893 ms for audio thread.
+[2022.05.30-18.14.31:488][942]LogAudio: Display: Waited 211.821793 ms for audio thread.
+[2022.05.30-18.14.31:524][942]LogAudio: Display: Waited 247.823196 ms for audio thread.
+[2022.05.30-18.14.31:560][942]LogAudio: Display: Waited 283.817200 ms for audio thread.
+[2022.05.30-18.14.31:595][942]LogAudio: Display: Waited 318.819092 ms for audio thread.
+[2022.05.30-18.14.31:630][942]LogAudio: Display: Waited 353.816498 ms for audio thread.
+[2022.05.30-18.14.31:666][942]LogAudio: Display: Waited 388.840485 ms for audio thread.
+[2022.05.30-18.14.31:701][942]LogAudio: Display: Waited 424.815399 ms for audio thread.
+[2022.05.30-18.14.31:737][942]LogAudio: Display: Waited 459.848114 ms for audio thread.
+[2022.05.30-18.14.31:772][942]LogAudio: Display: Waited 495.826813 ms for audio thread.
+[2022.05.30-18.14.31:808][942]LogAudio: Display: Waited 530.839355 ms for audio thread.
+[2022.05.30-18.14.31:843][942]LogAudio: Display: Waited 565.944702 ms for audio thread.
+[2022.05.30-18.14.31:878][942]LogAudio: Display: Waited 601.811523 ms for audio thread.
+[2022.05.30-18.14.31:913][942]LogAudio: Display: Waited 636.820801 ms for audio thread.
+[2022.05.30-18.14.31:949][942]LogAudio: Display: Waited 671.831299 ms for audio thread.
+[2022.05.30-18.14.31:984][942]LogAudio: Display: Waited 707.815613 ms for audio thread.
+[2022.05.30-18.14.32:020][942]LogAudio: Display: Waited 742.835266 ms for audio thread.
+[2022.05.30-18.14.32:055][942]LogAudio: Display: Waited 778.813171 ms for audio thread.
+[2022.05.30-18.14.32:091][942]LogAudio: Display: Waited 813.841003 ms for audio thread.
+[2022.05.30-18.14.32:127][942]LogAudio: Display: Waited 849.830933 ms for audio thread.
+[2022.05.30-18.14.32:162][942]LogAudio: Display: Waited 884.828796 ms for audio thread.
+[2022.05.30-18.14.32:197][942]LogAudio: Display: Waited 919.830505 ms for audio thread.
+[2022.05.30-18.14.32:232][942]LogAudio: Display: Waited 955.814026 ms for audio thread.
+[2022.05.30-18.14.32:268][942]LogAudio: Display: Waited 990.823914 ms for audio thread.
+[2022.05.30-18.14.32:303][942]LogAudio: Display: Waited 1025.845215 ms for audio thread.
+[2022.05.30-18.14.32:339][942]LogAudio: Display: Waited 1061.827515 ms for audio thread.
+[2022.05.30-18.14.32:374][942]LogAudio: Display: Waited 1096.834351 ms for audio thread.
+[2022.05.30-18.14.32:409][942]LogAudio: Display: Waited 1132.799316 ms for audio thread.
+[2022.05.30-18.14.32:444][942]LogAudio: Display: Waited 1167.817993 ms for audio thread.
+[2022.05.30-18.14.32:480][942]LogAudio: Display: Waited 1202.836792 ms for audio thread.
+[2022.05.30-18.14.32:516][942]LogAudio: Display: Waited 1238.821533 ms for audio thread.
+[2022.05.30-18.14.32:551][942]LogAudio: Display: Waited 1274.801880 ms for audio thread.
+[2022.05.30-18.14.32:587][942]LogAudio: Display: Waited 1310.826294 ms for audio thread.
+[2022.05.30-18.14.32:623][942]LogAudio: Display: Waited 1345.829468 ms for audio thread.
+[2022.05.30-18.14.32:658][942]LogAudio: Display: Waited 1381.805054 ms for audio thread.
+[2022.05.30-18.14.32:693][942]LogAudio: Display: Waited 1416.804565 ms for audio thread.
+[2022.05.30-18.14.32:729][942]LogAudio: Display: Waited 1452.821655 ms for audio thread.
+[2022.05.30-18.14.32:765][942]LogAudio: Display: Waited 1488.815552 ms for audio thread.
+[2022.05.30-18.14.32:801][942]LogAudio: Display: Waited 1523.817871 ms for audio thread.
+[2022.05.30-18.14.32:836][942]LogAudio: Display: Waited 1559.819336 ms for audio thread.
+[2022.05.30-18.14.32:873][942]LogAudio: Display: Waited 1595.826782 ms for audio thread.
+[2022.05.30-18.14.32:908][942]LogAudio: Display: Waited 1631.814087 ms for audio thread.
+[2022.05.30-18.14.32:944][942]LogAudio: Display: Waited 1667.807373 ms for audio thread.
+[2022.05.30-18.14.32:980][942]LogAudio: Display: Waited 1702.832642 ms for audio thread.
+[2022.05.30-18.14.33:015][942]LogAudio: Display: Waited 1738.799927 ms for audio thread.
+[2022.05.30-18.14.33:051][942]LogAudio: Display: Waited 1774.799927 ms for audio thread.
+[2022.05.30-18.14.33:086][942]LogAudio: Display: Waited 1809.792725 ms for audio thread.
+[2022.05.30-18.14.33:121][942]LogAudio: Display: Waited 1844.803833 ms for audio thread.
+[2022.05.30-18.14.33:157][942]LogAudio: Display: Waited 1880.795044 ms for audio thread.
+[2022.05.30-18.14.33:192][942]LogAudio: Display: Waited 1915.790039 ms for audio thread.
+[2022.05.30-18.14.33:228][942]LogAudio: Display: Waited 1951.794800 ms for audio thread.
+[2022.05.30-18.14.33:264][942]LogAudio: Display: Waited 1987.805054 ms for audio thread.
+[2022.05.30-18.14.33:300][942]LogAudio: Display: Waited 2023.793945 ms for audio thread.
+[2022.05.30-18.14.33:335][942]LogAudio: Display: Waited 2058.791992 ms for audio thread.
+[2022.05.30-18.14.33:371][942]LogAudio: Display: Waited 2094.791260 ms for audio thread.
+[2022.05.30-18.14.33:406][942]LogAudio: Display: Waited 2129.796387 ms for audio thread.
+[2022.05.30-18.14.33:441][942]LogAudio: Display: Waited 2164.794678 ms for audio thread.
+[2022.05.30-18.14.33:477][942]LogAudio: Display: Waited 2200.791992 ms for audio thread.
+[2022.05.30-18.14.33:512][942]LogAudio: Display: Waited 2235.796143 ms for audio thread.
+[2022.05.30-18.14.33:548][942]LogAudio: Display: Waited 2271.797852 ms for audio thread.
+[2022.05.30-18.14.33:583][942]LogAudio: Display: Waited 2306.795898 ms for audio thread.
+[2022.05.30-18.14.33:619][942]LogAudio: Display: Waited 2342.791260 ms for audio thread.
+[2022.05.30-18.14.33:655][942]LogAudio: Display: Waited 2378.793213 ms for audio thread.
+[2022.05.30-18.14.33:691][942]LogAudio: Display: Waited 2414.800781 ms for audio thread.
+[2022.05.30-18.14.33:727][942]LogAudio: Display: Waited 2450.793213 ms for audio thread.
+[2022.05.30-18.14.33:763][942]LogAudio: Display: Waited 2486.791504 ms for audio thread.
+[2022.05.30-18.14.33:799][942]LogAudio: Display: Waited 2522.791992 ms for audio thread.
+[2022.05.30-18.14.33:834][942]LogAudio: Display: Waited 2557.799805 ms for audio thread.
+[2022.05.30-18.14.33:870][942]LogAudio: Display: Waited 2593.792725 ms for audio thread.
+[2022.05.30-18.14.33:905][942]LogAudio: Display: Waited 2628.792969 ms for audio thread.
+[2022.05.30-18.14.33:940][942]LogAudio: Display: Waited 2663.795166 ms for audio thread.
+[2022.05.30-18.14.33:976][942]LogAudio: Display: Waited 2699.791016 ms for audio thread.
+[2022.05.30-18.14.34:011][942]LogAudio: Display: Waited 2734.801025 ms for audio thread.
+[2022.05.30-18.14.34:046][942]LogAudio: Display: Waited 2769.791504 ms for audio thread.
+[2022.05.30-18.14.34:082][942]LogAudio: Display: Waited 2805.799805 ms for audio thread.
+[2022.05.30-18.14.34:118][942]LogAudio: Display: Waited 2841.795654 ms for audio thread.
+[2022.05.30-18.14.34:153][942]LogAudio: Display: Waited 2876.797607 ms for audio thread.
+[2022.05.30-18.14.34:188][942]LogAudio: Display: Waited 2911.797119 ms for audio thread.
+[2022.05.30-18.14.34:224][942]LogAudio: Display: Waited 2947.796631 ms for audio thread.
+[2022.05.30-18.14.34:259][942]LogAudio: Display: Waited 2982.794922 ms for audio thread.
+[2022.05.30-18.14.34:295][942]LogAudio: Display: Waited 3018.833740 ms for audio thread.
+[2022.05.30-18.14.34:331][942]LogAudio: Display: Waited 3054.794434 ms for audio thread.
+[2022.05.30-18.14.34:367][942]LogAudio: Display: Waited 3090.793701 ms for audio thread.
+[2022.05.30-18.14.34:402][942]LogAudio: Display: Waited 3125.805908 ms for audio thread.
+[2022.05.30-18.14.34:438][942]LogAudio: Display: Waited 3161.797607 ms for audio thread.
+[2022.05.30-18.14.34:474][942]LogAudio: Display: Waited 3197.789063 ms for audio thread.
+[2022.05.30-18.14.34:509][942]LogAudio: Display: Waited 3232.793213 ms for audio thread.
+[2022.05.30-18.14.34:545][942]LogAudio: Display: Waited 3268.794189 ms for audio thread.
+[2022.05.30-18.14.34:581][942]LogAudio: Display: Waited 3304.790527 ms for audio thread.
+[2022.05.30-18.14.34:617][942]LogAudio: Display: Waited 3340.802002 ms for audio thread.
+[2022.05.30-18.14.34:652][942]LogAudio: Display: Waited 3375.792480 ms for audio thread.
+[2022.05.30-18.14.34:687][942]LogAudio: Display: Waited 3410.799072 ms for audio thread.
+[2022.05.30-18.14.34:723][942]LogAudio: Display: Waited 3446.795654 ms for audio thread.
+[2022.05.30-18.14.34:758][942]LogAudio: Display: Waited 3481.802734 ms for audio thread.
+[2022.05.30-18.14.34:794][942]LogAudio: Display: Waited 3517.796143 ms for audio thread.
+[2022.05.30-18.14.34:829][942]LogAudio: Display: Waited 3552.798096 ms for audio thread.
+[2022.05.30-18.14.34:865][942]LogAudio: Display: Waited 3588.796631 ms for audio thread.
+[2022.05.30-18.14.34:901][942]LogAudio: Display: Waited 3624.791504 ms for audio thread.
+[2022.05.30-18.14.34:936][942]LogAudio: Display: Waited 3659.794922 ms for audio thread.
+[2022.05.30-18.14.34:971][942]LogAudio: Display: Waited 3694.796387 ms for audio thread.
+[2022.05.30-18.14.35:007][942]LogAudio: Display: Waited 3730.799805 ms for audio thread.
+[2022.05.30-18.14.35:042][942]LogAudio: Display: Waited 3765.794189 ms for audio thread.
+[2022.05.30-18.14.35:078][942]LogAudio: Display: Waited 3801.798096 ms for audio thread.
+[2022.05.30-18.14.35:113][942]LogAudio: Display: Waited 3836.790771 ms for audio thread.
+[2022.05.30-18.14.35:149][942]LogAudio: Display: Waited 3872.798340 ms for audio thread.
+[2022.05.30-18.14.35:184][942]LogAudio: Display: Waited 3907.794922 ms for audio thread.
+[2022.05.30-18.14.35:219][942]LogAudio: Display: Waited 3942.791748 ms for audio thread.
+[2022.05.30-18.14.35:255][942]LogAudio: Display: Waited 3978.801758 ms for audio thread.
+[2022.05.30-18.14.35:290][942]LogAudio: Display: Waited 4013.795410 ms for audio thread.
+[2022.05.30-18.14.35:325][942]LogAudio: Display: Waited 4048.797607 ms for audio thread.
+[2022.05.30-18.14.35:361][942]LogAudio: Display: Waited 4084.793457 ms for audio thread.
+[2022.05.30-18.14.35:396][942]LogAudio: Display: Waited 4119.795410 ms for audio thread.
+[2022.05.30-18.14.35:431][942]LogAudio: Display: Waited 4154.794922 ms for audio thread.
+[2022.05.30-18.14.35:466][942]LogAudio: Display: Waited 4189.797852 ms for audio thread.
+[2022.05.30-18.14.35:502][942]LogAudio: Display: Waited 4225.797852 ms for audio thread.
+[2022.05.30-18.14.35:539][942]LogAudio: Display: Waited 4261.796387 ms for audio thread.
+[2022.05.30-18.14.35:574][942]LogAudio: Display: Waited 4297.796875 ms for audio thread.
+[2022.05.30-18.14.35:609][942]LogAudio: Display: Waited 4332.792969 ms for audio thread.
+[2022.05.30-18.14.35:645][942]LogAudio: Display: Waited 4368.819824 ms for audio thread.
+[2022.05.30-18.14.35:681][942]LogAudio: Display: Waited 4404.795898 ms for audio thread.
+[2022.05.30-18.14.35:716][942]LogAudio: Display: Waited 4439.791992 ms for audio thread.
+[2022.05.30-18.14.35:752][942]LogAudio: Display: Waited 4475.794922 ms for audio thread.
+[2022.05.30-18.14.35:787][942]LogAudio: Display: Waited 4510.800293 ms for audio thread.
+[2022.05.30-18.14.35:823][942]LogAudio: Display: Waited 4546.793945 ms for audio thread.
+[2022.05.30-18.14.35:859][942]LogAudio: Display: Waited 4582.792969 ms for audio thread.
+[2022.05.30-18.14.35:894][942]LogAudio: Display: Waited 4617.797363 ms for audio thread.
+[2022.05.30-18.14.35:929][942]LogAudio: Display: Waited 4652.797852 ms for audio thread.
+[2022.05.30-18.14.35:965][942]LogAudio: Display: Waited 4688.791992 ms for audio thread.
+[2022.05.30-18.14.36:001][942]LogAudio: Display: Waited 4724.796387 ms for audio thread.
+[2022.05.30-18.14.36:037][942]LogAudio: Display: Waited 4760.792969 ms for audio thread.
+[2022.05.30-18.14.36:072][942]LogAudio: Display: Waited 4795.791016 ms for audio thread.
+[2022.05.30-18.14.36:108][942]LogAudio: Display: Waited 4830.825195 ms for audio thread.
+[2022.05.30-18.14.36:144][942]LogAudio: Display: Waited 4866.803711 ms for audio thread.
+[2022.05.30-18.14.36:179][942]LogAudio: Display: Waited 4902.796387 ms for audio thread.
+[2022.05.30-18.14.36:216][942]LogAudio: Display: Waited 4938.806641 ms for audio thread.
+[2022.05.30-18.14.36:251][942]LogAudio: Display: Waited 4974.800293 ms for audio thread.
+[2022.05.30-18.14.36:287][942]LogAudio: Display: Waited 5010.794922 ms for audio thread.
+[2022.05.30-18.14.36:322][942]LogAudio: Display: Waited 5045.792969 ms for audio thread.
+[2022.05.30-18.14.36:358][942]LogAudio: Display: Waited 5081.796875 ms for audio thread.
+[2022.05.30-18.14.36:380][942]LogAudio: Display: Waited 5103.117188 ms for audio thread.
+[2022.05.30-18.14.36:380][943]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.30-18.14.36:405][944]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.30-18.14.36:405][944]LogAudioMixer: Display: 1: FrontRight
+[2022.05.30-18.15.23:099][727]LogPixelStreamingSS: <- SS: {"type":"pong","time":1653934523}
+[2022.05.30-18.15.55:192][650]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2022.05.30-18.15.55:192][650]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.30-18.15.55:209][651]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.05.30-18.16.23:105][323]LogPixelStreamingSS: <- SS: {"type":"pong","time":1653934583}
+[2022.05.30-18.17.23:085][921]LogPixelStreamingSS: <- SS: {"type":"pong","time":1653934643}
+[2022.05.30-18.17.41:436][983]LogAudioMixer: Warning: Changing default audio render device to new device: {3.0.0.00000002}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}.
+[2022.05.30-18.17.41:492][983]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.30-18.17.41:492][983]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.05.30-18.17.41:492][983]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.30-18.17.41:492][983]LogAudioMixer: Display: 1: FrontRight
+[2022.05.30-18.17.41:492][983]LogAudio: Display: Waited 35.723801 ms for audio thread.
+[2022.05.30-18.17.41:528][983]LogAudio: Display: Waited 71.480904 ms for audio thread.
+[2022.05.30-18.17.41:564][983]LogAudio: Display: Waited 107.483398 ms for audio thread.
+[2022.05.30-18.17.41:599][983]LogAudio: Display: Waited 142.484695 ms for audio thread.
+[2022.05.30-18.17.41:635][983]LogAudio: Display: Waited 178.473907 ms for audio thread.
+[2022.05.30-18.17.41:671][983]LogAudio: Display: Waited 214.477203 ms for audio thread.
+[2022.05.30-18.17.41:706][983]LogAudio: Display: Waited 249.489395 ms for audio thread.
+[2022.05.30-18.17.41:742][983]LogAudio: Display: Waited 285.490082 ms for audio thread.
+[2022.05.30-18.17.41:778][983]LogAudio: Display: Waited 321.482697 ms for audio thread.
+[2022.05.30-18.17.41:813][983]LogAudio: Display: Waited 356.481598 ms for audio thread.
+[2022.05.30-18.17.41:849][983]LogAudio: Display: Waited 392.495605 ms for audio thread.
+[2022.05.30-18.17.41:885][983]LogAudio: Display: Waited 428.468903 ms for audio thread.
+[2022.05.30-18.17.41:920][983]LogAudio: Display: Waited 463.475922 ms for audio thread.
+[2022.05.30-18.17.41:956][983]LogAudio: Display: Waited 499.474609 ms for audio thread.
+[2022.05.30-18.17.41:991][983]LogAudio: Display: Waited 534.486755 ms for audio thread.
+[2022.05.30-18.17.42:027][983]LogAudio: Display: Waited 570.486023 ms for audio thread.
+[2022.05.30-18.17.42:063][983]LogAudio: Display: Waited 606.475159 ms for audio thread.
+[2022.05.30-18.17.42:098][983]LogAudio: Display: Waited 641.482788 ms for audio thread.
+[2022.05.30-18.17.42:134][983]LogAudio: Display: Waited 677.488342 ms for audio thread.
+[2022.05.30-18.17.42:170][983]LogAudio: Display: Waited 713.485413 ms for audio thread.
+[2022.05.30-18.17.42:206][983]LogAudio: Display: Waited 749.468811 ms for audio thread.
+[2022.05.30-18.17.42:241][983]LogAudio: Display: Waited 784.497375 ms for audio thread.
+[2022.05.30-18.17.42:277][983]LogAudio: Display: Waited 820.499451 ms for audio thread.
+[2022.05.30-18.17.42:313][983]LogAudio: Display: Waited 856.468079 ms for audio thread.
+[2022.05.30-18.17.42:348][983]LogAudio: Display: Waited 891.493103 ms for audio thread.
+[2022.05.30-18.17.42:384][983]LogAudio: Display: Waited 927.480591 ms for audio thread.
+[2022.05.30-18.17.42:419][983]LogAudio: Display: Waited 962.472046 ms for audio thread.
+[2022.05.30-18.17.42:455][983]LogAudio: Display: Waited 998.470032 ms for audio thread.
+[2022.05.30-18.17.42:490][983]LogAudio: Display: Waited 1033.472046 ms for audio thread.
+[2022.05.30-18.17.42:526][983]LogAudio: Display: Waited 1069.472412 ms for audio thread.
+[2022.05.30-18.17.42:561][983]LogAudio: Display: Waited 1104.473999 ms for audio thread.
+[2022.05.30-18.17.42:597][983]LogAudio: Display: Waited 1140.449585 ms for audio thread.
+[2022.05.30-18.17.42:633][983]LogAudio: Display: Waited 1176.451660 ms for audio thread.
+[2022.05.30-18.17.42:668][983]LogAudio: Display: Waited 1211.492920 ms for audio thread.
+[2022.05.30-18.17.42:704][983]LogAudio: Display: Waited 1247.458740 ms for audio thread.
+[2022.05.30-18.17.42:739][983]LogAudio: Display: Waited 1282.471924 ms for audio thread.
+[2022.05.30-18.17.42:774][983]LogAudio: Display: Waited 1317.479614 ms for audio thread.
+[2022.05.30-18.17.42:809][983]LogAudio: Display: Waited 1352.478760 ms for audio thread.
+[2022.05.30-18.17.42:844][983]LogAudio: Display: Waited 1387.485718 ms for audio thread.
+[2022.05.30-18.17.42:880][983]LogAudio: Display: Waited 1423.474243 ms for audio thread.
+[2022.05.30-18.17.42:915][983]LogAudio: Display: Waited 1458.461060 ms for audio thread.
+[2022.05.30-18.17.42:950][983]LogAudio: Display: Waited 1493.473633 ms for audio thread.
+[2022.05.30-18.17.42:985][983]LogAudio: Display: Waited 1528.476318 ms for audio thread.
+[2022.05.30-18.17.43:021][983]LogAudio: Display: Waited 1564.449585 ms for audio thread.
+[2022.05.30-18.17.43:057][983]LogAudio: Display: Waited 1600.446167 ms for audio thread.
+[2022.05.30-18.17.43:092][983]LogAudio: Display: Waited 1635.449829 ms for audio thread.
+[2022.05.30-18.17.43:128][983]LogAudio: Display: Waited 1671.453857 ms for audio thread.
+[2022.05.30-18.17.43:164][983]LogAudio: Display: Waited 1707.449219 ms for audio thread.
+[2022.05.30-18.17.43:199][983]LogAudio: Display: Waited 1742.455322 ms for audio thread.
+[2022.05.30-18.17.43:235][983]LogAudio: Display: Waited 1778.451660 ms for audio thread.
+[2022.05.30-18.17.43:271][983]LogAudio: Display: Waited 1814.455078 ms for audio thread.
+[2022.05.30-18.17.43:307][983]LogAudio: Display: Waited 1850.453003 ms for audio thread.
+[2022.05.30-18.17.43:342][983]LogAudio: Display: Waited 1885.449463 ms for audio thread.
+[2022.05.30-18.17.43:378][983]LogAudio: Display: Waited 1921.456665 ms for audio thread.
+[2022.05.30-18.17.43:413][983]LogAudio: Display: Waited 1956.448853 ms for audio thread.
+[2022.05.30-18.17.43:448][983]LogAudio: Display: Waited 1991.455933 ms for audio thread.
+[2022.05.30-18.17.43:484][983]LogAudio: Display: Waited 2027.494385 ms for audio thread.
+[2022.05.30-18.17.43:520][983]LogAudio: Display: Waited 2063.449707 ms for audio thread.
+[2022.05.30-18.17.43:555][983]LogAudio: Display: Waited 2098.447754 ms for audio thread.
+[2022.05.30-18.17.43:591][983]LogAudio: Display: Waited 2134.454346 ms for audio thread.
+[2022.05.30-18.17.43:627][983]LogAudio: Display: Waited 2170.449951 ms for audio thread.
+[2022.05.30-18.17.43:662][983]LogAudio: Display: Waited 2205.458496 ms for audio thread.
+[2022.05.30-18.17.43:698][983]LogAudio: Display: Waited 2241.458008 ms for audio thread.
+[2022.05.30-18.17.43:734][983]LogAudio: Display: Waited 2277.449707 ms for audio thread.
+[2022.05.30-18.17.43:769][983]LogAudio: Display: Waited 2312.450439 ms for audio thread.
+[2022.05.30-18.17.43:804][983]LogAudio: Display: Waited 2347.483154 ms for audio thread.
+[2022.05.30-18.17.43:840][983]LogAudio: Display: Waited 2383.447266 ms for audio thread.
+[2022.05.30-18.17.43:876][983]LogAudio: Display: Waited 2419.452393 ms for audio thread.
+[2022.05.30-18.17.43:911][983]LogAudio: Display: Waited 2454.449951 ms for audio thread.
+[2022.05.30-18.17.43:947][983]LogAudio: Display: Waited 2490.451416 ms for audio thread.
+[2022.05.30-18.17.43:982][983]LogAudio: Display: Waited 2525.449219 ms for audio thread.
+[2022.05.30-18.17.44:018][983]LogAudio: Display: Waited 2561.449951 ms for audio thread.
+[2022.05.30-18.17.44:054][983]LogAudio: Display: Waited 2597.447021 ms for audio thread.
+[2022.05.30-18.17.44:089][983]LogAudio: Display: Waited 2632.451904 ms for audio thread.
+[2022.05.30-18.17.44:124][983]LogAudio: Display: Waited 2667.450684 ms for audio thread.
+[2022.05.30-18.17.44:160][983]LogAudio: Display: Waited 2703.458252 ms for audio thread.
+[2022.05.30-18.17.44:196][983]LogAudio: Display: Waited 2739.449707 ms for audio thread.
+[2022.05.30-18.17.44:232][983]LogAudio: Display: Waited 2775.448242 ms for audio thread.
+[2022.05.30-18.17.44:268][983]LogAudio: Display: Waited 2811.451904 ms for audio thread.
+[2022.05.30-18.17.44:303][983]LogAudio: Display: Waited 2846.457031 ms for audio thread.
+[2022.05.30-18.17.44:339][983]LogAudio: Display: Waited 2882.447510 ms for audio thread.
+[2022.05.30-18.17.44:375][983]LogAudio: Display: Waited 2918.448242 ms for audio thread.
+[2022.05.30-18.17.44:410][983]LogAudio: Display: Waited 2953.452393 ms for audio thread.
+[2022.05.30-18.17.44:445][983]LogAudio: Display: Waited 2988.447021 ms for audio thread.
+[2022.05.30-18.17.44:481][983]LogAudio: Display: Waited 3024.453613 ms for audio thread.
+[2022.05.30-18.17.44:517][983]LogAudio: Display: Waited 3060.451172 ms for audio thread.
+[2022.05.30-18.17.44:552][983]LogAudio: Display: Waited 3095.451416 ms for audio thread.
+[2022.05.30-18.17.44:587][983]LogAudio: Display: Waited 3130.455078 ms for audio thread.
+[2022.05.30-18.17.44:623][983]LogAudio: Display: Waited 3166.451416 ms for audio thread.
+[2022.05.30-18.17.44:659][983]LogAudio: Display: Waited 3202.462402 ms for audio thread.
+[2022.05.30-18.17.44:694][983]LogAudio: Display: Waited 3237.446533 ms for audio thread.
+[2022.05.30-18.17.44:729][983]LogAudio: Display: Waited 3272.451416 ms for audio thread.
+[2022.05.30-18.17.44:764][983]LogAudio: Display: Waited 3307.457764 ms for audio thread.
+[2022.05.30-18.17.44:800][983]LogAudio: Display: Waited 3343.449951 ms for audio thread.
+[2022.05.30-18.17.44:835][983]LogAudio: Display: Waited 3378.449951 ms for audio thread.
+[2022.05.30-18.17.44:871][983]LogAudio: Display: Waited 3414.452637 ms for audio thread.
+[2022.05.30-18.17.44:907][983]LogAudio: Display: Waited 3450.447266 ms for audio thread.
+[2022.05.30-18.17.44:943][983]LogAudio: Display: Waited 3486.450439 ms for audio thread.
+[2022.05.30-18.17.44:979][983]LogAudio: Display: Waited 3522.448242 ms for audio thread.
+[2022.05.30-18.17.45:015][983]LogAudio: Display: Waited 3558.452393 ms for audio thread.
+[2022.05.30-18.17.45:051][983]LogAudio: Display: Waited 3594.447754 ms for audio thread.
+[2022.05.30-18.17.45:086][983]LogAudio: Display: Waited 3629.452148 ms for audio thread.
+[2022.05.30-18.17.45:122][983]LogAudio: Display: Waited 3665.450928 ms for audio thread.
+[2022.05.30-18.17.45:158][983]LogAudio: Display: Waited 3701.458008 ms for audio thread.
+[2022.05.30-18.17.45:193][983]LogAudio: Display: Waited 3736.450195 ms for audio thread.
+[2022.05.30-18.17.45:228][983]LogAudio: Display: Waited 3771.456787 ms for audio thread.
+[2022.05.30-18.17.45:264][983]LogAudio: Display: Waited 3807.449707 ms for audio thread.
+[2022.05.30-18.17.45:299][983]LogAudio: Display: Waited 3842.449707 ms for audio thread.
+[2022.05.30-18.17.45:335][983]LogAudio: Display: Waited 3878.453369 ms for audio thread.
+[2022.05.30-18.17.45:370][983]LogAudio: Display: Waited 3913.450195 ms for audio thread.
+[2022.05.30-18.17.45:405][983]LogAudio: Display: Waited 3948.453857 ms for audio thread.
+[2022.05.30-18.17.45:441][983]LogAudio: Display: Waited 3984.451660 ms for audio thread.
+[2022.05.30-18.17.45:477][983]LogAudio: Display: Waited 4020.449707 ms for audio thread.
+[2022.05.30-18.17.45:512][983]LogAudio: Display: Waited 4055.455566 ms for audio thread.
+[2022.05.30-18.17.45:548][983]LogAudio: Display: Waited 4091.453125 ms for audio thread.
+[2022.05.30-18.17.45:584][983]LogAudio: Display: Waited 4127.445801 ms for audio thread.
+[2022.05.30-18.17.45:619][983]LogAudio: Display: Waited 4162.450195 ms for audio thread.
+[2022.05.30-18.17.45:654][983]LogAudio: Display: Waited 4197.454102 ms for audio thread.
+[2022.05.30-18.17.45:690][983]LogAudio: Display: Waited 4233.459961 ms for audio thread.
+[2022.05.30-18.17.45:726][983]LogAudio: Display: Waited 4269.455566 ms for audio thread.
+[2022.05.30-18.17.45:762][983]LogAudio: Display: Waited 4305.449707 ms for audio thread.
+[2022.05.30-18.17.45:798][983]LogAudio: Display: Waited 4341.452637 ms for audio thread.
+[2022.05.30-18.17.45:834][983]LogAudio: Display: Waited 4377.449707 ms for audio thread.
+[2022.05.30-18.17.45:870][983]LogAudio: Display: Waited 4413.452148 ms for audio thread.
+[2022.05.30-18.17.45:906][983]LogAudio: Display: Waited 4449.449707 ms for audio thread.
+[2022.05.30-18.17.45:941][983]LogAudio: Display: Waited 4484.448242 ms for audio thread.
+[2022.05.30-18.17.45:977][983]LogAudio: Display: Waited 4520.444336 ms for audio thread.
+[2022.05.30-18.17.46:012][983]LogAudio: Display: Waited 4555.453125 ms for audio thread.
+[2022.05.30-18.17.46:048][983]LogAudio: Display: Waited 4591.449707 ms for audio thread.
+[2022.05.30-18.17.46:083][983]LogAudio: Display: Waited 4626.447754 ms for audio thread.
+[2022.05.30-18.17.46:118][983]LogAudio: Display: Waited 4661.458008 ms for audio thread.
+[2022.05.30-18.17.46:154][983]LogAudio: Display: Waited 4697.448730 ms for audio thread.
+[2022.05.30-18.17.46:189][983]LogAudio: Display: Waited 4732.452148 ms for audio thread.
+[2022.05.30-18.17.46:225][983]LogAudio: Display: Waited 4768.449219 ms for audio thread.
+[2022.05.30-18.17.46:261][983]LogAudio: Display: Waited 4804.453125 ms for audio thread.
+[2022.05.30-18.17.46:296][983]LogAudio: Display: Waited 4839.451172 ms for audio thread.
+[2022.05.30-18.17.46:331][983]LogAudio: Display: Waited 4874.455078 ms for audio thread.
+[2022.05.30-18.17.46:367][983]LogAudio: Display: Waited 4910.448730 ms for audio thread.
+[2022.05.30-18.17.46:403][983]LogAudio: Display: Waited 4946.458008 ms for audio thread.
+[2022.05.30-18.17.46:439][983]LogAudio: Display: Waited 4982.450195 ms for audio thread.
+[2022.05.30-18.17.46:475][983]LogAudio: Display: Waited 5018.454590 ms for audio thread.
+[2022.05.30-18.17.46:510][983]LogAudio: Display: Waited 5053.453125 ms for audio thread.
+[2022.05.30-18.17.46:546][983]LogAudio: Display: Waited 5089.450684 ms for audio thread.
+[2022.05.30-18.17.46:581][983]LogAudio: Display: Waited 5124.452637 ms for audio thread.
+[2022.05.30-18.17.46:600][983]LogAudio: Display: Waited 5144.079590 ms for audio thread.
+[2022.05.30-18.17.46:601][984]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.30-18.17.46:629][985]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.30-18.17.46:629][985]LogAudioMixer: Display: 1: FrontRight
+[2022.05.30-18.18.27:866][440]LogPixelStreamingSS: <- SS: {"type":"pong","time":1653934707}
+[2022.05.30-18.18.45:135][475]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2022.05.30-18.18.45:135][475]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.30-18.18.45:135][475]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.05.30-18.19.27:845][ 34]LogPixelStreamingSS: <- SS: {"type":"pong","time":1653934767}
+[2022.05.30-18.19.38:081][648]LogPixelStreamingSS: <- SS: {"type":"offer","sdp":"v=0\r\no=- 539531639309948853 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1 2\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 102 122 127 121 125 107 108 109 124 120 123 119 35 36 37 38 39 40 41 42 114 115 116 117 118 43\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:L9uL\r\na=ice-pwd:8f2NCCpPNgr/eOwq7881oG/C\r\na=ice-options:trickle\r\na=fingerprint:sha-256 1F:49:70:8E:EE:D1:B3:5B:4E:31:90:C5:DB:20:AA:EA:27:FA:2B:81:F6:04:64:0B:70:23:A9:06:C9:C2:E7:1D\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 urn:3gpp:video-orientation\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:5 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\na=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\na=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=extmap:10 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\r\na=extmap:11 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\r\na=recvonly\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=96\r\na=rtpmap:98 VP9/90000\r\na=rtcp-fb:98 goog-remb\r\na=rtcp-fb:98 transport-cc\r\na=rtcp-fb:98 ccm fir\r\na=rtcp-fb:98 nack\r\na=rtcp-fb:98 nack pli\r\na=fmtp:98 profile-id=0\r\na=rtpmap:99 rtx/90000\r\na=fmtp:99 apt=98\r\na=rtpmap:100 VP9/90000\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=fmtp:100 profile-id=2\r\na=rtpmap:101 rtx/90000\r\na=fmtp:101 apt=100\r\na=rtpmap:102 VP9/90000\r\na=rtcp-fb:102 goog-remb\r\na=rtcp-fb:102 transport-cc\r\na=rtcp-fb:102 ccm fir\r\na=rtcp-fb:102 nack\r\na=rtcp-fb:102 nack pli\r\na=fmtp:102 profile-id=1\r\na=rtpmap:122 rtx/90000\r\na=fmtp:122 apt=102\r\na=rtpmap:127 H264/90000\r\na=rtcp-fb:127 goog-remb\r\na=rtcp-fb:127 transport-cc\r\na=rtcp-fb:127 ccm fir\r\na=rtcp-fb:127 nack\r\na=rtcp-fb:127 nack pli\r\na=fmtp:127 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f\r\na=rtpmap:121 rtx/90000\r\na=fmtp:121 apt=127\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 goog-remb\r\na=rtcp-fb:125 transport-cc\r\na=rtcp-fb:125 ccm fir\r\na=rtcp-fb:125 nack\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f\r\na=rtpmap:107 rtx/90000\r\na=fmtp:107 apt=125\r\na=rtpmap:108 H264/90000\r\na=rtcp-fb:108 goog-remb\r\na=rtcp-fb:108 transport-cc\r\na=rtcp-fb:108 ccm fir\r\na=rtcp-fb:108 nack\r\na=rtcp-fb:108 nack pli\r\na=fmtp:108 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:109 rtx/90000\r\na=fmtp:109 apt=108\r\na=rtpmap:124 H264/90000\r\na=rtcp-fb:124 goog-remb\r\na=rtcp-fb:124 transport-cc\r\na=rtcp-fb:124 ccm fir\r\na=rtcp-fb:124 nack\r\na=rtcp-fb:124 nack pli\r\na=fmtp:124 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\na=rtpmap:120 rtx/90000\r\na=fmtp:120 apt=124\r\na=rtpmap:123 H264/90000\r\na=rtcp-fb:123 goog-remb\r\na=rtcp-fb:123 transport-cc\r\na=rtcp-fb:123 ccm fir\r\na=rtcp-fb:123 nack\r\na=rtcp-fb:123 nack pli\r\na=fmtp:123 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=4d001f\r\na=rtpmap:119 rtx/90000\r\na=fmtp:119 apt=123\r\na=rtpmap:35 H264/90000\r\na=rtcp-fb:35 goog-remb\r\na=rtcp-fb:35 transport-cc\r\na=rtcp-fb:35 ccm fir\r\na=rtcp-fb:35 nack\r\na=rtcp-fb:35 nack pli\r\na=fmtp:35 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=4d001f\r\na=rtpmap:36 rtx/90000\r\na=fmtp:36 apt=35\r\na=rtpmap:37 H264/90000\r\na=rtcp-fb:37 goog-remb\r\na=rtcp-fb:37 transport-cc\r\na=rtcp-fb:37 ccm fir\r\na=rtcp-fb:37 nack\r\na=rtcp-fb:37 nack pli\r\na=fmtp:37 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=f4001f\r\na=rtpmap:38 rtx/90000\r\na=fmtp:38 apt=37\r\na=rtpmap:39 H264/90000\r\na=rtcp-fb:39 goog-remb\r\na=rtcp-fb:39 transport-cc\r\na=rtcp-fb:39 ccm fir\r\na=rtcp-fb:39 nack\r\na=rtcp-fb:39 nack pli\r\na=fmtp:39 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=f4001f\r\na=rtpmap:40 rtx/90000\r\na=fmtp:40 apt=39\r\na=rtpmap:41 AV1/90000\r\na=rtcp-fb:41 goog-remb\r\na=rtcp-fb:41 transport-cc\r\na=rtcp-fb:41 ccm fir\r\na=rtcp-fb:41 nack\r\na=rtcp-fb:41 nack pli\r\na=rtpmap:42 rtx/90000\r\na=fmtp:42 apt=41\r\na=rtpmap:114 H264/90000\r\na=rtcp-fb:114 goog-remb\r\na=rtcp-fb:114 transport-cc\r\na=rtcp-fb:114 ccm fir\r\na=rtcp-fb:114 nack\r\na=rtcp-fb:114 nack pli\r\na=fmtp:114 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=64001f\r\na=rtpmap:115 rtx/90000\r\na=fmtp:115 apt=114\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 rtx/90000\r\na=fmtp:117 apt=116\r\na=rtpmap:118 ulpfec/90000\r\na=rtpmap:43 flexfec-03/90000\r\na=rtcp-fb:43 goog-remb\r\na=rtcp-fb:43 transport-cc\r\na=fmtp:43 repair-window=10000000\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 63 103 104 9 0 8 110 112 113 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:L9uL\r\na=ice-pwd:8f2NCCpPNgr/eOwq7881oG/C\r\na=ice-options:trickle\r\na=fingerprint:sha-256 1F:49:70:8E:EE:D1:B3:5B:4E:31:90:C5:DB:20:AA:EA:27:FA:2B:81:F6:04:64:0B:70:23:A9:06:C9:C2:E7:1D\r\na=setup:actpass\r\na=mid:1\r\na=extmap:14 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1;stereo=1;sprop-maxcapturerate=48000\r\na=rtpmap:63 red/48000/2\r\na=fmtp:63 111/111\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:112 telephone-event/32000\r\na=rtpmap:113 telephone-event/16000\r\na=rtpmap:126 telephone-event/8000\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:L9uL\r\na=ice-pwd:8f2NCCpPNgr/eOwq7881oG/C\r\na=ice-options:trickle\r\na=fingerprint:sha-256 1F:49:70:8E:EE:D1:B3:5B:4E:31:90:C5:DB:20:AA:EA:27:FA:2B:81:F6:04:64:0B:70:23:A9:06:C9:C2:E7:1D\r\na=setup:actpass\r\na=mid:2\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n","playerId":"127"}
+[2022.05.30-18.19.38:094][648]PixelStreamer: Creating player session for PlayerId=127
+[2022.05.30-18.19.38:094][648]PixelStreamer: Created FPlayerSession::FPlayerSession: PlayerId=127
+[2022.05.30-18.19.38:094][648]PixelStreamer: Quality controller is now PlayerId=127.
+[2022.05.30-18.19.38:094][648]PixelStreamer: FPlayerSession::OnRenegotiationNeeded : PlayerId=127
+[2022.05.30-18.19.38:094][648]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=127, NewState=HaveRemoteOffer
+[2022.05.30-18.19.38:105][649]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=127, NewState=Stable
+[2022.05.30-18.19.38:105][649]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=127, NewState=IceGatheringGathering
+[2022.05.30-18.19.38:105][649]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=127
+[2022.05.30-18.19.38:105][649]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:505434299 1 udp 2113937151 400cb899-1983-4dc6-95e1-723a44ab3320.local 50721 typ host generation 0 ufrag L9uL network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"127"}
+[2022.05.30-18.19.38:105][649]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:743499670 1 udp 2113939711 66f7e8c3-1321-4091-a637-9aba5cc3f0d9.local 50722 typ host generation 0 ufrag L9uL network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"127"}
+[2022.05.30-18.19.38:105][649]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:505434299 1 udp 2113937151 400cb899-1983-4dc6-95e1-723a44ab3320.local 50723 typ host generation 0 ufrag L9uL network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"127"}
+[2022.05.30-18.19.38:105][649]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:743499670 1 udp 2113939711 66f7e8c3-1321-4091-a637-9aba5cc3f0d9.local 50724 typ host generation 0 ufrag L9uL network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"127"}
+[2022.05.30-18.19.38:105][649]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:505434299 1 udp 2113937151 400cb899-1983-4dc6-95e1-723a44ab3320.local 50725 typ host generation 0 ufrag L9uL network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"127"}
+[2022.05.30-18.19.38:105][649]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:743499670 1 udp 2113939711 66f7e8c3-1321-4091-a637-9aba5cc3f0d9.local 50726 typ host generation 0 ufrag L9uL network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"127"}
+[2022.05.30-18.19.38:105][649]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=127, NewState=IceConnectionChecking
+[2022.05.30-18.19.38:122][650]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=127
+[2022.05.30-18.19.38:122][650]PixelStreamer: Encoder factory addded new encoder - soon to be associated with a player.
+[2022.05.30-18.19.38:122][650]PixelStreamer: PixelStreaming video encoder CONFIG INITIALISED - unassociated with player for now.
+[2022.05.30-18.19.38:122][650]PixelStreamer: PixelStreaming video encoder CALLBACK REGISTERED - unassociated with player for now.
+[2022.05.30-18.19.38:206][655]PixelStreamer: FPlayerSession::OnIceCandidate : PlayerId=127
+[2022.05.30-18.19.38:206][655]PixelStreamer: FPlayerSession::OnIceGatheringChange : PlayerId=127, NewState=IceGatheringComplete
+[2022.05.30-18.19.38:522][674]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 103.151.188.26 11461 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag L9uL network-cost 999","sdpMid":"1","sdpMLineIndex":1},"playerId":"127"}
+[2022.05.30-18.19.38:522][674]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 103.151.188.26 11459 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag L9uL network-cost 999","sdpMid":"0","sdpMLineIndex":0},"playerId":"127"}
+[2022.05.30-18.19.38:522][674]LogPixelStreamingSS: <- SS: {"type":"iceCandidate","candidate":{"candidate":"candidate:842163049 1 udp 1677729535 103.151.188.26 11462 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag L9uL network-cost 999","sdpMid":"2","sdpMLineIndex":2},"playerId":"127"}
+[2022.05.30-18.19.53:538][575]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=127, NewState=IceConnectionFailed
+[2022.05.30-18.20.27:852][633]LogPixelStreamingSS: <- SS: {"type":"pong","time":1653934827}
+[2022.05.30-18.20.38:503][272]LogPixelStreamingSS: <- SS: {"type":"playerDisconnected","playerId":"127"}
+[2022.05.30-18.20.38:503][272]PixelStreamer: player 127 disconnected
+[2022.05.30-18.20.38:507][272]PixelStreamer: FPlayerSession::~FPlayerSession: PlayerId=127
+[2022.05.30-18.20.38:507][272]PixelStreamer: FPlayerSession::OnIceConnectionChange : PlayerId=127, NewState=IceConnectionClosed
+[2022.05.30-18.20.38:507][272]PixelStreamer: FPlayerSession::OnSignalingChange : PlayerId=127, NewState=Closed
+[2022.05.30-18.20.38:507][272]PixelStreamer: PixelStreaming video encoder RELEASED for PlayerId=Invalid Player Id
+[2022.05.30-18.20.38:507][272]PixelStreamer: Encoder factory asked to remove encoder for PlayerId=Invalid Player Id
+[2022.05.30-18.21.27:838][232]LogPixelStreamingSS: <- SS: {"type":"pong","time":1653934887}
+[2022.05.30-18.21.47:458][392]LogAudioMixer: Warning: Changing default audio render device to new device: {3.0.0.00000002}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}.
+[2022.05.30-18.21.47:458][392]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.30-18.21.47:458][392]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.05.30-18.21.47:512][392]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.30-18.21.47:512][392]LogAudioMixer: Display: 1: FrontRight
+[2022.05.30-18.21.47:512][392]LogAudio: Display: Waited 35.160702 ms for audio thread.
+[2022.05.30-18.21.47:547][392]LogAudio: Display: Waited 70.161697 ms for audio thread.
+[2022.05.30-18.21.47:582][392]LogAudio: Display: Waited 105.172798 ms for audio thread.
+[2022.05.30-18.21.47:618][392]LogAudio: Display: Waited 141.154999 ms for audio thread.
+[2022.05.30-18.21.47:653][392]LogAudio: Display: Waited 176.159302 ms for audio thread.
+[2022.05.30-18.21.47:689][392]LogAudio: Display: Waited 212.143997 ms for audio thread.
+[2022.05.30-18.21.47:724][392]LogAudio: Display: Waited 247.349792 ms for audio thread.
+[2022.05.30-18.21.47:760][392]LogAudio: Display: Waited 283.158386 ms for audio thread.
+[2022.05.30-18.21.47:795][392]LogAudio: Display: Waited 318.162201 ms for audio thread.
+[2022.05.30-18.21.47:831][392]LogAudio: Display: Waited 354.169617 ms for audio thread.
+[2022.05.30-18.21.47:866][392]LogAudio: Display: Waited 389.165710 ms for audio thread.
+[2022.05.30-18.21.47:902][392]LogAudio: Display: Waited 425.162903 ms for audio thread.
+[2022.05.30-18.21.47:937][392]LogAudio: Display: Waited 460.162781 ms for audio thread.
+[2022.05.30-18.21.47:973][392]LogAudio: Display: Waited 496.152802 ms for audio thread.
+[2022.05.30-18.21.48:008][392]LogAudio: Display: Waited 531.163879 ms for audio thread.
+[2022.05.30-18.21.48:044][392]LogAudio: Display: Waited 567.156982 ms for audio thread.
+[2022.05.30-18.21.48:080][392]LogAudio: Display: Waited 603.162720 ms for audio thread.
+[2022.05.30-18.21.48:116][392]LogAudio: Display: Waited 639.158020 ms for audio thread.
+[2022.05.30-18.21.48:151][392]LogAudio: Display: Waited 674.161499 ms for audio thread.
+[2022.05.30-18.21.48:187][392]LogAudio: Display: Waited 710.162720 ms for audio thread.
+[2022.05.30-18.21.48:223][392]LogAudio: Display: Waited 746.157532 ms for audio thread.
+[2022.05.30-18.21.48:259][392]LogAudio: Display: Waited 782.145508 ms for audio thread.
+[2022.05.30-18.21.48:294][392]LogAudio: Display: Waited 817.180786 ms for audio thread.
+[2022.05.30-18.21.48:329][392]LogAudio: Display: Waited 852.182312 ms for audio thread.
+[2022.05.30-18.21.48:365][392]LogAudio: Display: Waited 888.171814 ms for audio thread.
+[2022.05.30-18.21.48:401][392]LogAudio: Display: Waited 924.159302 ms for audio thread.
+[2022.05.30-18.21.48:437][392]LogAudio: Display: Waited 960.172180 ms for audio thread.
+[2022.05.30-18.21.48:473][392]LogAudio: Display: Waited 996.154297 ms for audio thread.
+[2022.05.30-18.21.48:508][392]LogAudio: Display: Waited 1031.175781 ms for audio thread.
+[2022.05.30-18.21.48:543][392]LogAudio: Display: Waited 1066.178589 ms for audio thread.
+[2022.05.30-18.21.48:579][392]LogAudio: Display: Waited 1102.161987 ms for audio thread.
+[2022.05.30-18.21.48:615][392]LogAudio: Display: Waited 1138.135254 ms for audio thread.
+[2022.05.30-18.21.48:650][392]LogAudio: Display: Waited 1173.166748 ms for audio thread.
+[2022.05.30-18.21.48:685][392]LogAudio: Display: Waited 1208.163208 ms for audio thread.
+[2022.05.30-18.21.48:721][392]LogAudio: Display: Waited 1244.164307 ms for audio thread.
+[2022.05.30-18.21.48:757][392]LogAudio: Display: Waited 1280.140991 ms for audio thread.
+[2022.05.30-18.21.48:792][392]LogAudio: Display: Waited 1315.161011 ms for audio thread.
+[2022.05.30-18.21.48:828][392]LogAudio: Display: Waited 1351.156860 ms for audio thread.
+[2022.05.30-18.21.48:864][392]LogAudio: Display: Waited 1387.134277 ms for audio thread.
+[2022.05.30-18.21.48:893][392]LogAudio: Display: Waited 1416.888062 ms for audio thread.
+[2022.05.30-18.21.48:894][393]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.30-18.21.48:920][394]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.30-18.21.48:920][394]LogAudioMixer: Display: 1: FrontRight
