@@ -7,6 +7,7 @@ Integrating rapyd checkout page with cloud streaming game powered by unreal engi
 3. Created custom 3D metahuman from metahuman editor and is mapped with the throd person template mannequin skeleton.
 4. Created thrid person and first person camera swapping feature.
 5. Created Gold coins and coin counter feature along with VARest plugin for REST Api integration.
+![alt text](./screenshots/6.png)
 ![alt text](./screenshots/1.jpg)
 ## RESTful API integration on game
 1. The Lambda functions are on **LambdaFunctions** folder with Rapyd ID creation for guests, putting the Rapyd ID along with success or failure boolean values(0&1) on dynamodb database, getting values and much more.
