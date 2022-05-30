@@ -8,8 +8,8 @@ import hashlib
 import time
 
 base_url = 'https://sandboxapi.rapyd.net'
-access_key = 'F05358A0C7CA4B3DB2C5'
-secret_key = 'fd182dca4c4dd6a2d97da94023b35ea50c3a70b4c0867d9980679beded403e6b3ba5653c7fac98c8'
+access_key = 'F05358A********'
+secret_key = 'fd182dca4c4dd6a2d97da94023b35ea50c3a70b4c*************'
 
 def generate_salt(length=12):
     return ''.join(random.sample(string.ascii_letters + string.digits, length))
