@@ -9,7 +9,7 @@ Integrating rapyd checkout page with cloud streaming game powered by unreal engi
 5. Created Gold coins and coin counter feature along with VARest plugin for REST Api integration.
 ![alt text](./screenshots/1.jpg)
 ## RESTful API integration on game
-1. The Lambda functions are Rapyd ID creation for guests, putting the Rapyd ID along with success or failure boolean values(0&1) on dynamodb database.
+1. The Lambda functions are on **LambdaFunctions** folder with Rapyd ID creation for guests, putting the Rapyd ID along with success or failure boolean values(0&1) on dynamodb database, getting values and much more.
 ![alt text](./screenshots/2.jpg)
 ## Running the app. 
 1. The app can be run with standard support on pixel streaming. https://docs.unrealengine.com/5.0/en-US/pixel-streaming-in-unreal-engine/
